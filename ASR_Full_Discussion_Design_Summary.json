@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-19",
+  "retained_publications": 60,
+  "retained_post_records": 63169,
+  "captured_discussion_posts": 5858,
+  "comment_and_reply_records": 1021585,
+  "top_level_records": 467987,
+  "reply_records": 553598,
+  "strict_author_reply_posts": 1714,
+  "strict_author_reader_pairs": 8569,
+  "discussion_posts_public_prose150plus": 5854,
+  "eligible_reader_comments": 781144,
+  "eligible_comment_posts": 5133,
+  "downloaded_asr_verified": 6,
+  "pilot_focal_comments": 116,
+  "pilot_baseline_comments": 32,
+  "pilot_clear_writer_fidelity_disputes": 3,
+  "full_sample_semantic_tests_completed": false,
+  "paid_api_calls": 0
+}
