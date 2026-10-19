@@ -1,13 +1,13 @@
 {
-  "checkpoint_utc": "2026-10-19T17:56:44.398266+00:00",
-  "checkpoint_new_york": "October 19, 2026, 01:56 PM EDT",
+  "checkpoint_utc": "2026-10-19T17:59:18.271440+00:00",
+  "checkpoint_new_york": "October 19, 2026, 01:59 PM EDT",
   "phase": "collecting_archives_and_preview_comments",
   "status_plain_language": "Collecting posts and initial comment discussions",
   "publication_target": 50,
-  "publications_with_post_records": 48,
-  "post_records": 4481,
-  "comment_records": 3647,
-  "captured_discussions": 86,
+  "publications_with_post_records": 50,
+  "post_records": 8284,
+  "comment_records": 3810,
+  "captured_discussions": 92,
   "archives_at_terminal_state": 3,
   "note": "Static checkpoint, not a live feed. Expansion counts are preliminary and separate from the original fifty."
 }
