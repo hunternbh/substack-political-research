@@ -1,0 +1,879 @@
+{
+  "prepared_at_utc": "2026-10-19T19:38:45.804417+00:00",
+  "question": "When political writers challenge their own side, how do readers negotiate whether the writer owes them political loyalty or independent judgment?",
+  "judgment": "The broader story of contested editorial authority is supported as a qualitative research opportunity. The narrow coalition-loyalty mechanism is rare and concentrated in this pilot, and causal audience capture or later position change is not established.",
+  "totals": {
+    "n": 300,
+    "no_captured_reply_7d": 180,
+    "any_captured_reply_7d": 120,
+    "matched_writer_reply_7d": 30,
+    "writer_challenges": 61,
+    "central_role_challenges": 42,
+    "role_affirmations": 17,
+    "coalition_claims": 5
+  },
+  "arms": [
+    {
+      "arm": "random_discussion",
+      "n": 150,
+      "no_captured_reply_7d": 103,
+      "any_captured_reply_7d": 47,
+      "matched_writer_reply_7d": 13,
+      "writer_challenges": 16,
+      "central_role_challenges": 11,
+      "role_affirmations": 10,
+      "coalition_claims": 1
+    },
+    {
+      "arm": "screened_discussion",
+      "n": 135,
+      "no_captured_reply_7d": 71,
+      "any_captured_reply_7d": 64,
+      "matched_writer_reply_7d": 15,
+      "writer_challenges": 43,
+      "central_role_challenges": 29,
+      "role_affirmations": 7,
+      "coalition_claims": 3
+    },
+    {
+      "arm": "screened_discussion_random_fill",
+      "n": 15,
+      "no_captured_reply_7d": 6,
+      "any_captured_reply_7d": 9,
+      "matched_writer_reply_7d": 2,
+      "writer_challenges": 2,
+      "central_role_challenges": 2,
+      "role_affirmations": 0,
+      "coalition_claims": 1
+    }
+  ],
+  "groups": [
+    {
+      "group": "Broad left or liberal",
+      "n": 120,
+      "no_captured_reply_7d": 79,
+      "any_captured_reply_7d": 41,
+      "matched_writer_reply_7d": 12,
+      "writer_challenges": 21,
+      "central_role_challenges": 16,
+      "role_affirmations": 6,
+      "coalition_claims": 4,
+      "publications": 6
+    },
+    {
+      "group": "Current right or conservative",
+      "n": 120,
+      "no_captured_reply_7d": 66,
+      "any_captured_reply_7d": 54,
+      "matched_writer_reply_7d": 18,
+      "writer_challenges": 19,
+      "central_role_challenges": 13,
+      "role_affirmations": 10,
+      "coalition_claims": 1,
+      "publications": 6
+    },
+    {
+      "group": "Center or moderate liberal",
+      "n": 60,
+      "no_captured_reply_7d": 35,
+      "any_captured_reply_7d": 25,
+      "matched_writer_reply_7d": 0,
+      "writer_challenges": 21,
+      "central_role_challenges": 13,
+      "role_affirmations": 1,
+      "coalition_claims": 0,
+      "publications": 1
+    }
+  ],
+  "publications": [
+    {
+      "rank": 7,
+      "publication": "Silver Bulletin",
+      "group": "Center or moderate liberal",
+      "n": 60,
+      "no_captured_reply_7d": 35,
+      "any_captured_reply_7d": 25,
+      "matched_writer_reply_7d": 0,
+      "writer_challenges": 21,
+      "central_role_challenges": 13,
+      "role_affirmations": 1,
+      "coalition_claims": 0
+    },
+    {
+      "rank": 13,
+      "publication": "Adam Kinzinger",
+      "group": "Current right or conservative",
+      "n": 20,
+      "no_captured_reply_7d": 14,
+      "any_captured_reply_7d": 6,
+      "matched_writer_reply_7d": 3,
+      "writer_challenges": 0,
+      "central_role_challenges": 0,
+      "role_affirmations": 0,
+      "coalition_claims": 0
+    },
+    {
+      "rank": 15,
+      "publication": "Steady",
+      "group": "Broad left or liberal",
+      "n": 20,
+      "no_captured_reply_7d": 13,
+      "any_captured_reply_7d": 7,
+      "matched_writer_reply_7d": 0,
+      "writer_challenges": 1,
+      "central_role_challenges": 0,
+      "role_affirmations": 1,
+      "coalition_claims": 0
+    },
+    {
+      "rank": 34,
+      "publication": "Rick Wilson’s Against All Enemies",
+      "group": "Current right or conservative",
+      "n": 20,
+      "no_captured_reply_7d": 15,
+      "any_captured_reply_7d": 5,
+      "matched_writer_reply_7d": 1,
+      "writer_challenges": 2,
+      "central_role_challenges": 2,
+      "role_affirmations": 0,
+      "coalition_claims": 0
+    },
+    {
+      "rank": 37,
+      "publication": "To the Contrary",
+      "group": "Current right or conservative",
+      "n": 20,
+      "no_captured_reply_7d": 8,
+      "any_captured_reply_7d": 12,
+      "matched_writer_reply_7d": 0,
+      "writer_challenges": 3,
+      "central_role_challenges": 1,
+      "role_affirmations": 2,
+      "coalition_claims": 0
+    },
+    {
+      "rank": 41,
+      "publication": "The Argument",
+      "group": "Broad left or liberal",
+      "n": 20,
+      "no_captured_reply_7d": 16,
+      "any_captured_reply_7d": 4,
+      "matched_writer_reply_7d": 2,
+      "writer_challenges": 8,
+      "central_role_challenges": 7,
+      "role_affirmations": 1,
+      "coalition_claims": 2
+    },
+    {
+      "rank": 46,
+      "publication": "The Left Hook with Wajahat Ali",
+      "group": "Broad left or liberal",
+      "n": 20,
+      "no_captured_reply_7d": 18,
+      "any_captured_reply_7d": 2,
+      "matched_writer_reply_7d": 0,
+      "writer_challenges": 4,
+      "central_role_challenges": 4,
+      "role_affirmations": 2,
+      "coalition_claims": 0
+    },
+    {
+      "rank": 67,
+      "publication": "The Downballot",
+      "group": "Broad left or liberal",
+      "n": 20,
+      "no_captured_reply_7d": 6,
+      "any_captured_reply_7d": 14,
+      "matched_writer_reply_7d": 2,
+      "writer_challenges": 2,
+      "central_role_challenges": 2,
+      "role_affirmations": 0,
+      "coalition_claims": 0
+    },
+    {
+      "rank": 75,
+      "publication": "The Existentialist Republic",
+      "group": "Broad left or liberal",
+      "n": 20,
+      "no_captured_reply_7d": 12,
+      "any_captured_reply_7d": 8,
+      "matched_writer_reply_7d": 6,
+      "writer_challenges": 5,
+      "central_role_challenges": 2,
+      "role_affirmations": 1,
+      "coalition_claims": 2
+    },
+    {
+      "rank": 83,
+      "publication": "Our Moral Moment w/ Bishop William Barber & Jonathan Wilson-Hartgrove",
+      "group": "Broad left or liberal",
+      "n": 20,
+      "no_captured_reply_7d": 14,
+      "any_captured_reply_7d": 6,
+      "matched_writer_reply_7d": 2,
+      "writer_challenges": 1,
+      "central_role_challenges": 1,
+      "role_affirmations": 1,
+      "coalition_claims": 0
+    },
+    {
+      "rank": 86,
+      "publication": "Free Thinking Through the Fourth Turning with Sasha Stone",
+      "group": "Current right or conservative",
+      "n": 20,
+      "no_captured_reply_7d": 11,
+      "any_captured_reply_7d": 9,
+      "matched_writer_reply_7d": 2,
+      "writer_challenges": 5,
+      "central_role_challenges": 4,
+      "role_affirmations": 3,
+      "coalition_claims": 0
+    },
+    {
+      "rank": 88,
+      "publication": "Glenn Loury",
+      "group": "Current right or conservative",
+      "n": 20,
+      "no_captured_reply_7d": 14,
+      "any_captured_reply_7d": 6,
+      "matched_writer_reply_7d": 0,
+      "writer_challenges": 8,
+      "central_role_challenges": 5,
+      "role_affirmations": 5,
+      "coalition_claims": 0
+    },
+    {
+      "rank": 98,
+      "publication": "Declassified with Julie Kelly",
+      "group": "Current right or conservative",
+      "n": 20,
+      "no_captured_reply_7d": 4,
+      "any_captured_reply_7d": 16,
+      "matched_writer_reply_7d": 12,
+      "writer_challenges": 1,
+      "central_role_challenges": 1,
+      "role_affirmations": 0,
+      "coalition_claims": 1
+    }
+  ],
+  "domains_overlapping": [
+    {
+      "code": "a",
+      "domain": "Evidence and analytical standards",
+      "n": 31,
+      "no_captured_reply_7d": 17,
+      "any_captured_reply_7d": 14,
+      "matched_writer_reply_7d": 4,
+      "writer_challenges": 31,
+      "central_role_challenges": 31,
+      "role_affirmations": 0,
+      "coalition_claims": 1
+    },
+    {
+      "code": "i",
+      "domain": "Independence and broader viewpoints",
+      "n": 5,
+      "no_captured_reply_7d": 2,
+      "any_captured_reply_7d": 3,
+      "matched_writer_reply_7d": 0,
+      "writer_challenges": 5,
+      "central_role_challenges": 5,
+      "role_affirmations": 0,
+      "coalition_claims": 0
+    },
+    {
+      "code": "l",
+      "domain": "Coalition or ideological fidelity",
+      "n": 5,
+      "no_captured_reply_7d": 2,
+      "any_captured_reply_7d": 3,
+      "matched_writer_reply_7d": 3,
+      "writer_challenges": 5,
+      "central_role_challenges": 5,
+      "role_affirmations": 0,
+      "coalition_claims": 5
+    },
+    {
+      "code": "t",
+      "domain": "Tone, morale and care",
+      "n": 6,
+      "no_captured_reply_7d": 3,
+      "any_captured_reply_7d": 3,
+      "matched_writer_reply_7d": 1,
+      "writer_challenges": 6,
+      "central_role_challenges": 6,
+      "role_affirmations": 0,
+      "coalition_claims": 0
+    },
+    {
+      "code": "s",
+      "domain": "Remit, focus and presentation",
+      "n": 5,
+      "no_captured_reply_7d": 2,
+      "any_captured_reply_7d": 3,
+      "matched_writer_reply_7d": 0,
+      "writer_challenges": 5,
+      "central_role_challenges": 3,
+      "role_affirmations": 0,
+      "coalition_claims": 0
+    },
+    {
+      "code": "d",
+      "domain": "Substantive disagreement without an explicit role rule",
+      "n": 15,
+      "no_captured_reply_7d": 6,
+      "any_captured_reply_7d": 9,
+      "matched_writer_reply_7d": 1,
+      "writer_challenges": 15,
+      "central_role_challenges": 0,
+      "role_affirmations": 0,
+      "coalition_claims": 0
+    }
+  ],
+  "independence_affirmations": 14,
+  "independence_affirmation_publications": 6,
+  "independence_affirmations_no_reply": 9,
+  "coalition_claim_publications": 3,
+  "coalition_claim_discussions": 4,
+  "unique_reader_account_keys": 289,
+  "discussion_count": 30,
+  "nonpolitical_calibration_roots": 11,
+  "political_only": {
+    "n": 289,
+    "no_captured_reply_7d": 173,
+    "any_captured_reply_7d": 116,
+    "matched_writer_reply_7d": 30,
+    "writer_challenges": 61,
+    "central_role_challenges": 42,
+    "role_affirmations": 17,
+    "coalition_claims": 5
+  },
+  "within_discussion_account_deduplicated": {
+    "n": 293,
+    "no_captured_reply_7d": 176,
+    "any_captured_reply_7d": 117,
+    "matched_writer_reply_7d": 30,
+    "writer_challenges": 58,
+    "central_role_challenges": 39,
+    "role_affirmations": 17,
+    "coalition_claims": 5
+  },
+  "qualitative_reply_texts": 73,
+  "matched_writer_reply_texts": 30,
+  "root_child_gap_warnings": 0,
+  "cases": [
+    {
+      "case_id": "X150",
+      "title": "Political effectiveness versus analytic scrutiny",
+      "publication": "The Argument",
+      "article_title": "Does the oligarchy exist?",
+      "article_url": "https://www.theargumentmag.com/p/does-the-oligarchy-exist",
+      "interpretation": "A reader at The Argument says the hosts are overthinking an effective anti-oligarchy slogan before a midterm. The saved introduction explicitly contrasts Yglesias’s skepticism with the cohost’s more receptive position. No direct response was captured. This is a clear coalition-strategy demand, but a single case, not evidence of accommodation.",
+      "outcome": {
+        "case_id": "X150",
+        "external_direct_replies_7d": 0,
+        "listed_author_direct_replies_7d": 0,
+        "peer_direct_replies_7d": 0,
+        "no_captured_external_direct_reply_7d": true,
+        "root_reported_child_gap": false,
+        "qualitative_replies_selected": 0
+      }
+    },
+    {
+      "case_id": "X151",
+      "title": "Liberal identity versus unwelcome policy findings",
+      "publication": "The Argument",
+      "article_title": "Giving people money helped less than I thought it would",
+      "article_url": "https://www.theargumentmag.com/p/giving-people-money-helped-less-than",
+      "interpretation": "A reader objects that a supposedly liberal outlet is publishing a right-wing argument about cash transfers. Another selected reader, X157, explicitly values following evidence despite controversy. Neither receives a captured direct reply. The saved article supports targeted cash assistance while questioning broad chronic-poverty effects, so the objection should not be paraphrased as a response to a blanket rejection of helping poor people.",
+      "outcome": {
+        "case_id": "X151",
+        "external_direct_replies_7d": 0,
+        "listed_author_direct_replies_7d": 0,
+        "peer_direct_replies_7d": 0,
+        "no_captured_external_direct_reply_7d": true,
+        "root_reported_child_gap": false,
+        "qualitative_replies_selected": 0
+      }
+    },
+    {
+      "case_id": "X219",
+      "title": "Same writer, different responses to allied-party defense",
+      "publication": "The Existentialist Republic",
+      "article_title": "Is There Already a Plan to Remove Chuck Schumer as Senate Minority Leader?",
+      "article_url": "https://cmarmitage.substack.com/p/is-there-already-a-plan-to-remove",
+      "interpretation": "At The Existentialist Republic, two readers defend Democrats against the author’s Schumer criticism. The author calls X214 a fair take, but resists X219 and reiterates the original strategic argument. In X218, an ordinary substantive disagreement, the author acknowledges valid points while retaining the original position. The exchanges show negotiation and bounded recognition rather than uniform silencing or automatic concession.",
+      "outcome": {
+        "case_id": "X219",
+        "external_direct_replies_7d": 1,
+        "listed_author_direct_replies_7d": 1,
+        "peer_direct_replies_7d": 0,
+        "no_captured_external_direct_reply_7d": false,
+        "root_reported_child_gap": false,
+        "qualitative_replies_selected": 1
+      }
+    },
+    {
+      "case_id": "X255",
+      "title": "A writer explicitly defends the right not to choose a side",
+      "publication": "Free Thinking Through the Fourth Turning with Sasha Stone",
+      "article_title": "Friday News Dump - Candace Out, Kate's Cancer Diagnosis, Moscow Attacked and More ",
+      "article_url": "https://www.sashastone.com/p/friday-news-dump-candace-out-kates",
+      "interpretation": "Stone’s article admits limited knowledge of Israel/Gaza while making some substantive judgments. X255 urges historical education; Stone replies that sources are polarized and explicitly refuses pressure to choose a side here. X254 asks for honesty about civilian harm. X257 says disagreement is compatible with paying attention because the writer admits uncertainty. Readers therefore press and protect independence in the same discussion; the author’s neutrality should not be assumed complete.",
+      "outcome": {
+        "case_id": "X255",
+        "external_direct_replies_7d": 1,
+        "listed_author_direct_replies_7d": 1,
+        "peer_direct_replies_7d": 0,
+        "no_captured_external_direct_reply_7d": false,
+        "root_reported_child_gap": false,
+        "qualitative_replies_selected": 1
+      }
+    },
+    {
+      "case_id": "X291",
+      "title": "Partial accommodation without abandoning the article’s stance",
+      "publication": "Declassified with Julie Kelly",
+      "article_title": "The January 6 Rules",
+      "article_url": "https://www.declassified.live/p/the-january-6-rules",
+      "interpretation": "A longtime Kelly reader praises her work but says Michael Tracey is not the main villain. Kelly acknowledges his past work and agrees he is less culpable than officials, while retaining her criticism and the retaliatory argument. This is an observable qualification in a reply, not evidence of a later article reversal.",
+      "outcome": {
+        "case_id": "X291",
+        "external_direct_replies_7d": 1,
+        "listed_author_direct_replies_7d": 1,
+        "peer_direct_replies_7d": 0,
+        "no_captured_external_direct_reply_7d": false,
+        "root_reported_child_gap": false,
+        "qualitative_replies_selected": 1
+      }
+    },
+    {
+      "case_id": "X264",
+      "title": "Subscribers can support disagreement rather than enforce conformity",
+      "publication": "Glenn Loury",
+      "article_title": "I Was Fired by the Manhattan Institute. Here's Why. ",
+      "article_url": "https://glennloury.substack.com/p/i-was-fired-by-the-manhattan-institute",
+      "interpretation": "In Loury’s discussion of his break with the Manhattan Institute, readers explicitly stay despite disagreement and value independence over funder preferences. Fourteen selected roots across six publications affirm independence, nine with no captured reply. Loury’s article gives his own account of the institutional dispute; the pilot does not independently establish why the institution ended the relationship.",
+      "outcome": {
+        "case_id": "X264",
+        "external_direct_replies_7d": 1,
+        "listed_author_direct_replies_7d": 0,
+        "peer_direct_replies_7d": 1,
+        "no_captured_external_direct_reply_7d": false,
+        "root_reported_child_gap": false,
+        "qualitative_replies_selected": 1
+      }
+    },
+    {
+      "case_id": "X178",
+      "title": "Peers can police a critic’s right to set the agenda",
+      "publication": "The Left Hook with Wajahat Ali",
+      "article_title": "The Israelification of the United States of Billionaires",
+      "article_url": "https://thelefthook.substack.com/p/the-israelification-of-the-united",
+      "interpretation": "A Left Hook reader accuses the outlet of selective condemnation. One peer disputes that framing; another calls the critic a troll/bot, objects to distraction and tells the critic to start a separate newsletter. Those accusations are the peer’s claims, not verified identities. No matched writer reply is captured. This illustrates boundary enforcement by participants rather than author accommodation.",
+      "outcome": {
+        "case_id": "X178",
+        "external_direct_replies_7d": 3,
+        "listed_author_direct_replies_7d": 0,
+        "peer_direct_replies_7d": 3,
+        "no_captured_external_direct_reply_7d": false,
+        "root_reported_child_gap": false,
+        "qualitative_replies_selected": 2
+      }
+    },
+    {
+      "case_id": "X188",
+      "title": "Corrections are observable, but edit timing matters",
+      "publication": "The Downballot",
+      "article_title": "Morning Digest: Mitch McConnell, one of the most powerful leaders in Senate history, announces retirement",
+      "article_url": "https://www.the-downballot.com/p/morning-digest-mitch-mcconnell-one",
+      "interpretation": "Two Downballot readers request concrete corrections, and the author says each was fixed. The stored article already has the corrected spelling in X188. We lack paired before/after versions and should describe acknowledged corrections, rather than infer an independently verified edit sequence caused by the comment.",
+      "outcome": {
+        "case_id": "X188",
+        "external_direct_replies_7d": 1,
+        "listed_author_direct_replies_7d": 1,
+        "peer_direct_replies_7d": 0,
+        "no_captured_external_direct_reply_7d": false,
+        "root_reported_child_gap": false,
+        "qualitative_replies_selected": 1
+      }
+    }
+  ],
+  "sampling_design": {
+    "frozen_at_utc": "2026-10-19T19:23:12.609633+00:00",
+    "n": 300,
+    "publications": 13,
+    "discussion_count": 30,
+    "groups": {
+      "Center or moderate liberal": 60,
+      "Current right or conservative": 120,
+      "Broad left or liberal": 120
+    },
+    "arms": {
+      "random_discussion": 150,
+      "screened_discussion": 135,
+      "screened_discussion_random_fill": 15
+    },
+    "frames": [
+      {
+        "rank": 7,
+        "publication": "Silver Bulletin",
+        "group": "Center or moderate liberal",
+        "eligible_discussions": 154,
+        "eligible_roots_in_those_discussions": 6226,
+        "selected_discussions": [
+          {
+            "post_id": "141761921",
+            "title": "It's time for the White House to put up or shut up",
+            "arm": "random_discussion",
+            "screen_hits": 27
+          },
+          {
+            "post_id": "139050964",
+            "title": "What's the deal with Biden's poor polling with young voters?",
+            "arm": "random_discussion",
+            "screen_hits": 1
+          },
+          {
+            "post_id": "182235960",
+            "title": "Did Las Vegas get too greedy?",
+            "arm": "random_discussion",
+            "screen_hits": 7
+          },
+          {
+            "post_id": "148053096",
+            "title": "Kamala Harris is not going back to the failed politics of 2016",
+            "arm": "screened_discussion",
+            "screen_hits": 17
+          },
+          {
+            "post_id": "147554459",
+            "title": "Kamala Harris can't meme her way to victory. Or can she?",
+            "arm": "screened_discussion",
+            "screen_hits": 10
+          },
+          {
+            "post_id": "150711513",
+            "title": "The border may tip the election to Trump",
+            "arm": "screened_discussion",
+            "screen_hits": 10
+          }
+        ],
+        "selected_roots": 60
+      },
+      {
+        "rank": 13,
+        "publication": "Adam Kinzinger",
+        "group": "Current right or conservative",
+        "eligible_discussions": 198,
+        "eligible_roots_in_those_discussions": 15291,
+        "selected_discussions": [
+          {
+            "post_id": "140149060",
+            "title": "Trump Doesn't Have Forever Immunity",
+            "arm": "random_discussion",
+            "screen_hits": 6
+          },
+          {
+            "post_id": "151606671",
+            "title": "It's Time To Take Your Questions Again",
+            "arm": "screened_discussion",
+            "screen_hits": 34
+          }
+        ],
+        "selected_roots": 20
+      },
+      {
+        "rank": 15,
+        "publication": "Steady",
+        "group": "Broad left or liberal",
+        "eligible_discussions": 204,
+        "eligible_roots_in_those_discussions": 46561,
+        "selected_discussions": [
+          {
+            "post_id": "141259906",
+            "title": "What Would You Do?",
+            "arm": "random_discussion",
+            "screen_hits": 36
+          },
+          {
+            "post_id": "138955326",
+            "title": "The Vile Lies of Antisemitism",
+            "arm": "screened_discussion",
+            "screen_hits": 38
+          }
+        ],
+        "selected_roots": 20
+      },
+      {
+        "rank": 34,
+        "publication": "Rick Wilson’s Against All Enemies",
+        "group": "Current right or conservative",
+        "eligible_discussions": 160,
+        "eligible_roots_in_those_discussions": 11420,
+        "selected_discussions": [
+          {
+            "post_id": "146630829",
+            "title": "The Lost Boy Assassin and the Martyr Trump",
+            "arm": "random_discussion",
+            "screen_hits": 7
+          },
+          {
+            "post_id": "167717333",
+            "title": "In Texas The Water Rises: A Reckoning",
+            "arm": "screened_discussion",
+            "screen_hits": 25
+          }
+        ],
+        "selected_roots": 20
+      },
+      {
+        "rank": 37,
+        "publication": "To the Contrary",
+        "group": "Current right or conservative",
+        "eligible_discussions": 170,
+        "eligible_roots_in_those_discussions": 11840,
+        "selected_discussions": [
+          {
+            "post_id": "214916385",
+            "title": "Begun the AI Wars Have",
+            "arm": "random_discussion",
+            "screen_hits": 7
+          },
+          {
+            "post_id": "154985531",
+            "title": "Beware the Bubbles",
+            "arm": "screened_discussion",
+            "screen_hits": 12
+          }
+        ],
+        "selected_roots": 20
+      },
+      {
+        "rank": 41,
+        "publication": "The Argument",
+        "group": "Broad left or liberal",
+        "eligible_discussions": 37,
+        "eligible_roots_in_those_discussions": 612,
+        "selected_discussions": [
+          {
+            "post_id": "207176581",
+            "title": "Does the oligarchy exist?",
+            "arm": "random_discussion",
+            "screen_hits": 3
+          },
+          {
+            "post_id": "171326701",
+            "title": "Giving people money helped less than I thought it would",
+            "arm": "screened_discussion",
+            "screen_hits": 12
+          }
+        ],
+        "selected_roots": 20
+      },
+      {
+        "rank": 46,
+        "publication": "The Left Hook with Wajahat Ali",
+        "group": "Broad left or liberal",
+        "eligible_discussions": 141,
+        "eligible_roots_in_those_discussions": 7865,
+        "selected_discussions": [
+          {
+            "post_id": "214609731",
+            "title": "The Death of Decency: How Political Violence and Moral Hypocrisy Are Numbing America",
+            "arm": "random_discussion",
+            "screen_hits": 24
+          },
+          {
+            "post_id": "201394101",
+            "title": "The Israelification of the United States of Billionaires",
+            "arm": "screened_discussion",
+            "screen_hits": 10
+          }
+        ],
+        "selected_roots": 20
+      },
+      {
+        "rank": 67,
+        "publication": "The Downballot",
+        "group": "Broad left or liberal",
+        "eligible_discussions": 20,
+        "eligible_roots_in_those_discussions": 363,
+        "selected_discussions": [
+          {
+            "post_id": "157585866",
+            "title": "Morning Digest: Mitch McConnell, one of the most powerful leaders in Senate history, announces retirement",
+            "arm": "random_discussion",
+            "screen_hits": 0
+          },
+          {
+            "post_id": "214805963",
+            "title": "Morning Digest: In ominous sign for GOP, Republicans triage their first House race",
+            "arm": "screened_discussion",
+            "screen_hits": 2
+          }
+        ],
+        "selected_roots": 20
+      },
+      {
+        "rank": 75,
+        "publication": "The Existentialist Republic",
+        "group": "Broad left or liberal",
+        "eligible_discussions": 14,
+        "eligible_roots_in_those_discussions": 667,
+        "selected_discussions": [
+          {
+            "post_id": "213617234",
+            "title": "Trump v. United States Didn't Make the President Above the Law. Nothing Ever Has.",
+            "arm": "random_discussion",
+            "screen_hits": 7
+          },
+          {
+            "post_id": "178598815",
+            "title": "Is There Already a Plan to Remove Chuck Schumer as Senate Minority Leader?",
+            "arm": "screened_discussion",
+            "screen_hits": 8
+          }
+        ],
+        "selected_roots": 20
+      },
+      {
+        "rank": 83,
+        "publication": "Our Moral Moment w/ Bishop William Barber & Jonathan Wilson-Hartgrove",
+        "group": "Broad left or liberal",
+        "eligible_discussions": 7,
+        "eligible_roots_in_those_discussions": 120,
+        "selected_discussions": [
+          {
+            "post_id": "168641235",
+            "title": "Congress Cedes Power of the Purse",
+            "arm": "random_discussion",
+            "screen_hits": 2
+          },
+          {
+            "post_id": "175331689",
+            "title": "What the Government Shutdown Is About ",
+            "arm": "screened_discussion",
+            "screen_hits": 6
+          }
+        ],
+        "selected_roots": 20
+      },
+      {
+        "rank": 86,
+        "publication": "Free Thinking Through the Fourth Turning with Sasha Stone",
+        "group": "Current right or conservative",
+        "eligible_discussions": 37,
+        "eligible_roots_in_those_discussions": 3076,
+        "selected_discussions": [
+          {
+            "post_id": "147891932",
+            "title": "The Weirdness of Manufactured Joy",
+            "arm": "random_discussion",
+            "screen_hits": 20
+          },
+          {
+            "post_id": "142865729",
+            "title": "Friday News Dump - Candace Out, Kate's Cancer Diagnosis, Moscow Attacked and More ",
+            "arm": "screened_discussion",
+            "screen_hits": 11
+          }
+        ],
+        "selected_roots": 20
+      },
+      {
+        "rank": 88,
+        "publication": "Glenn Loury",
+        "group": "Current right or conservative",
+        "eligible_discussions": 14,
+        "eligible_roots_in_those_discussions": 315,
+        "selected_discussions": [
+          {
+            "post_id": "163305487",
+            "title": "I Was Fired by the Manhattan Institute. Here's Why. ",
+            "arm": "random_discussion",
+            "screen_hits": 20
+          },
+          {
+            "post_id": "151829550",
+            "title": "John McWhorter – Trump's Historic Win",
+            "arm": "screened_discussion",
+            "screen_hits": 11
+          }
+        ],
+        "selected_roots": 20
+      },
+      {
+        "rank": 98,
+        "publication": "Declassified with Julie Kelly",
+        "group": "Current right or conservative",
+        "eligible_discussions": 34,
+        "eligible_roots_in_those_discussions": 764,
+        "selected_discussions": [
+          {
+            "post_id": "147859250",
+            "title": "Democrats Broke the Law by Pushing Joe Biden Out of the Race",
+            "arm": "random_discussion",
+            "screen_hits": 5
+          },
+          {
+            "post_id": "173612213",
+            "title": "The January 6 Rules",
+            "arm": "screened_discussion",
+            "screen_hits": 9
+          }
+        ],
+        "selected_roots": 20
+      }
+    ],
+    "design": "All six retained right/center-right publications; three seeded random eligible left publications from each collection batch; the sole center/moderate-liberal publication, Silver Bulletin, deliberately oversampled. Each noncentrist publication supplies one uniform random eligible discussion with ten random roots and one separate text-screen-enriched discussion with up to ten screened roots; missing screened slots filled randomly and separately marked. Silver supplies three discussions per arm. Earlier named angle-pilot roots excluded. Selection never uses reactions, replies or author participation. Baseline is a two-stage discussion/within-discussion sample with equal publication allocation, not a simple random sample of all comments. Enrichment has no prevalence interpretation.",
+    "eligibility": "Saved public posts 150–4500 words; nondeleted roots 5–350 words; posts and roots within study window starting Oct 18 2023, roots before Oct 12 2026 New York time for seven-day follow-up. At least ten eligible roots per discussion. Known byline/primary accounts excluded from roots. These constraints exclude small discussions, long comments, restricted prose and some nonprose/podcast material.",
+    "centrist_limit": "Only one center/moderate-liberal publication. Its oversampling adds within-writer variation, not independent centrist writers.",
+    "labeling": "Assistant manually reads every selected root against saved article context. Keyword hits are retrieval only. Parent labels frozen before extracting response outcomes. No independent human validation.",
+    "new_model_api_calls": 0,
+    "new_api_spending_usd": 0
+  },
+  "reading_scope": "All 300 roots manually read in full; opening/closing article contexts for all 30 discussions, four additional full saved prose readings and five targeted paragraph readings. Initial parent labels frozen before response extraction; one post-outcome target correction logged separately. Independent coder absent.",
+  "target_adjudication": {
+    "adjudicated_at_utc": "2026-10-19T19:37:31.950038+00:00",
+    "reason": "Verification of claim target against the complete saved root, not a change based on response favorability. Outcomes were already available; therefore this is openly a post-outcome target correction. The original blind labels are preserved unchanged.",
+    "changes": [
+      {
+        "case_id": "X035",
+        "before": {
+          "case_id": "X035",
+          "codes": "a",
+          "reason": "Says pundits should have analyzed alternative campaign scenarios more carefully."
+        },
+        "after": {
+          "case_id": "X035",
+          "codes": "p",
+          "reason": "Praises Silver’s clip collection while criticizing other pundits for failing to use it; the evidential-duty criticism is not directed at this writer."
+        }
+      }
+    ],
+    "initial_frozen_scope": "All 300 roots manually read in full; opening/closing article contexts for all 30 discussions, four additional full saved prose readings and five targeted paragraph readings. Parent labels finalized before response extraction. Independent coder absent."
+  },
+  "initial_blind_central_role_challenges": 43,
+  "subsequent_post_probe": {
+    "discussions": 3,
+    "subsequent_posts_examined": 9,
+    "scope": "First three subsequently saved public prose posts within thirty days for three focal reply episodes; openings or topic-matching paragraphs only. Includes an identified guest post and mostly different topics.",
+    "finding": "Does not establish a topic-matched position reversal or an audience-caused editorial change. This small probe is a feasibility check, not a longitudinal stance test."
+  },
+  "limitations": [
+    "One assistant coder with no independent human validation; some classifications are borderline.",
+    "Equal publication allocation and discussion-level sampling mean neither pooled arm estimates all-comment or platform prevalence. Screened discussions and random-fill slots remain separate from baseline.",
+    "Only one center/moderate-liberal publication: sixty Silver comments are not sixty independent centrist writers.",
+    "The right/center-right group combines anti-Trump and MAGA-aligned writers; writer orientation is not reader ideology or coalition membership.",
+    "Replies are captured direct responses within seven days, excluding self-replies and deleted records. Absence is not proof of silence, exposure, approval or suppression. Nested responses are not counted as direct.",
+    "Known byline/primary account matching can miss other staff or cohosts and cannot prove who operated a brand account.",
+    "Only 5 coalition-fidelity challenges across 3 publications and 4 discussions, with 3 author-replied roots. These counts cannot sustain a comparative response-rate claim. Domains overlap.",
+    "Twelve of thirty author-replied roots are from Julie Kelly; outlet participation drives pooled response patterns.",
+    "Eligibility excludes short comments under 5 words, long comments over 350 words, small discussions and restricted or limited-prose posts. Some video summaries lack full transcripts.",
+    "Stored texts may have been edited after replies; no systematic version history, reading/exposure data or verified subscription transactions.",
+    "Publication and article selections are not historical representative ideological samples. Earlier pilots are not pooled into this sample."
+  ],
+  "new_model_api_calls": 0,
+  "new_api_spending_usd": 0
+}
