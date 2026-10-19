@@ -1,0 +1,64 @@
+{
+  "checked_at_utc": "2026-10-19T18:53:19.902993+00:00",
+  "definition": "Zero saved post records between first and last observed post months; not restricted-body posts.",
+  "scope": "All four retained publications with interior empty months, using existing saved raw archive responses and read-only databases. No new network requests.",
+  "publication_months_with_red_x": 11,
+  "rows": [
+    {
+      "rank": 36,
+      "publication": "Brian Tyler Cohen",
+      "empty_months": [
+        "2025-10"
+      ],
+      "saved_archive_pages_checked": 5,
+      "raw_in_window_unique_post_ids": 178,
+      "database_in_window_post_ids": 178,
+      "raw_and_database_post_ids_match": true,
+      "empty_in_returned_raw_archive_too": true
+    },
+    {
+      "rank": 57,
+      "publication": "Michael Moore",
+      "empty_months": [
+        "2025-07",
+        "2026-02",
+        "2026-03",
+        "2026-05",
+        "2026-06"
+      ],
+      "saved_archive_pages_checked": 5,
+      "raw_in_window_unique_post_ids": 160,
+      "database_in_window_post_ids": 160,
+      "raw_and_database_post_ids_match": true,
+      "empty_in_returned_raw_archive_too": true
+    },
+    {
+      "rank": 63,
+      "publication": "The Pugilist with Alisa Valdes-Rodriguez",
+      "empty_months": [
+        "2024-09",
+        "2024-10"
+      ],
+      "saved_archive_pages_checked": 10,
+      "raw_in_window_unique_post_ids": 423,
+      "database_in_window_post_ids": 423,
+      "raw_and_database_post_ids_match": true,
+      "empty_in_returned_raw_archive_too": true
+    },
+    {
+      "rank": 80,
+      "publication": "Lawyer Oyer",
+      "empty_months": [
+        "2025-08",
+        "2025-10",
+        "2026-08"
+      ],
+      "saved_archive_pages_checked": 2,
+      "raw_in_window_unique_post_ids": 48,
+      "database_in_window_post_ids": 48,
+      "raw_and_database_post_ids_match": true,
+      "empty_in_returned_raw_archive_too": true
+    }
+  ],
+  "interpretation": "These gaps are already absent from returned saved archive pages, rather than posts lost during database ingestion. This does not distinguish a publishing break, removed/migrated content, or omissions in Substack archive responses, and does not prove the source archive complete."
+}

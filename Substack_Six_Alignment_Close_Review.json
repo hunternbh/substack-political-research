@@ -1,0 +1,305 @@
+{
+  "reviewed_at_utc": "2026-10-19T18:53:59.665015+00:00",
+  "scope": "The six previously unresolved publications in the retained sixty. Replaces their earlier working classifications for the combined cohort; historical reports remain dated snapshots.",
+  "method": "Assistant manual review of fifteen purposively selected saved public posts after local keyword/title retrieval across all saved public texts for these six. Fourteen full saved texts and one opening/selected-passage reading. This is not an exhaustive reading of the six archives, an independently validated coding, or a time-varying ideology estimate.",
+  "classification_rule": "Use own explicit ideological self-description or affirmative, repeated policy/editorial positions. Separate outlet role, party coalition, quoted speakers and guest authors from broad ideology. Nonpartisan reporting is not automatically centrist.",
+  "rows": [
+    {
+      "rank": 13,
+      "publication_id": "1910658",
+      "publication": "Adam Kinzinger",
+      "previous_group": "Conservative origins with current policy range unresolved",
+      "previous_ideology": "Conservative Republican origins; current policy range unconfirmed",
+      "summary_group": "Current right or conservative",
+      "ideology": "Center-right / anti-Trump conservative",
+      "confidence": "High",
+      "coalition": "Republican/conservative self-identification; supports Harris against Trump",
+      "organization": "Individual-led political commentary",
+      "rationale": "Kinzinger explicitly identifies as center-right in his February 2024 essay and as a conservative and Republican in his August 2024 convention speech. His support for Harris is presented as a coalition choice despite policy differences. This resolves his within-window ideological location; it is not an assertion that every position or later post is conservative.",
+      "evidence": [
+        {
+          "post_id": "141429369",
+          "title": "Why We Fight. The War Against Brain Worms",
+          "post_date": "2024-02-06T15:19:58.370Z",
+          "url": "https://www.adamkinzinger.com/p/why-we-fight-the-war-against-brain",
+          "body_sha256": "5bb9edbb55dee93bbcbe6d3ddb5309f80107c2ffc9d379ac4806b61960120a4b",
+          "scope": "Full saved public text read",
+          "words": 1328,
+          "bylines": [
+            "Adam Kinzinger"
+          ]
+        },
+        {
+          "post_id": "148039073",
+          "title": "Democracy Knows no Party",
+          "post_date": "2024-08-23T13:34:18.102Z",
+          "url": "https://www.adamkinzinger.com/p/democracy-knows-no-party",
+          "body_sha256": "03b72d32cc4d219a523e414be42805c9e3184f71846314eaa9f5740d4d559001",
+          "scope": "Full saved public text read",
+          "words": 793,
+          "bylines": [
+            "Adam Kinzinger"
+          ]
+        }
+      ],
+      "source_url": "https://www.adamkinzinger.com/p/why-we-fight-the-war-against-brain",
+      "changed_group": true,
+      "public_texts_searched": 753
+    },
+    {
+      "rank": 34,
+      "publication_id": "1887091",
+      "publication": "Rick Wilson’s Against All Enemies",
+      "previous_group": "Conservative origins with current policy range unresolved",
+      "previous_ideology": "Conservative Republican origins; current policy range unconfirmed",
+      "summary_group": "Current right or conservative",
+      "ideology": "Center-right / moderate conservative, anti-Trump",
+      "confidence": "High",
+      "coalition": "No Party Affiliation in his account; supports Biden against Trump",
+      "organization": "Individual-led political commentary",
+      "rationale": "Wilson describes himself as neither progressive nor liberal and invokes moderate conservatism in his November 2023 Biden endorsement. His January 2024 essay explicitly identifies him as a conservative believer in free markets. This is current in-window self-description and affirmative economic orientation, rather than a label inferred solely from his former Republican career. Democratic electoral support is coded separately.",
+      "evidence": [
+        {
+          "post_id": "138450552",
+          "title": "Joe Biden for President",
+          "post_date": "2023-11-06T19:33:47.729Z",
+          "url": "https://www.againstallenemies.net/p/joe-biden-for-president",
+          "body_sha256": "7b4f97c7634afab0e1db8bd742fdc1a098147ab38670ea1cf500757c0a103922",
+          "scope": "Full saved public text read",
+          "words": 2246,
+          "bylines": [
+            "Rick Wilson"
+          ]
+        },
+        {
+          "post_id": "141031824",
+          "title": "Late Nights With Donald",
+          "post_date": "2024-01-25T14:46:29.904Z",
+          "url": "https://www.againstallenemies.net/p/late-nights-with-donald",
+          "body_sha256": "3ab4db8ae18c628b426eee99600fd7ff7ff5ad1e2f9fa541a7e5af62c29e4084",
+          "scope": "Full saved public text read",
+          "words": 951,
+          "bylines": [
+            "Rick Wilson"
+          ]
+        }
+      ],
+      "source_url": "https://www.againstallenemies.net/p/joe-biden-for-president",
+      "changed_group": true,
+      "public_texts_searched": 680
+    },
+    {
+      "rank": 67,
+      "publication_id": "2418217",
+      "publication": "The Downballot",
+      "previous_group": "Unresolved / insufficient policy evidence",
+      "previous_ideology": "Insufficient policy evidence / electoral news and data service",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / liberal editorial tendency; tentative",
+      "confidence": "Medium",
+      "coalition": "Democratic-friendly electoral framing; nonpartisan accuracy claim retained",
+      "organization": "Multi-author electoral news, data and commentary service",
+      "rationale": "The outlet’s own May 2024 podcast introduction calls efforts to thwart abortion rights a cynical ploy and describes the rights at stake as cherished civil rights. Its March introduction favors greater representation of progressive mothers, while the August election digest uses favorable reproductive-rights and redistricting-reform framing. Together these support a provisional liberal editorial tendency. This goes beyond predicting Democratic gains, fundraising arrangements or Daily Kos origins. Nonpartisan reporting claims are preserved as the outlet’s stated professional role; no complete economic platform or shared ideology of every byline is inferred.",
+      "evidence": [
+        {
+          "post_id": "147638538",
+          "title": "Why we need to elect more moms",
+          "post_date": "2024-03-21T06:00:00.000Z",
+          "url": "https://www.the-downballot.com/p/why-we-need-to-elect-more-moms-b51",
+          "body_sha256": "ced34a9b2251bb161f3a41827993cc2d18ba98e1ba502b0809907b369d76d7ed",
+          "scope": "Full saved public text read",
+          "words": 185,
+          "bylines": [
+            "David Nir",
+            "David Beard"
+          ]
+        },
+        {
+          "post_id": "147638530",
+          "title": "Missouri Dems filibuster GOP into submission",
+          "post_date": "2024-05-16T07:45:00.000Z",
+          "url": "https://www.the-downballot.com/p/missouri-dems-filibuster-gop-into-34d",
+          "body_sha256": "c117b73af0a50c1dbe4b44efe0a7dbc43dee9e4098d5699cfd9ea494eae47332",
+          "scope": "Full saved public text read",
+          "words": 150,
+          "bylines": [
+            "David Nir",
+            "David Beard"
+          ]
+        },
+        {
+          "post_id": "147865106",
+          "title": "Welcome to the very first edition of The Downballot Morning Digest!",
+          "post_date": "2024-08-19T12:00:50.421Z",
+          "url": "https://www.the-downballot.com/p/welcome-to-the-very-first-edition",
+          "body_sha256": "5920cc713c7710ba05d55143e1de90eb973df830c2bc81b530e9855c578bff54",
+          "scope": "Opening and selected passages of saved public text; full-text tool return was truncated",
+          "words": 3151,
+          "bylines": [
+            "David Nir",
+            "Jeff Singer",
+            "Stephen Wolf"
+          ]
+        },
+        {
+          "post_id": "147729720",
+          "title": "Daily Kos Elections is becoming a new site: The Downballot",
+          "post_date": "2024-08-15T11:01:38.050Z",
+          "url": "https://www.the-downballot.com/p/daily-kos-elections-is-becoming-a",
+          "body_sha256": "f1a7b73667b2f3f28b8123fa4e902afa175ed6a561c5f06c905e9db6914ce027",
+          "scope": "Full saved public text read",
+          "words": 951,
+          "bylines": [
+            "David Nir"
+          ]
+        }
+      ],
+      "source_url": "https://www.the-downballot.com/p/why-we-need-to-elect-more-moms-b51",
+      "changed_group": true,
+      "public_texts_searched": 883
+    },
+    {
+      "rank": 68,
+      "publication_id": "234771",
+      "publication": "Wake Up To Politics",
+      "previous_group": "Unresolved / insufficient policy evidence",
+      "previous_ideology": "Insufficient policy evidence / nonpartisan political reporting",
+      "summary_group": "Unresolved / insufficient policy evidence",
+      "ideology": "Broad ideology unclassified / nonpartisan reporting and institutional reform",
+      "confidence": "Low",
+      "coalition": "Cross-partisan reporting and civic pluralism; party choice not established",
+      "organization": "Individual-led political reporting newsletter",
+      "rationale": "Fleisher’s full essays advocate dialogue across political divisions and an independent accountability branch that could investigate officials of either party. The latter is a substantive institutional proposal, but neither it nor opposition to political violence locates his broader social and economic policies on a left-right scale. The evidence supports a reporting/reform role, not a centrist policy label.",
+      "evidence": [
+        {
+          "post_id": "173349545",
+          "title": "We Can’t Let This Be Our Future",
+          "post_date": "2025-09-11T14:11:21.044Z",
+          "url": "https://www.wakeuptopolitics.com/p/we-cant-let-this-be-our-future",
+          "body_sha256": "29dc7535ad139e2c8c13993bc39ed64bd35e05104db1d676cf51a318d992d9d1",
+          "scope": "Full saved public text read",
+          "words": 1715,
+          "bylines": [
+            "Gabe Fleisher"
+          ]
+        },
+        {
+          "post_id": "200323545",
+          "title": "Why We Need a Fourth Branch of Government",
+          "post_date": "2026-06-03T13:34:27.820Z",
+          "url": "https://www.wakeuptopolitics.com/p/why-we-need-a-fourth-branch-of-government",
+          "body_sha256": "7277d89ff6ad3d7a824b09fffbde5441f446df30d16b01c22ecffbf9d8d07f8a",
+          "scope": "Full saved public text read",
+          "words": 3212,
+          "bylines": [
+            "Gabe Fleisher"
+          ]
+        }
+      ],
+      "source_url": "https://www.wakeuptopolitics.com/p/we-cant-let-this-be-our-future",
+      "changed_group": false,
+      "public_texts_searched": 568
+    },
+    {
+      "rank": 72,
+      "publication_id": "5939314",
+      "publication": "Scott MacFarlane Reports",
+      "previous_group": "Unresolved / insufficient policy evidence",
+      "previous_ideology": "Insufficient policy evidence / independent political reporting",
+      "summary_group": "Unresolved / insufficient policy evidence",
+      "ideology": "Broad ideology unclassified / independent political reporting",
+      "confidence": "Low",
+      "coalition": "Critical scrutiny of Trump; party identity not established",
+      "organization": "Individual-led independent news and reporting operation",
+      "rationale": "MacFarlane’s launch essay explains his independent reporting model and audience-guided story selection. His September editorial note reports wage and tariff developments and explicitly defends demographic diversity in newsrooms. That is real normative evidence, but one professional inclusion position and coverage of Democratic proposals are insufficient to establish a broad liberal or centrist platform. Quoted candidates’ positions are not assigned to the reporter.",
+      "evidence": [
+        {
+          "post_id": "193185506",
+          "title": "Leave \"legacy\" behind; independent news is the future",
+          "post_date": "2026-04-04T17:56:35.187Z",
+          "url": "https://macfarlanenews.substack.com/p/leave-legacy-behind-independent-news",
+          "body_sha256": "46b8b733741b4dc451bd9d341d5bdc70e71a45a759de7f6d3d5e1a7e5f58943b",
+          "scope": "Full saved public text read",
+          "words": 590,
+          "bylines": [
+            "Scott MacFarlane"
+          ]
+        },
+        {
+          "post_id": "214707825",
+          "title": "DAY AHEAD - My Daily Editorial Note",
+          "post_date": "2026-09-08T11:27:56.762Z",
+          "url": "https://macfarlanenews.substack.com/p/day-ahead-my-daily-editorial-note-1ca",
+          "body_sha256": "20e7db6c6fb5f4b0dccdd508c7e56868595634d55ec9831e19df2ccbd0cbacb4",
+          "scope": "Full saved public text read",
+          "words": 2322,
+          "bylines": [
+            "Scott MacFarlane"
+          ]
+        }
+      ],
+      "source_url": "https://macfarlanenews.substack.com/p/leave-legacy-behind-independent-news",
+      "changed_group": false,
+      "public_texts_searched": 342
+    },
+    {
+      "rank": 80,
+      "publication_id": "4408534",
+      "publication": "Lawyer Oyer",
+      "previous_group": "Unresolved / insufficient policy evidence",
+      "previous_ideology": "Insufficient broad policy evidence / rule-of-law and defense advocacy",
+      "summary_group": "Unresolved / insufficient policy evidence",
+      "ideology": "Broad ideology unclassified / civil liberties and clemency reform",
+      "confidence": "Low",
+      "coalition": "Opposes politicized DOJ and transactional pardons; party identity not established",
+      "organization": "Individual-led legal analysis and rule-of-law advocacy",
+      "rationale": "Oyer’s welcome essay defines a focused legal mission. Her lecture explicitly advocates equality, public defense and redemption; her pardon analysis praises relief from excessive drug sentences while defending victim restitution, accountability and principled review. These establish a civil-liberties and clemency-reform orientation, with some liberal-compatible positions, but not a sufficiently broad or distinctive left/right/centrist platform. Former career government service and anti-Trump advocacy do not decide that label.",
+      "evidence": [
+        {
+          "post_id": "163513048",
+          "title": "Welcome to Lawyer Oyer",
+          "post_date": "2025-05-14T16:54:25.966Z",
+          "url": "https://www.lawyeroyer.com/p/welcome-to-lawyer-oyer",
+          "body_sha256": "15f73016bc965f4f6f68ca1aaa96a141a24f3b9ffc22b21c243118631ebdb90b",
+          "scope": "Full saved public text read",
+          "words": 684,
+          "bylines": [
+            "Liz Oyer"
+          ]
+        },
+        {
+          "post_id": "177801169",
+          "title": "Public Defenders Will Save Us",
+          "post_date": "2025-11-02T16:20:20.394Z",
+          "url": "https://www.lawyeroyer.com/p/public-defenders-will-save-us",
+          "body_sha256": "f3fda165642515eb3778dd5edef626ad465789bbcf6b7f7cb2edac98b243403c",
+          "scope": "Full saved public text read",
+          "words": 2812,
+          "bylines": [
+            "Liz Oyer"
+          ]
+        },
+        {
+          "post_id": "165004440",
+          "title": "A Deep Dive on Pardons",
+          "post_date": "2025-06-03T15:22:46.616Z",
+          "url": "https://www.lawyeroyer.com/p/a-deep-dive-on-pardons",
+          "body_sha256": "7c797ec1b41a70022675816684de06e772163ebb14ce23bf1c0307f0f00d26e8",
+          "scope": "Full saved public text read",
+          "words": 2885,
+          "bylines": [
+            "Liz Oyer"
+          ]
+        }
+      ],
+      "source_url": "https://www.lawyeroyer.com/p/welcome-to-lawyer-oyer",
+      "changed_group": false,
+      "public_texts_searched": 48
+    }
+  ],
+  "groups_resolved": 3,
+  "still_unclassified": 3,
+  "evidence_posts": 15,
+  "new_model_api_calls": 0,
+  "new_api_spending_usd": 0
+}

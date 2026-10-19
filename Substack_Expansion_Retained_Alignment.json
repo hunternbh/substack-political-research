@@ -1,13 +1,13 @@
 {
-  "reviewed_at_utc": "2026-10-19T18:31:18.764392+00:00",
+  "reviewed_at_utc": "2026-10-19T18:55:12.181872+00:00",
   "scope": "All 33 access-filter-retained publications from ranks 51-100. The seventeen access-excluded additions were not classified for this combined-retained breakdown.",
   "coder": "Assistant manual review; no external model API and no independent human validation.",
-  "reading_scope": "Thirty-three public About-page openings and selected passages in two saved public posts per retained publication; additional full-text readings logged for ambiguous cases. Selection is purposive, not a representative article sample. Full-versus-passage scopes are listed per source.",
+  "reading_scope": "Thirty-three public About-page openings and selected passages in two saved public posts per retained publication; additional full-text readings logged for ambiguous cases. The six-publication close review adds source-linked saved-post evidence for four additions and two original publications. Selection is purposive, not a representative article sample. Full-versus-passage scopes are listed per source.",
   "rule": "Affirmative policy positions, explicit self-description and repeated normative framing; nonpartisan news style, party support and anti-Trump positions are not automatic centrist or liberal labels.",
   "group_counts": {
-    "Broad left or liberal": 25,
+    "Broad left or liberal": 26,
     "Mixed or heterodox": 1,
-    "Unresolved / insufficient policy evidence": 4,
+    "Unresolved / insufficient policy evidence": 3,
     "Current right or conservative": 3
   },
   "rows": [
@@ -473,12 +473,12 @@
       "publication": "The Downballot",
       "author_or_brand": "David Nir",
       "base_url": "https://www.the-downballot.com",
-      "summary_group": "Unresolved / insufficient policy evidence",
-      "ideology": "Insufficient policy evidence / electoral news and data service",
-      "coalition": "Nonpartisan brand; Democratic-friendly framing appears in some coverage",
-      "organization": "Multi-author electoral news and data service",
-      "confidence": "Low",
-      "rationale": "The About page claims nonpartisan coverage, and the reviewed pieces primarily report candidates, ballot procedures and polling. Forecasting Democratic gains is not support for those policies; ActBlue fundraising or favorable framing alone is insufficient for a broad policy ideology. Do not count as centrist.",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / liberal editorial tendency; tentative",
+      "coalition": "Democratic-friendly electoral framing; nonpartisan accuracy claim retained",
+      "organization": "Multi-author electoral news, data and commentary service",
+      "confidence": "Medium",
+      "rationale": "The outlet’s own May 2024 podcast introduction calls efforts to thwart abortion rights a cynical ploy and describes the rights at stake as cherished civil rights. Its March introduction favors greater representation of progressive mothers, while the August election digest uses favorable reproductive-rights and redistricting-reform framing. Together these support a provisional liberal editorial tendency. This goes beyond predicting Democratic gains, fundraising arrangements or Daily Kos origins. Nonpartisan reporting claims are preserved as the outlet’s stated professional role; no complete economic platform or shared ideology of every byline is inferred.",
       "about_source": {
         "url": "https://www.the-downballot.com/about",
         "retrieved_at_utc": "2026-10-19T18:27:03.373968+00:00",
@@ -508,8 +508,65 @@
           "date": "2026-10-12T15:27:09.354Z",
           "body_sha256": "72c9f8a95fe6fb7647a70646f0124af5ec67129295818a57c180ed6a7e2c1c85",
           "scope": "Full saved public text"
+        },
+        {
+          "post_id": "147638538",
+          "title": "Why we need to elect more moms",
+          "post_date": "2024-03-21T06:00:00.000Z",
+          "url": "https://www.the-downballot.com/p/why-we-need-to-elect-more-moms-b51",
+          "body_sha256": "ced34a9b2251bb161f3a41827993cc2d18ba98e1ba502b0809907b369d76d7ed",
+          "scope": "Full saved public text read",
+          "words": 185,
+          "bylines": [
+            "David Nir",
+            "David Beard"
+          ],
+          "date": "2024-03-21T06:00:00.000Z"
+        },
+        {
+          "post_id": "147638530",
+          "title": "Missouri Dems filibuster GOP into submission",
+          "post_date": "2024-05-16T07:45:00.000Z",
+          "url": "https://www.the-downballot.com/p/missouri-dems-filibuster-gop-into-34d",
+          "body_sha256": "c117b73af0a50c1dbe4b44efe0a7dbc43dee9e4098d5699cfd9ea494eae47332",
+          "scope": "Full saved public text read",
+          "words": 150,
+          "bylines": [
+            "David Nir",
+            "David Beard"
+          ],
+          "date": "2024-05-16T07:45:00.000Z"
+        },
+        {
+          "post_id": "147865106",
+          "title": "Welcome to the very first edition of The Downballot Morning Digest!",
+          "post_date": "2024-08-19T12:00:50.421Z",
+          "url": "https://www.the-downballot.com/p/welcome-to-the-very-first-edition",
+          "body_sha256": "5920cc713c7710ba05d55143e1de90eb973df830c2bc81b530e9855c578bff54",
+          "scope": "Opening and selected passages of saved public text; full-text tool return was truncated",
+          "words": 3151,
+          "bylines": [
+            "David Nir",
+            "Jeff Singer",
+            "Stephen Wolf"
+          ],
+          "date": "2024-08-19T12:00:50.421Z"
+        },
+        {
+          "post_id": "147729720",
+          "title": "Daily Kos Elections is becoming a new site: The Downballot",
+          "post_date": "2024-08-15T11:01:38.050Z",
+          "url": "https://www.the-downballot.com/p/daily-kos-elections-is-becoming-a",
+          "body_sha256": "f1a7b73667b2f3f28b8123fa4e902afa175ed6a561c5f06c905e9db6914ce027",
+          "scope": "Full saved public text read",
+          "words": 951,
+          "bylines": [
+            "David Nir"
+          ],
+          "date": "2024-08-15T11:01:38.050Z"
         }
-      ]
+      ],
+      "close_review": "Substack_Six_Alignment_Close_Review.json"
     },
     {
       "rank": 68,
@@ -518,11 +575,11 @@
       "author_or_brand": "Gabe Fleisher",
       "base_url": "https://www.wakeuptopolitics.com",
       "summary_group": "Unresolved / insufficient policy evidence",
-      "ideology": "Insufficient policy evidence / nonpartisan political reporting",
-      "coalition": "Explicit cross-partisan news mission",
-      "organization": "Individual-led political news service",
+      "ideology": "Broad ideology unclassified / nonpartisan reporting and institutional reform",
+      "coalition": "Cross-partisan reporting and civic pluralism; party choice not established",
+      "organization": "Individual-led political reporting newsletter",
       "confidence": "Low",
-      "rationale": "The mission emphasizes explanation for readers across political stripes, and the policy comparisons distinguish candidates’ positions without establishing the author’s own platform. Nonpartisan reporting is not an affirmative centrist policy identity.",
+      "rationale": "Fleisher’s full essays advocate dialogue across political divisions and an independent accountability branch that could investigate officials of either party. The latter is a substantive institutional proposal, but neither it nor opposition to political violence locates his broader social and economic policies on a left-right scale. The evidence supports a reporting/reform role, not a centrist policy label.",
       "about_source": {
         "url": "https://www.wakeuptopolitics.com/about",
         "retrieved_at_utc": "2026-10-19T18:27:05.639195+00:00",
@@ -544,8 +601,35 @@
           "date": "2024-10-31T13:17:37.050Z",
           "body_sha256": "0ba68e06bc5c7ba01c5513a04eef7871ec0c8de18e81b34f4ecae3a8205a9fcc",
           "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "173349545",
+          "title": "We Can’t Let This Be Our Future",
+          "post_date": "2025-09-11T14:11:21.044Z",
+          "url": "https://www.wakeuptopolitics.com/p/we-cant-let-this-be-our-future",
+          "body_sha256": "29dc7535ad139e2c8c13993bc39ed64bd35e05104db1d676cf51a318d992d9d1",
+          "scope": "Full saved public text read",
+          "words": 1715,
+          "bylines": [
+            "Gabe Fleisher"
+          ],
+          "date": "2025-09-11T14:11:21.044Z"
+        },
+        {
+          "post_id": "200323545",
+          "title": "Why We Need a Fourth Branch of Government",
+          "post_date": "2026-06-03T13:34:27.820Z",
+          "url": "https://www.wakeuptopolitics.com/p/why-we-need-a-fourth-branch-of-government",
+          "body_sha256": "7277d89ff6ad3d7a824b09fffbde5441f446df30d16b01c22ecffbf9d8d07f8a",
+          "scope": "Full saved public text read",
+          "words": 3212,
+          "bylines": [
+            "Gabe Fleisher"
+          ],
+          "date": "2026-06-03T13:34:27.820Z"
         }
-      ]
+      ],
+      "close_review": "Substack_Six_Alignment_Close_Review.json"
     },
     {
       "rank": 71,
@@ -590,11 +674,11 @@
       "author_or_brand": "Scott MacFarlane",
       "base_url": "https://macfarlanenews.substack.com",
       "summary_group": "Unresolved / insufficient policy evidence",
-      "ideology": "Insufficient policy evidence / independent political reporting",
-      "coalition": "Democracy and press-independence mission; party identity not established",
-      "organization": "Individual-led political news service",
+      "ideology": "Broad ideology unclassified / independent political reporting",
+      "coalition": "Critical scrutiny of Trump; party identity not established",
+      "organization": "Individual-led independent news and reporting operation",
       "confidence": "Low",
-      "rationale": "The reviewed campaign reports quote both parties and describe electoral strategy. The About page favors independent journalism but provides no broad personal policy platform. Coverage of Democrats does not establish a liberal or centrist identity.",
+      "rationale": "MacFarlane’s launch essay explains his independent reporting model and audience-guided story selection. His September editorial note reports wage and tariff developments and explicitly defends demographic diversity in newsrooms. That is real normative evidence, but one professional inclusion position and coverage of Democratic proposals are insufficient to establish a broad liberal or centrist platform. Quoted candidates’ positions are not assigned to the reporter.",
       "about_source": {
         "url": "https://macfarlanenews.substack.com/about",
         "retrieved_at_utc": "2026-10-19T18:27:10.102073+00:00",
@@ -616,8 +700,35 @@
           "date": "2026-10-16T10:22:35.320Z",
           "body_sha256": "0fb1b9f25cce07ad24c8ff53f1743ff2937a1e9a9127bedf7bfc3c7077c9239f",
           "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "193185506",
+          "title": "Leave \"legacy\" behind; independent news is the future",
+          "post_date": "2026-04-04T17:56:35.187Z",
+          "url": "https://macfarlanenews.substack.com/p/leave-legacy-behind-independent-news",
+          "body_sha256": "46b8b733741b4dc451bd9d341d5bdc70e71a45a759de7f6d3d5e1a7e5f58943b",
+          "scope": "Full saved public text read",
+          "words": 590,
+          "bylines": [
+            "Scott MacFarlane"
+          ],
+          "date": "2026-04-04T17:56:35.187Z"
+        },
+        {
+          "post_id": "214707825",
+          "title": "DAY AHEAD - My Daily Editorial Note",
+          "post_date": "2026-09-08T11:27:56.762Z",
+          "url": "https://macfarlanenews.substack.com/p/day-ahead-my-daily-editorial-note-1ca",
+          "body_sha256": "20e7db6c6fb5f4b0dccdd508c7e56868595634d55ec9831e19df2ccbd0cbacb4",
+          "scope": "Full saved public text read",
+          "words": 2322,
+          "bylines": [
+            "Scott MacFarlane"
+          ],
+          "date": "2026-09-08T11:27:56.762Z"
         }
-      ]
+      ],
+      "close_review": "Substack_Six_Alignment_Close_Review.json"
     },
     {
       "rank": 73,
@@ -770,11 +881,11 @@
       "author_or_brand": "Liz Oyer",
       "base_url": "https://www.lawyeroyer.com",
       "summary_group": "Unresolved / insufficient policy evidence",
-      "ideology": "Insufficient broad policy evidence / rule-of-law and defense advocacy",
-      "coalition": "Criticizes Trump pardons; formal party commitment not established",
-      "organization": "Individual-led legal-accountability publication",
+      "ideology": "Broad ideology unclassified / civil liberties and clemency reform",
+      "coalition": "Opposes politicized DOJ and transactional pardons; party identity not established",
+      "organization": "Individual-led legal analysis and rule-of-law advocacy",
       "confidence": "Low",
-      "rationale": "Oyer advocates equal justice, public defense, redemption and transparent pardon processes. These are substantive legal commitments, but do not distinguish a broad liberal, centrist or dissident-conservative policy platform. Anti-Trump criticism and former government service are not enough.",
+      "rationale": "Oyer’s welcome essay defines a focused legal mission. Her lecture explicitly advocates equality, public defense and redemption; her pardon analysis praises relief from excessive drug sentences while defending victim restitution, accountability and principled review. These establish a civil-liberties and clemency-reform orientation, with some liberal-compatible positions, but not a sufficiently broad or distinctive left/right/centrist platform. Former career government service and anti-Trump advocacy do not decide that label.",
       "about_source": {
         "url": "https://www.lawyeroyer.com/about",
         "retrieved_at_utc": "2026-10-19T18:27:21.053696+00:00",
@@ -784,10 +895,15 @@
         {
           "post_id": "177801169",
           "title": "Public Defenders Will Save Us",
+          "post_date": "2025-11-02T16:20:20.394Z",
           "url": "https://www.lawyeroyer.com/p/public-defenders-will-save-us",
-          "date": "2025-11-02T16:20:20.394Z",
           "body_sha256": "f3fda165642515eb3778dd5edef626ad465789bbcf6b7f7cb2edac98b243403c",
-          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+          "scope": "Full saved public text read",
+          "words": 2812,
+          "bylines": [
+            "Liz Oyer"
+          ],
+          "date": "2025-11-02T16:20:20.394Z"
         },
         {
           "post_id": "179148038",
@@ -796,8 +912,35 @@
           "date": "2025-11-17T18:07:15.781Z",
           "body_sha256": "35318b81e8e488907058ebe25045142ae1eaeadd8805b935b5cc4aed97e256e3",
           "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "163513048",
+          "title": "Welcome to Lawyer Oyer",
+          "post_date": "2025-05-14T16:54:25.966Z",
+          "url": "https://www.lawyeroyer.com/p/welcome-to-lawyer-oyer",
+          "body_sha256": "15f73016bc965f4f6f68ca1aaa96a141a24f3b9ffc22b21c243118631ebdb90b",
+          "scope": "Full saved public text read",
+          "words": 684,
+          "bylines": [
+            "Liz Oyer"
+          ],
+          "date": "2025-05-14T16:54:25.966Z"
+        },
+        {
+          "post_id": "165004440",
+          "title": "A Deep Dive on Pardons",
+          "post_date": "2025-06-03T15:22:46.616Z",
+          "url": "https://www.lawyeroyer.com/p/a-deep-dive-on-pardons",
+          "body_sha256": "7c797ec1b41a70022675816684de06e772163ebb14ce23bf1c0307f0f00d26e8",
+          "scope": "Full saved public text read",
+          "words": 2885,
+          "bylines": [
+            "Liz Oyer"
+          ],
+          "date": "2025-06-03T15:22:46.616Z"
         }
-      ]
+      ],
+      "close_review": "Substack_Six_Alignment_Close_Review.json"
     },
     {
       "rank": 81,

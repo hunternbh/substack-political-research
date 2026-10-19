@@ -1,5 +1,5 @@
 {
-  "prepared_at_utc": "2026-10-19T18:41:30.335135+00:00",
+  "prepared_at_utc": "2026-10-19T18:55:13.212651+00:00",
   "scope": "Combined retained sample from the original top fifty and the completed ranks 51–100 expansion.",
   "rule": {
     "month_high_restriction": "restricted_body / post_records > 0.50, evaluated exactly as 2*restricted_body > post_records",
@@ -33,12 +33,11 @@
     "discussions": 5858
   },
   "retained_political_composition": {
-    "Broad left or liberal": 47,
+    "Broad left or liberal": 48,
     "Mixed or heterodox": 2,
     "Center or moderate liberal": 1,
-    "Conservative origins with current policy range unresolved": 2,
-    "Current right or conservative": 4,
-    "Unresolved / insufficient policy evidence": 4
+    "Current right or conservative": 6,
+    "Unresolved / insufficient policy evidence": 3
   },
   "decisions": [
     {
@@ -780,18 +779,45 @@
       "full_observed_months": 35,
       "high_restriction_full_months": 4,
       "full_observed_excluded": false,
-      "political_group": "Conservative origins with current policy range unresolved",
-      "ideology": "Conservative Republican origins; current policy range unconfirmed",
-      "organization": "Individual-led with guests",
+      "political_group": "Current right or conservative",
+      "ideology": "Center-right / anti-Trump conservative",
+      "organization": "Individual-led political commentary",
       "discussions": 206,
       "comments": 27169,
       "root_comments": 17599,
       "replies": 9570,
       "comments_with_text": 26906,
       "batch": "Original ranks 1–50",
-      "alignment_confidence": "Medium",
-      "alignment_rationale": "Explicitly describes twelve years as a Republican congressman and loss of party ties after opposing Trump. Historical origins are recorded separately from current policy ideology.",
-      "alignment_source": "https://www.adamkinzinger.com/about"
+      "alignment_confidence": "High",
+      "alignment_rationale": "Kinzinger explicitly identifies as center-right in his February 2024 essay and as a conservative and Republican in his August 2024 convention speech. His support for Harris is presented as a coalition choice despite policy differences. This resolves his within-window ideological location; it is not an assertion that every position or later post is conservative.",
+      "alignment_source": "https://www.adamkinzinger.com/p/why-we-fight-the-war-against-brain",
+      "alignment_close_review": "Substack_Six_Alignment_Close_Review.json",
+      "alignment_evidence": [
+        {
+          "post_id": "141429369",
+          "title": "Why We Fight. The War Against Brain Worms",
+          "post_date": "2024-02-06T15:19:58.370Z",
+          "url": "https://www.adamkinzinger.com/p/why-we-fight-the-war-against-brain",
+          "body_sha256": "5bb9edbb55dee93bbcbe6d3ddb5309f80107c2ffc9d379ac4806b61960120a4b",
+          "scope": "Full saved public text read",
+          "words": 1328,
+          "bylines": [
+            "Adam Kinzinger"
+          ]
+        },
+        {
+          "post_id": "148039073",
+          "title": "Democracy Knows no Party",
+          "post_date": "2024-08-23T13:34:18.102Z",
+          "url": "https://www.adamkinzinger.com/p/democracy-knows-no-party",
+          "body_sha256": "03b72d32cc4d219a523e414be42805c9e3184f71846314eaa9f5740d4d559001",
+          "scope": "Full saved public text read",
+          "words": 793,
+          "bylines": [
+            "Adam Kinzinger"
+          ]
+        }
+      ]
     },
     {
       "rank": 14,
@@ -1896,9 +1922,9 @@
       "full_observed_months": 35,
       "high_restriction_full_months": 0,
       "full_observed_excluded": false,
-      "political_group": "Conservative origins with current policy range unresolved",
-      "ideology": "Conservative Republican origins; current policy range unconfirmed",
-      "organization": "Individual-led with guests",
+      "political_group": "Current right or conservative",
+      "ideology": "Center-right / moderate conservative, anti-Trump",
+      "organization": "Individual-led political commentary",
       "discussions": 164,
       "comments": 23597,
       "root_comments": 12788,
@@ -1906,8 +1932,35 @@
       "comments_with_text": 22943,
       "batch": "Original ranks 1–50",
       "alignment_confidence": "High",
-      "alignment_rationale": "Explicitly rejects being a progressive or liberal, describes former Republican roots, and commits to fighting the current GOP. An important case where anti-Trump does not mean left.",
-      "alignment_source": "https://www.againstallenemies.net/about"
+      "alignment_rationale": "Wilson describes himself as neither progressive nor liberal and invokes moderate conservatism in his November 2023 Biden endorsement. His January 2024 essay explicitly identifies him as a conservative believer in free markets. This is current in-window self-description and affirmative economic orientation, rather than a label inferred solely from his former Republican career. Democratic electoral support is coded separately.",
+      "alignment_source": "https://www.againstallenemies.net/p/joe-biden-for-president",
+      "alignment_close_review": "Substack_Six_Alignment_Close_Review.json",
+      "alignment_evidence": [
+        {
+          "post_id": "138450552",
+          "title": "Joe Biden for President",
+          "post_date": "2023-11-06T19:33:47.729Z",
+          "url": "https://www.againstallenemies.net/p/joe-biden-for-president",
+          "body_sha256": "7b4f97c7634afab0e1db8bd742fdc1a098147ab38670ea1cf500757c0a103922",
+          "scope": "Full saved public text read",
+          "words": 2246,
+          "bylines": [
+            "Rick Wilson"
+          ]
+        },
+        {
+          "post_id": "141031824",
+          "title": "Late Nights With Donald",
+          "post_date": "2024-01-25T14:46:29.904Z",
+          "url": "https://www.againstallenemies.net/p/late-nights-with-donald",
+          "body_sha256": "3ab4db8ae18c628b426eee99600fd7ff7ff5ad1e2f9fa541a7e5af62c29e4084",
+          "scope": "Full saved public text read",
+          "words": 951,
+          "bylines": [
+            "Rick Wilson"
+          ]
+        }
+      ]
     },
     {
       "rank": 35,
@@ -3514,12 +3567,67 @@
       "root_comments": 474,
       "replies": 2449,
       "comments_with_text": 2769,
-      "political_group": "Unresolved / insufficient policy evidence",
-      "ideology": "Insufficient policy evidence / electoral news and data service",
-      "organization": "Multi-author electoral news and data service",
-      "alignment_confidence": "Low",
-      "alignment_rationale": "The About page claims nonpartisan coverage, and the reviewed pieces primarily report candidates, ballot procedures and polling. Forecasting Democratic gains is not support for those policies; ActBlue fundraising or favorable framing alone is insufficient for a broad policy ideology. Do not count as centrist.",
-      "alignment_source": "https://www.the-downballot.com/about"
+      "political_group": "Broad left or liberal",
+      "ideology": "Left / liberal editorial tendency; tentative",
+      "organization": "Multi-author electoral news, data and commentary service",
+      "alignment_confidence": "Medium",
+      "alignment_rationale": "The outlet’s own May 2024 podcast introduction calls efforts to thwart abortion rights a cynical ploy and describes the rights at stake as cherished civil rights. Its March introduction favors greater representation of progressive mothers, while the August election digest uses favorable reproductive-rights and redistricting-reform framing. Together these support a provisional liberal editorial tendency. This goes beyond predicting Democratic gains, fundraising arrangements or Daily Kos origins. Nonpartisan reporting claims are preserved as the outlet’s stated professional role; no complete economic platform or shared ideology of every byline is inferred.",
+      "alignment_source": "https://www.the-downballot.com/p/why-we-need-to-elect-more-moms-b51",
+      "alignment_close_review": "Substack_Six_Alignment_Close_Review.json",
+      "alignment_evidence": [
+        {
+          "post_id": "147638538",
+          "title": "Why we need to elect more moms",
+          "post_date": "2024-03-21T06:00:00.000Z",
+          "url": "https://www.the-downballot.com/p/why-we-need-to-elect-more-moms-b51",
+          "body_sha256": "ced34a9b2251bb161f3a41827993cc2d18ba98e1ba502b0809907b369d76d7ed",
+          "scope": "Full saved public text read",
+          "words": 185,
+          "bylines": [
+            "David Nir",
+            "David Beard"
+          ]
+        },
+        {
+          "post_id": "147638530",
+          "title": "Missouri Dems filibuster GOP into submission",
+          "post_date": "2024-05-16T07:45:00.000Z",
+          "url": "https://www.the-downballot.com/p/missouri-dems-filibuster-gop-into-34d",
+          "body_sha256": "c117b73af0a50c1dbe4b44efe0a7dbc43dee9e4098d5699cfd9ea494eae47332",
+          "scope": "Full saved public text read",
+          "words": 150,
+          "bylines": [
+            "David Nir",
+            "David Beard"
+          ]
+        },
+        {
+          "post_id": "147865106",
+          "title": "Welcome to the very first edition of The Downballot Morning Digest!",
+          "post_date": "2024-08-19T12:00:50.421Z",
+          "url": "https://www.the-downballot.com/p/welcome-to-the-very-first-edition",
+          "body_sha256": "5920cc713c7710ba05d55143e1de90eb973df830c2bc81b530e9855c578bff54",
+          "scope": "Opening and selected passages of saved public text; full-text tool return was truncated",
+          "words": 3151,
+          "bylines": [
+            "David Nir",
+            "Jeff Singer",
+            "Stephen Wolf"
+          ]
+        },
+        {
+          "post_id": "147729720",
+          "title": "Daily Kos Elections is becoming a new site: The Downballot",
+          "post_date": "2024-08-15T11:01:38.050Z",
+          "url": "https://www.the-downballot.com/p/daily-kos-elections-is-becoming-a",
+          "body_sha256": "f1a7b73667b2f3f28b8123fa4e902afa175ed6a561c5f06c905e9db6914ce027",
+          "scope": "Full saved public text read",
+          "words": 951,
+          "bylines": [
+            "David Nir"
+          ]
+        }
+      ]
     },
     {
       "rank": 68,
@@ -3551,11 +3659,38 @@
       "replies": 184,
       "comments_with_text": 632,
       "political_group": "Unresolved / insufficient policy evidence",
-      "ideology": "Insufficient policy evidence / nonpartisan political reporting",
-      "organization": "Individual-led political news service",
+      "ideology": "Broad ideology unclassified / nonpartisan reporting and institutional reform",
+      "organization": "Individual-led political reporting newsletter",
       "alignment_confidence": "Low",
-      "alignment_rationale": "The mission emphasizes explanation for readers across political stripes, and the policy comparisons distinguish candidates’ positions without establishing the author’s own platform. Nonpartisan reporting is not an affirmative centrist policy identity.",
-      "alignment_source": "https://www.wakeuptopolitics.com/about"
+      "alignment_rationale": "Fleisher’s full essays advocate dialogue across political divisions and an independent accountability branch that could investigate officials of either party. The latter is a substantive institutional proposal, but neither it nor opposition to political violence locates his broader social and economic policies on a left-right scale. The evidence supports a reporting/reform role, not a centrist policy label.",
+      "alignment_source": "https://www.wakeuptopolitics.com/p/we-cant-let-this-be-our-future",
+      "alignment_close_review": "Substack_Six_Alignment_Close_Review.json",
+      "alignment_evidence": [
+        {
+          "post_id": "173349545",
+          "title": "We Can’t Let This Be Our Future",
+          "post_date": "2025-09-11T14:11:21.044Z",
+          "url": "https://www.wakeuptopolitics.com/p/we-cant-let-this-be-our-future",
+          "body_sha256": "29dc7535ad139e2c8c13993bc39ed64bd35e05104db1d676cf51a318d992d9d1",
+          "scope": "Full saved public text read",
+          "words": 1715,
+          "bylines": [
+            "Gabe Fleisher"
+          ]
+        },
+        {
+          "post_id": "200323545",
+          "title": "Why We Need a Fourth Branch of Government",
+          "post_date": "2026-06-03T13:34:27.820Z",
+          "url": "https://www.wakeuptopolitics.com/p/why-we-need-a-fourth-branch-of-government",
+          "body_sha256": "7277d89ff6ad3d7a824b09fffbde5441f446df30d16b01c22ecffbf9d8d07f8a",
+          "scope": "Full saved public text read",
+          "words": 3212,
+          "bylines": [
+            "Gabe Fleisher"
+          ]
+        }
+      ]
     },
     {
       "rank": 69,
@@ -3741,11 +3876,38 @@
       "replies": 99,
       "comments_with_text": 401,
       "political_group": "Unresolved / insufficient policy evidence",
-      "ideology": "Insufficient policy evidence / independent political reporting",
-      "organization": "Individual-led political news service",
+      "ideology": "Broad ideology unclassified / independent political reporting",
+      "organization": "Individual-led independent news and reporting operation",
       "alignment_confidence": "Low",
-      "alignment_rationale": "The reviewed campaign reports quote both parties and describe electoral strategy. The About page favors independent journalism but provides no broad personal policy platform. Coverage of Democrats does not establish a liberal or centrist identity.",
-      "alignment_source": "https://macfarlanenews.substack.com/about"
+      "alignment_rationale": "MacFarlane’s launch essay explains his independent reporting model and audience-guided story selection. His September editorial note reports wage and tariff developments and explicitly defends demographic diversity in newsrooms. That is real normative evidence, but one professional inclusion position and coverage of Democratic proposals are insufficient to establish a broad liberal or centrist platform. Quoted candidates’ positions are not assigned to the reporter.",
+      "alignment_source": "https://macfarlanenews.substack.com/p/leave-legacy-behind-independent-news",
+      "alignment_close_review": "Substack_Six_Alignment_Close_Review.json",
+      "alignment_evidence": [
+        {
+          "post_id": "193185506",
+          "title": "Leave \"legacy\" behind; independent news is the future",
+          "post_date": "2026-04-04T17:56:35.187Z",
+          "url": "https://macfarlanenews.substack.com/p/leave-legacy-behind-independent-news",
+          "body_sha256": "46b8b733741b4dc451bd9d341d5bdc70e71a45a759de7f6d3d5e1a7e5f58943b",
+          "scope": "Full saved public text read",
+          "words": 590,
+          "bylines": [
+            "Scott MacFarlane"
+          ]
+        },
+        {
+          "post_id": "214707825",
+          "title": "DAY AHEAD - My Daily Editorial Note",
+          "post_date": "2026-09-08T11:27:56.762Z",
+          "url": "https://macfarlanenews.substack.com/p/day-ahead-my-daily-editorial-note-1ca",
+          "body_sha256": "20e7db6c6fb5f4b0dccdd508c7e56868595634d55ec9831e19df2ccbd0cbacb4",
+          "scope": "Full saved public text read",
+          "words": 2322,
+          "bylines": [
+            "Scott MacFarlane"
+          ]
+        }
+      ]
     },
     {
       "rank": 73,
@@ -4087,11 +4249,50 @@
       "replies": 173,
       "comments_with_text": 1187,
       "political_group": "Unresolved / insufficient policy evidence",
-      "ideology": "Insufficient broad policy evidence / rule-of-law and defense advocacy",
-      "organization": "Individual-led legal-accountability publication",
+      "ideology": "Broad ideology unclassified / civil liberties and clemency reform",
+      "organization": "Individual-led legal analysis and rule-of-law advocacy",
       "alignment_confidence": "Low",
-      "alignment_rationale": "Oyer advocates equal justice, public defense, redemption and transparent pardon processes. These are substantive legal commitments, but do not distinguish a broad liberal, centrist or dissident-conservative policy platform. Anti-Trump criticism and former government service are not enough.",
-      "alignment_source": "https://www.lawyeroyer.com/about"
+      "alignment_rationale": "Oyer’s welcome essay defines a focused legal mission. Her lecture explicitly advocates equality, public defense and redemption; her pardon analysis praises relief from excessive drug sentences while defending victim restitution, accountability and principled review. These establish a civil-liberties and clemency-reform orientation, with some liberal-compatible positions, but not a sufficiently broad or distinctive left/right/centrist platform. Former career government service and anti-Trump advocacy do not decide that label.",
+      "alignment_source": "https://www.lawyeroyer.com/p/welcome-to-lawyer-oyer",
+      "alignment_close_review": "Substack_Six_Alignment_Close_Review.json",
+      "alignment_evidence": [
+        {
+          "post_id": "163513048",
+          "title": "Welcome to Lawyer Oyer",
+          "post_date": "2025-05-14T16:54:25.966Z",
+          "url": "https://www.lawyeroyer.com/p/welcome-to-lawyer-oyer",
+          "body_sha256": "15f73016bc965f4f6f68ca1aaa96a141a24f3b9ffc22b21c243118631ebdb90b",
+          "scope": "Full saved public text read",
+          "words": 684,
+          "bylines": [
+            "Liz Oyer"
+          ]
+        },
+        {
+          "post_id": "177801169",
+          "title": "Public Defenders Will Save Us",
+          "post_date": "2025-11-02T16:20:20.394Z",
+          "url": "https://www.lawyeroyer.com/p/public-defenders-will-save-us",
+          "body_sha256": "f3fda165642515eb3778dd5edef626ad465789bbcf6b7f7cb2edac98b243403c",
+          "scope": "Full saved public text read",
+          "words": 2812,
+          "bylines": [
+            "Liz Oyer"
+          ]
+        },
+        {
+          "post_id": "165004440",
+          "title": "A Deep Dive on Pardons",
+          "post_date": "2025-06-03T15:22:46.616Z",
+          "url": "https://www.lawyeroyer.com/p/a-deep-dive-on-pardons",
+          "body_sha256": "7c797ec1b41a70022675816684de06e772163ebb14ce23bf1c0307f0f00d26e8",
+          "scope": "Full saved public text read",
+          "words": 2885,
+          "bylines": [
+            "Liz Oyer"
+          ]
+        }
+      ]
     },
     {
       "rank": 81,
@@ -30535,16 +30736,81 @@
     "expected_eligible_publication_months": 1182,
     "saved_archive_page_files_missing": 0
   },
-  "alignment_method": "Thirty-three public About-page openings and selected passages in two saved public posts per retained publication; additional full-text readings logged for ambiguous cases. Selection is purposive, not a representative article sample. Full-versus-passage scopes are listed per source.",
+  "alignment_method": "Thirty-three public About-page openings and selected passages in two saved public posts per retained publication; additional full-text readings logged for ambiguous cases. The six-publication close review adds source-linked saved-post evidence for four additions and two original publications. Selection is purposive, not a representative article sample. Full-versus-passage scopes are listed per source.",
   "limits": [
     "This is a content-access selection rule, not proof of complete articles, complete historical archives or complete discussions.",
     "Keeping a publication does not mean its restricted posts have become readable; some restricted months and short previews remain.",
     "Politics and business model can correlate with content access; this cohort is not representative of all political writers.",
     "Previously reported pilots and the working manuscript used other frames and have not been re-estimated on this cohort.",
     "The completed planned collection pass is a finite public-discussion sample, not all comments on all articles.",
-    "Four retained new news/legal publications have insufficient broad policy evidence and are not counted as centrist.",
-    "The two original conservative-origin cases retain their earlier current-policy uncertainty; neither is reassigned on biography alone."
+    "Three retained reporting/legal publications remain unclassified on broad ideology; nonpartisan work is not automatically centrist.",
+    "The six-publication close review resolves Kinzinger and Wilson as center-right/conservative and The Downballot as a tentative liberal editorial tendency, using saved posts rather than biography alone."
   ],
   "new_model_api_calls": 0,
-  "new_api_spending_usd": 0
+  "new_api_spending_usd": 0,
+  "alignment_close_review": "Substack_Six_Alignment_Close_Review.json",
+  "retained_empty_month_audit": {
+    "checked_at_utc": "2026-10-19T18:53:19.902993+00:00",
+    "definition": "Zero saved post records between first and last observed post months; not restricted-body posts.",
+    "scope": "All four retained publications with interior empty months, using existing saved raw archive responses and read-only databases. No new network requests.",
+    "publication_months_with_red_x": 11,
+    "rows": [
+      {
+        "rank": 36,
+        "publication": "Brian Tyler Cohen",
+        "empty_months": [
+          "2025-10"
+        ],
+        "saved_archive_pages_checked": 5,
+        "raw_in_window_unique_post_ids": 178,
+        "database_in_window_post_ids": 178,
+        "raw_and_database_post_ids_match": true,
+        "empty_in_returned_raw_archive_too": true
+      },
+      {
+        "rank": 57,
+        "publication": "Michael Moore",
+        "empty_months": [
+          "2025-07",
+          "2026-02",
+          "2026-03",
+          "2026-05",
+          "2026-06"
+        ],
+        "saved_archive_pages_checked": 5,
+        "raw_in_window_unique_post_ids": 160,
+        "database_in_window_post_ids": 160,
+        "raw_and_database_post_ids_match": true,
+        "empty_in_returned_raw_archive_too": true
+      },
+      {
+        "rank": 63,
+        "publication": "The Pugilist with Alisa Valdes-Rodriguez",
+        "empty_months": [
+          "2024-09",
+          "2024-10"
+        ],
+        "saved_archive_pages_checked": 10,
+        "raw_in_window_unique_post_ids": 423,
+        "database_in_window_post_ids": 423,
+        "raw_and_database_post_ids_match": true,
+        "empty_in_returned_raw_archive_too": true
+      },
+      {
+        "rank": 80,
+        "publication": "Lawyer Oyer",
+        "empty_months": [
+          "2025-08",
+          "2025-10",
+          "2026-08"
+        ],
+        "saved_archive_pages_checked": 2,
+        "raw_in_window_unique_post_ids": 48,
+        "database_in_window_post_ids": 48,
+        "raw_and_database_post_ids_match": true,
+        "empty_in_returned_raw_archive_too": true
+      }
+    ],
+    "interpretation": "These gaps are already absent from returned saved archive pages, rather than posts lost during database ingestion. This does not distinguish a publishing break, removed/migrated content, or omissions in Substack archive responses, and does not prove the source archive complete."
+  }
 }
