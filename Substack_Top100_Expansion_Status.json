@@ -1,13 +1,13 @@
 {
-  "checkpoint_utc": "2026-10-19T18:20:01.444809+00:00",
-  "checkpoint_new_york": "October 19, 2026, 02:20 PM EDT",
-  "phase": "collecting_monthly_comment_sample",
-  "status_plain_language": "Collecting the monthly comment sample",
+  "checkpoint_utc": "2026-10-19T18:41:00.780759+00:00",
+  "checkpoint_new_york": "October 19, 2026, 02:41 PM EDT",
+  "phase": "finished_pass_inspect_coverage_errors",
+  "status_plain_language": "Planned collection pass finished; monthly selection coverage checked",
   "publication_target": 50,
   "publications_with_post_records": 50,
   "post_records": 30074,
-  "comment_records": 23530,
-  "captured_discussions": 415,
+  "comment_records": 70001,
+  "captured_discussions": 1254,
   "archives_at_terminal_state": 50,
-  "note": "Static checkpoint, not a live feed. Expansion counts are preliminary and separate from the original fifty."
+  "note": "Completed planned collection pass for the new fifty; public discussion branches can remain incomplete. Counts are before the access filter."
 }

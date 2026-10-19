@@ -1,0 +1,1237 @@
+{
+  "reviewed_at_utc": "2026-10-19T18:31:18.764392+00:00",
+  "scope": "All 33 access-filter-retained publications from ranks 51-100. The seventeen access-excluded additions were not classified for this combined-retained breakdown.",
+  "coder": "Assistant manual review; no external model API and no independent human validation.",
+  "reading_scope": "Thirty-three public About-page openings and selected passages in two saved public posts per retained publication; additional full-text readings logged for ambiguous cases. Selection is purposive, not a representative article sample. Full-versus-passage scopes are listed per source.",
+  "rule": "Affirmative policy positions, explicit self-description and repeated normative framing; nonpartisan news style, party support and anti-Trump positions are not automatic centrist or liberal labels.",
+  "group_counts": {
+    "Broad left or liberal": 25,
+    "Mixed or heterodox": 1,
+    "Unresolved / insufficient policy evidence": 4,
+    "Current right or conservative": 3
+  },
+  "rows": [
+    {
+      "rank": 52,
+      "publication_id": "4258115",
+      "publication": "Endless Urgency with Mike Nellis",
+      "author_or_brand": "Mike Nellis",
+      "base_url": "https://endlessurgency.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Center-left / Democratic working-class reformism",
+      "coalition": "Democratic strategist; explicit party-building mission",
+      "organization": "Individual-led political commentary",
+      "confidence": "High",
+      "rationale": "Explicit Democratic-strategist identity and advocacy for working people, protecting social insurance and confronting concentrated wealth support a liberal/center-left orientation; party loyalty is recorded separately.",
+      "about_source": {
+        "url": "https://endlessurgency.com/about",
+        "retrieved_at_utc": "2026-10-19T18:26:36.078867+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "211199209",
+          "title": "John Fetterman Just Made an Incredible Promise to Republicans—and Democrats Need to Wake Up",
+          "url": "https://endlessurgency.com/p/john-fetterman-just-made-an-incredible",
+          "date": "2026-08-14T16:16:45.419Z",
+          "body_sha256": "2e0e6bfb2f8b6ac07f400b4b8e3716826630d377d02a7b58b057fdfe2b1929d7",
+          "scope": "Full saved public text"
+        },
+        {
+          "post_id": "220756248",
+          "title": "It’s Not the Economy, Stupid. It’s the CORRUPTION!!",
+          "url": "https://endlessurgency.com/p/its-not-the-economy-stupid-its-the",
+          "date": "2026-10-16T22:01:46.960Z",
+          "body_sha256": "d6c08fca83f356e1bd40e77b136e10156744adf373374e4fb92fa8fea8630731",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "201603157",
+          "title": "LEAKED!! Mike Johnson Says GOP Has SECRET PLAN to Gut Medicaid, Medicaid, and Social Security ",
+          "url": "https://endlessurgency.com/p/leaked-mike-johnson-says-gop-has",
+          "date": "2026-06-11T16:02:06.441Z",
+          "body_sha256": "ce07562290281f4b28e75bc84d4132a9d43eb64a0789f14542c21b6cfaf4dc86",
+          "scope": "Full saved public text"
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "publication_id": "1175745",
+      "publication": "Sarah Kendzior’s Newsletter",
+      "author_or_brand": "Sarah Kendzior",
+      "base_url": "https://sarahkendzior.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / liberal human-rights and anti-war commentary",
+      "coalition": "Independent; critical of partisan cruelty and U.S. military support for Israel",
+      "organization": "Individual-led essays and political commentary",
+      "confidence": "Medium",
+      "rationale": "The reviewed writing opposes public funding of Israeli military action and defends migrants and civilians across partisan divides. Broad left/liberal placement is provisional; the review does not establish a complete economic platform.",
+      "about_source": {
+        "url": "https://sarahkendzior.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:26:38.407826+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "167764196",
+          "title": "Guns or Fireworks",
+          "url": "https://sarahkendzior.substack.com/p/guns-or-fireworks",
+          "date": "2025-07-07T23:46:59.257Z",
+          "body_sha256": "417bf8d5e4d63b427b319782c122c6ff917384ded20cbeb22d77057e38838da1",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "170989872",
+          "title": "On Palestine",
+          "url": "https://sarahkendzior.substack.com/p/on-palestine",
+          "date": "2025-08-14T18:21:12.881Z",
+          "body_sha256": "723ffb02b2b3d3e5a996b2a9e71e153631ac5c644b07425f221d9f03b2954daa",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "publication_id": "1258230",
+      "publication": "The Big Picture",
+      "author_or_brand": "The Big Picture",
+      "base_url": "https://thinkbigpicture.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / progressive editorial tendency",
+      "coalition": "Democratic-friendly; favors resistance to pressure to abandon trans rights",
+      "organization": "Multi-author explanatory news and commentary",
+      "confidence": "High",
+      "rationale": "Published editorial analysis affirmatively defends transgender rights and public healthcare and opposes upward wealth transfers. This is an outlet tendency; Todd Beeton’s authored pieces are not attributed to every contributor.",
+      "about_source": {
+        "url": "https://thinkbigpicture.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:26:40.615309+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "193008027",
+          "title": "Democrats Who Refuse To 'Moderate' On Trans Rights Are Showing The Way",
+          "url": "https://thinkbigpicture.substack.com/p/democrats-trans-rights-support",
+          "date": "2026-04-02T21:45:20.987Z",
+          "body_sha256": "6d5ff2fd1e50f460d78fa5de8aa0d6b77642cacdbbcfabf9842e1a954f4523d9",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "167848250",
+          "title": "Trump's Megabill Screws Over His Own Voters—And Democrats Are Already Making Republicans Pay",
+          "url": "https://thinkbigpicture.substack.com/p/obbba-trump-republican-backlash",
+          "date": "2025-07-08T21:35:47.843Z",
+          "body_sha256": "567f0cb9c09dc67378ec2a885b4bf53ceb14df8a92c78842f0a30ae66fb87155",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "publication_id": "320974",
+      "publication": "Michael Moore",
+      "author_or_brand": "Michael Moore",
+      "base_url": "https://www.michaelmoore.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / progressive",
+      "coalition": "Progressive Democratic coalition; criticizes Democratic leaders from the left",
+      "organization": "Individual-led essays and multimedia commentary",
+      "confidence": "High",
+      "rationale": "Moore explicitly advances a liberal/progressive agenda including labor rights, public provision and reproductive rights, and supports a democratic-socialist candidate against resistant Democratic leaders.",
+      "about_source": {
+        "url": "https://www.michaelmoore.com/about",
+        "retrieved_at_utc": "2026-10-19T18:26:42.827340+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "147296233",
+          "title": "In America, Liberal Is the New Mainstream",
+          "url": "https://www.michaelmoore.com/p/in-america-liberal-is-the-new-mainstream",
+          "date": "2024-08-12T10:35:25.975Z",
+          "body_sha256": "0af2d7ceddb50a8850f7a0705939453e2264b3137405e6beeb20443a89c45b52",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "170690470",
+          "title": "He’s a 33-year-old Pro-Palestine Muslim Who’s Winning the Jewish Vote, a Democratic Socialist Whom Every Dem Party Leader in NY Has Refused to Endorse, and a U.S. Citizen for Only 7 Years!",
+          "url": "https://www.michaelmoore.com/p/hes-a-33-year-old-pro-palestine-muslim",
+          "date": "2025-08-12T18:53:40.029Z",
+          "body_sha256": "67fea60458648a63fce0f81c27ee2d0b3dd97f86eaed35fc7c995058c7fd5779",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "publication_id": "899862",
+      "publication": "Law Dork",
+      "author_or_brand": "Chris Geidner",
+      "base_url": "https://www.lawdork.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Center-left / socially liberal legal journalism",
+      "coalition": "Policy-rights framing; formal party pledge not established",
+      "organization": "Individual-led legal news and analysis",
+      "confidence": "Medium",
+      "rationale": "Geidner’s own analysis criticizes unequal protection of LGBTQ families and abortion restrictions. This supports a tentative socially liberal editorial placement, not a complete economic ideology or an inferred party registration.",
+      "about_source": {
+        "url": "https://www.lawdork.com/about",
+        "retrieved_at_utc": "2026-10-19T18:26:45.056453+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "167140357",
+          "title": "SCOTUS's parental rights messages: Protect anti-LGBTQ views, ignore LGBTQ people",
+          "url": "https://www.lawdork.com/p/scotus-parental-rights-mahmoud-trans-care",
+          "date": "2025-07-01T21:24:34.421Z",
+          "body_sha256": "d1e54d4d49c1ba2c79a9074fb7d88bf2a548e6190e5cc69fe39302061c0814b3",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "143172203",
+          "title": "Florida high court upholds abortion ban — and puts abortion on the ballot",
+          "url": "https://www.lawdork.com/p/florida-high-court-upholds-abortion",
+          "date": "2024-04-02T00:26:07.092Z",
+          "body_sha256": "e30ee285c73155559716fe9f71bc38a4c3d06f7aca75d7e8340a1f73634cc8cb",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "publication_id": "61579",
+      "publication": "Persuasion",
+      "author_or_brand": "Yascha Mounk",
+      "base_url": "https://www.persuasion.community",
+      "summary_group": "Mixed or heterodox",
+      "ideology": "Mixed / pluralist philosophical-liberal forum",
+      "coalition": "Liberal-democratic mission; no single party identity inferred",
+      "organization": "Multi-author ideas and opinion publication",
+      "confidence": "Medium",
+      "rationale": "The stated mission promotes philosophical liberalism. Reviewed contributors include a democratic socialist leaving DSA and a defender of liberal toleration critical of illiberal tactics. Their views are not Mounk’s personal policy platform; do not equate a pluralist forum with centrism.",
+      "about_source": {
+        "url": "https://www.persuasion.community/about",
+        "retrieved_at_utc": "2026-10-19T18:26:47.441969+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "138303930",
+          "title": "Why I Just Quit Democratic Socialists of America",
+          "url": "https://www.persuasion.community/p/why-i-just-quit-democratic-socialists",
+          "date": "2023-10-27T16:01:50.271Z",
+          "body_sha256": "b577612ff11d810d77a5fb40b90ba50d20cf879dd5b3afcc625ecdcd8d929929",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "147138517",
+          "title": "Illiberal Liberalism",
+          "url": "https://www.persuasion.community/p/illiberal-liberalism",
+          "date": "2024-07-30T14:31:05.044Z",
+          "body_sha256": "9a7da71f4d80e171c918910e740c13f25b29c97eecc833b5348358bee4267716",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "publication_id": "2550223",
+      "publication": "Let's Address This with Qasim Rashid",
+      "author_or_brand": "Qasim Rashid, Esq.",
+      "base_url": "https://www.qasimrashid.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / progressive human-rights advocacy",
+      "coalition": "Independent advocacy; opposed to Trump immigration policy",
+      "organization": "Individual-led human-rights commentary",
+      "confidence": "High",
+      "rationale": "Rashid affirmatively advocates Palestinian statehood, accountability and protections for immigrants. The label concerns the stated advocacy; the article’s legal and factual claims were not independently adjudicated.",
+      "about_source": {
+        "url": "https://www.qasimrashid.com/about",
+        "retrieved_at_utc": "2026-10-19T18:26:49.788612+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "175814656",
+          "title": "Peace For Palestine (And Israel) Demands Palestinian Statehood",
+          "url": "https://www.qasimrashid.com/p/peace-for-palestine-and-israel-demands",
+          "date": "2025-10-10T17:53:41.668Z",
+          "body_sha256": "9c70bd3277e1a23adc8baa2da45b6c821d537f3563edc5d0fccab2d9827d5fd8",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "219691478",
+          "title": "Another ICE Shooting in NYC — How To Protect Ourselves From ICE Fascists",
+          "url": "https://www.qasimrashid.com/p/another-ice-shooting-in-nyc-how-to",
+          "date": "2026-10-10T15:11:38.102Z",
+          "body_sha256": "3b01eb1a64155a0ca8f120c1e775e667c6aaf1542bed0fdd7a3a7d66f0c8b3a6",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 61,
+      "publication_id": "4753915",
+      "publication": "Amanda's Mild Takes",
+      "author_or_brand": "Amanda Nelson",
+      "base_url": "https://amandasmildtakes.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / progressive-to-center-left organizing",
+      "coalition": "Explicit mission to help center-to-left candidates gain power",
+      "organization": "Individual-led history and political commentary",
+      "confidence": "High",
+      "rationale": "The About page explicitly names a center-to-left power-building mission. Her own article advocates replacing ICE and reducing its budget; the candidate spotlight encourages support for progressive local candidates.",
+      "about_source": {
+        "url": "https://amandasmildtakes.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:26:52.040305+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "183843546",
+          "title": "Why do we even have ICE?",
+          "url": "https://amandasmildtakes.substack.com/p/why-do-we-even-have-ice",
+          "date": "2026-01-08T11:32:35.267Z",
+          "body_sha256": "495eb91c73c3f96dc2d082cda2b8fcee52782a3b858add51b5e606c1f69465be",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "171061309",
+          "title": "How to reach rural voters with progressive ideas",
+          "url": "https://amandasmildtakes.substack.com/p/how-to-reach-rural-voters-with-progressive",
+          "date": "2025-08-18T18:00:46.606Z",
+          "body_sha256": "76e852e9a87f6dcccd8ffdb4bc8fb6915fcfdd3439f84c9d61aaf582611511d3",
+          "scope": "Full saved public text"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "publication_id": "1790706",
+      "publication": "The Pugilist with Alisa Valdes-Rodriguez",
+      "author_or_brand": "Alisa Valdes-Rodriguez",
+      "base_url": "https://alisav.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / social-democratic economic orientation",
+      "coalition": "Critiques corporate power and liberal establishment positions",
+      "organization": "Individual-led investigative essays and commentary",
+      "confidence": "High",
+      "rationale": "Valdes-Rodriguez distinguishes socialism from authoritarianism and affirmatively favors public provision, universal healthcare and labor protections. Historical quotations by King are not treated as her own self-identification.",
+      "about_source": {
+        "url": "https://alisav.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:26:54.268973+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "185070013",
+          "title": "Martin Luther King Jr. on Capitalism",
+          "url": "https://alisav.substack.com/p/martin-luther-king-on-capitalism",
+          "date": "2026-01-19T15:32:06.810Z",
+          "body_sha256": "4755589c6f70aeb15ce1e4640266440c49dc58d841085d80e91784965ea3299d",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "171781694",
+          "title": "Is Trump Turning Socialist?",
+          "url": "https://alisav.substack.com/p/is-trump-turning-socialist",
+          "date": "2025-08-24T04:08:17.997Z",
+          "body_sha256": "9917178121eff6a7f7da909b93158a18f73766f80ef8e1e6f2f651378b0c1881",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 64,
+      "publication_id": "3375056",
+      "publication": "Talking Feds Substack",
+      "author_or_brand": "Harry Litman",
+      "base_url": "https://harrylitman.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Center-left / liberal legal analysis; tentative",
+      "coalition": "Anti-Trump; publishes Democratic-friendly commentary",
+      "organization": "Individual-led legal analysis with guest contributions",
+      "confidence": "Medium",
+      "rationale": "Litman’s own gun-law essay favors modern risk evidence, legislative judgment and agency expertise over historical analogy. A separately identified guest advocates Democratic resistance and healthcare protection; those guest arguments are not assigned to Litman personally. The broad placement remains inferential.",
+      "about_source": {
+        "url": "https://harrylitman.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:26:56.688622+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "174367099",
+          "title": "Why Democrats Should Shut Down the Government",
+          "url": "https://harrylitman.substack.com/p/why-democrats-should-shut-down-the",
+          "date": "2025-09-23T18:25:36.993Z",
+          "body_sha256": "e4b62e79d76ce95b45950388dda32ee8b00188903af06d217588953be236bbd8",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "190518064",
+          "title": "Should Stoners Have Guns?",
+          "url": "https://harrylitman.substack.com/p/should-stoners-have-guns",
+          "date": "2026-03-10T15:35:20.817Z",
+          "body_sha256": "3323cd7c4b7ab7d53cecfe17caf94cf7010e4c344dd19ce6562b4aa53a6c2946",
+          "scope": "Full saved public text"
+        }
+      ]
+    },
+    {
+      "rank": 65,
+      "publication_id": "1198484",
+      "publication": " Are you f'ng kidding me?",
+      "author_or_brand": "JoJoFromJerz",
+      "base_url": "https://jojofromjerz.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / liberal",
+      "coalition": "Explicitly identifies a media ecosystem on the left; supports Democrats",
+      "organization": "Individual-led commentary and media-network podcast",
+      "confidence": "High",
+      "rationale": "Her own writing calls for stronger gun laws and Democratic electoral support. A later coauthored post explicitly describes building a media ecosystem on the left and favorably treats unions and social insurance.",
+      "about_source": {
+        "url": "https://jojofromjerz.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:26:58.905464+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "139505423",
+          "title": "Republicans wouldn’t even hold a vote on guns.",
+          "url": "https://jojofromjerz.substack.com/p/republicans-wouldnt-even-hold-a-vote",
+          "date": "2023-12-06T19:41:20.420Z",
+          "body_sha256": "f82863ccb1465bb95b5ceb9704f7abd5c12cd85d9b9ee2ae3694433ddf3726e2",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "201706888",
+          "title": "Mike Johnson Caught on Tape Calling for Cuts to Social Security and Medicaid",
+          "url": "https://jojofromjerz.substack.com/p/mike-johnson-caught-on-tape-calling",
+          "date": "2026-06-12T22:05:00.342Z",
+          "body_sha256": "6072280320984b1f685b975332a6e644abd983785454bb6dbc00d39f917671bd",
+          "scope": "Full saved public text"
+        }
+      ]
+    },
+    {
+      "rank": 66,
+      "publication_id": "250845",
+      "publication": "Krystal Kyle & Friends",
+      "author_or_brand": "Krystal Kyle & Friends",
+      "base_url": "https://krystalkyleandfriends.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / progressive, pro-labor",
+      "coalition": "Explicit self-description as members of the left; critical of weak Democratic alternatives",
+      "organization": "Podcast and guest-essay publication",
+      "confidence": "High",
+      "rationale": "Two initial essays are by guest Egor Kotkin and were not assigned to the hosts. Additional host-branded episode introductions explicitly identify with the left and praise pro-labor progressive campaigns, corroborating the publication’s broad orientation.",
+      "about_source": {
+        "url": "https://krystalkyleandfriends.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:01.150917+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "179308368",
+          "title": "Climate Change Puts Humanity on The Clock for Radical Change [KKF read]",
+          "url": "https://krystalkyleandfriends.substack.com/p/climate-change-puts-humanity-on-the",
+          "date": "2025-12-23T03:39:42.623Z",
+          "body_sha256": "5667433999249a10aebc79f9a8e48cd49427c5092950c1f87d741503c8c1d672",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "173704557",
+          "title": "Saving the Ozone Layer: How the Success of Humanity's First Collective Action Was Erased by Neoliberal Amnesia [KKF longread]",
+          "url": "https://krystalkyleandfriends.substack.com/p/saving-the-ozone-layer-success",
+          "date": "2025-09-19T17:56:11.041Z",
+          "body_sha256": "7ab49dc4ad77ac32473ae8582834ac729f218f8d30a13d17e6ab472ce8192475",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "220271983",
+          "title": "Blue-nami??",
+          "url": "https://krystalkyleandfriends.substack.com/p/blue-nami",
+          "date": "2026-10-13T22:44:28.283Z",
+          "body_sha256": "6efa665bf12fe42b0187af386343a45442e6ff1fa44d0753aab19c47d70f0818",
+          "scope": "Full saved public text"
+        },
+        {
+          "post_id": "220920944",
+          "title": "Episode 299 Audio: Richard Ojeda",
+          "url": "https://krystalkyleandfriends.substack.com/p/episode-299-audio-richard-ojeda",
+          "date": "2026-10-18T01:54:04.615Z",
+          "body_sha256": "b90fc128edbf27fbdfb6896675f324cedbb29ba0ca9abd2c833b32999bf0571d",
+          "scope": "Full saved public text"
+        }
+      ]
+    },
+    {
+      "rank": 67,
+      "publication_id": "2418217",
+      "publication": "The Downballot",
+      "author_or_brand": "David Nir",
+      "base_url": "https://www.the-downballot.com",
+      "summary_group": "Unresolved / insufficient policy evidence",
+      "ideology": "Insufficient policy evidence / electoral news and data service",
+      "coalition": "Nonpartisan brand; Democratic-friendly framing appears in some coverage",
+      "organization": "Multi-author electoral news and data service",
+      "confidence": "Low",
+      "rationale": "The About page claims nonpartisan coverage, and the reviewed pieces primarily report candidates, ballot procedures and polling. Forecasting Democratic gains is not support for those policies; ActBlue fundraising or favorable framing alone is insufficient for a broad policy ideology. Do not count as centrist.",
+      "about_source": {
+        "url": "https://www.the-downballot.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:03.373968+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "157427847",
+          "title": "Morning Digest: Democrats land a major name in one of the few 'Harris-Republican' House districts",
+          "url": "https://www.the-downballot.com/p/morning-digest-democrats-land-a-major",
+          "date": "2025-02-19T13:03:49.701Z",
+          "body_sha256": "11147bec101f45b56a230eaae54dd5f132bff4640d39178ea2f5561a1989db8a",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "147711547",
+          "title": "Morning Digest: Missouri Republicans tried to keep abortion off the ballot. They failed",
+          "url": "https://www.the-downballot.com/p/morning-digest-missouri-republicans",
+          "date": "2024-08-14T16:17:55.673Z",
+          "body_sha256": "a5999fb2b782751e9d33b97bbde7bd4ec5ed2e17f879896fd63e53456f49f059",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "212804278",
+          "title": "House race polling also points to a big blue wave",
+          "url": "https://www.the-downballot.com/p/house-race-polling-also-points-to",
+          "date": "2026-10-12T15:27:09.354Z",
+          "body_sha256": "72c9f8a95fe6fb7647a70646f0124af5ec67129295818a57c180ed6a7e2c1c85",
+          "scope": "Full saved public text"
+        }
+      ]
+    },
+    {
+      "rank": 68,
+      "publication_id": "234771",
+      "publication": "Wake Up To Politics",
+      "author_or_brand": "Gabe Fleisher",
+      "base_url": "https://www.wakeuptopolitics.com",
+      "summary_group": "Unresolved / insufficient policy evidence",
+      "ideology": "Insufficient policy evidence / nonpartisan political reporting",
+      "coalition": "Explicit cross-partisan news mission",
+      "organization": "Individual-led political news service",
+      "confidence": "Low",
+      "rationale": "The mission emphasizes explanation for readers across political stripes, and the policy comparisons distinguish candidates’ positions without establishing the author’s own platform. Nonpartisan reporting is not an affirmative centrist policy identity.",
+      "about_source": {
+        "url": "https://www.wakeuptopolitics.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:05.639195+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "150824648",
+          "title": "Where they stand: Trump and Harris on immigration",
+          "url": "https://www.wakeuptopolitics.com/p/the-stakes-where-trump-and-harris",
+          "date": "2024-10-28T14:39:11.981Z",
+          "body_sha256": "2a6404d437910653f1ee29cdc48a4ba157d44bc33de0ab565b8431965518ba81",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "150892898",
+          "title": "Where they stand: Trump and Harris on health care",
+          "url": "https://www.wakeuptopolitics.com/p/how-trump-and-harris-would-impact",
+          "date": "2024-10-31T13:17:37.050Z",
+          "body_sha256": "0ba68e06bc5c7ba01c5513a04eef7871ec0c8de18e81b34f4ecae3a8205a9fcc",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 71,
+      "publication_id": "782570",
+      "publication": "Jim Hightower's Lowdown",
+      "author_or_brand": "Jim Hightower",
+      "base_url": "https://jimhightower.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / progressive democratic populism",
+      "coalition": "Pro-labor and egalitarian; criticizes corporate Democratic leadership",
+      "organization": "Individual-led political commentary",
+      "confidence": "High",
+      "rationale": "The About page explicitly identifies progressive democratic populism. His own short essays advocate taxing wealthy interests, defending workers and strengthening Sanders-style anti-oligarchy organizing.",
+      "about_source": {
+        "url": "https://jimhightower.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:07.894514+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "195765788",
+          "title": "Forget Being \"Moderate\"—Democrats Should Be the Mad-As-Hell Party",
+          "url": "https://jimhightower.substack.com/p/forget-being-moderatedemocrats-should",
+          "date": "2026-04-28T15:59:28.995Z",
+          "body_sha256": "757dbab706897042c966974995f5bbf7f37507cbbd1d91a2d23956f01597eddf",
+          "scope": "Full saved public text"
+        },
+        {
+          "post_id": "158295179",
+          "title": "Now Is the Time to Push for a *Democratic* Democratic Party",
+          "url": "https://jimhightower.substack.com/p/now-is-the-time-to-push-for-a-democratic",
+          "date": "2025-03-04T18:00:46.027Z",
+          "body_sha256": "b392c4ba8d7c67e8a0af2eb32a026df2b74c890f6cbf1cb0618003ee8d431d5c",
+          "scope": "Full saved public text"
+        }
+      ]
+    },
+    {
+      "rank": 72,
+      "publication_id": "5939314",
+      "publication": "Scott MacFarlane Reports",
+      "author_or_brand": "Scott MacFarlane",
+      "base_url": "https://macfarlanenews.substack.com",
+      "summary_group": "Unresolved / insufficient policy evidence",
+      "ideology": "Insufficient policy evidence / independent political reporting",
+      "coalition": "Democracy and press-independence mission; party identity not established",
+      "organization": "Individual-led political news service",
+      "confidence": "Low",
+      "rationale": "The reviewed campaign reports quote both parties and describe electoral strategy. The About page favors independent journalism but provides no broad personal policy platform. Coverage of Democrats does not establish a liberal or centrist identity.",
+      "about_source": {
+        "url": "https://macfarlanenews.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:10.102073+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "202047028",
+          "title": "Ahead of Potential Wave Election, Democrats Prepare to Ride the Crest in Kansas, Florida and Mississippi",
+          "url": "https://macfarlanenews.substack.com/p/ahead-of-potential-wave-election",
+          "date": "2026-06-14T23:31:08.379Z",
+          "body_sha256": "7bfff5bcb2f2e476f5d634bc983451818680bd6204df01fac859ca1e497aa86d",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "220567676",
+          "title": "DAY AHEAD - My Daily Editorial Note",
+          "url": "https://macfarlanenews.substack.com/p/day-ahead-my-daily-editorial-note-63f",
+          "date": "2026-10-16T10:22:35.320Z",
+          "body_sha256": "0fb1b9f25cce07ad24c8ff53f1743ff2937a1e9a9127bedf7bfc3c7077c9239f",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 73,
+      "publication_id": "1669845",
+      "publication": "The Breakdown",
+      "author_or_brand": "Allison Gill",
+      "base_url": "https://www.muellershewrote.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Center-left / liberal legal commentary",
+      "coalition": "Explicit support for Biden and Harris",
+      "organization": "Individual-led legal commentary and media-network brand",
+      "confidence": "Medium",
+      "rationale": "Gill explicitly supports Biden/Harris and frames a Harris victory in racial and gender-equality terms. Her framing of the transgender-service case and reproductive-rights work corroborates a tentative liberal orientation; court quotations are not her own words.",
+      "about_source": {
+        "url": "https://www.muellershewrote.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:12.263729+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "159378791",
+          "title": "Judge Reyes BLOCKS Trump's Ban on Transgender Service Members",
+          "url": "https://www.muellershewrote.com/p/judge-reyes-blocks-trumps-ban-on",
+          "date": "2025-03-19T00:55:16.236Z",
+          "body_sha256": "ee1472125d3e0a206db0c9b847f06dc19acc89e9cfeadbb1ddcd0f46abbf03cb",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "146866215",
+          "title": "Harris 2024",
+          "url": "https://www.muellershewrote.com/p/harris-2024",
+          "date": "2024-07-22T03:24:48.941Z",
+          "body_sha256": "a010dd18e0412f89965279c1eb21e30388b36f8e89af714da327365ff4788db4",
+          "scope": "Full saved public text"
+        }
+      ]
+    },
+    {
+      "rank": 74,
+      "publication_id": "1960047",
+      "publication": "The View from Rural Missouri by Jess Piper",
+      "author_or_brand": "Jess Piper",
+      "base_url": "https://jesspiper.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / rural progressive",
+      "coalition": "Explicit Democratic candidate and organizing identity",
+      "organization": "Individual-led rural political commentary",
+      "confidence": "High",
+      "rationale": "Piper directly identifies a rural progressive point of view. Her own writing opposes public-school privatization and child-labor deregulation and favors Medicaid and reproductive rights.",
+      "about_source": {
+        "url": "https://jesspiper.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:14.457099+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "140543034",
+          "title": "Defunding Schools -- Rolling Back Child Labor Laws and Reproductive Rights",
+          "url": "https://jesspiper.substack.com/p/defunding-schools-rolling-back-child",
+          "date": "2024-04-08T18:05:11.636Z",
+          "body_sha256": "9388b9bf9201c9c16c14489950a570a1d0e45d0d7b3948d56849f676e832825a",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "167046641",
+          "title": "Three Messages Democrats Should Bring to Rural America",
+          "url": "https://jesspiper.substack.com/p/three-messages-democrats-should-bring",
+          "date": "2025-06-28T18:56:35.782Z",
+          "body_sha256": "a85cf68926c8a0fe3b8fe7e5f1ccc568568893ae5840a179fc164e827962d69f",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 75,
+      "publication_id": "5818316",
+      "publication": "The Existentialist Republic",
+      "author_or_brand": "Christopher Armitage",
+      "base_url": "https://theexistentialrepublic.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / progressive public-policy advocacy",
+      "coalition": "Opposes Republican authoritarianism; seeks policy action in Democratic-controlled states",
+      "organization": "Individual-led public-policy and investigative newsletter",
+      "confidence": "High",
+      "rationale": "Armitage expressly favors public health-insurance options and union organizing and frames policy around working-class gains and opposition to oligarchy. The review codes advocacy without certifying the numerical claims.",
+      "about_source": {
+        "url": "https://cmarmitage.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:16.631888+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "212462974",
+          "title": "Every State Can Afford Universal Health Care: A Taxonomy of Public Health Care Options",
+          "url": "https://cmarmitage.substack.com/p/every-state-can-afford-universal",
+          "date": "2026-08-23T21:45:10.311Z",
+          "body_sha256": "7aa04a2c3f52eb592eca540f7ca9e60be20ea656b143c32b789cb1ddb7efb410",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "171170255",
+          "title": "Are Unions the Secret Ingredient for Stopping Oligarchy and Fascism?",
+          "url": "https://cmarmitage.substack.com/p/are-unions-the-secret-ingredient",
+          "date": "2025-08-17T03:12:25.598Z",
+          "body_sha256": "d828c2fe64fd3b07f3c2c70b9f5c6be163371a53341dcc51f658230c355ba804",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 76,
+      "publication_id": "4363663",
+      "publication": "The Don Lemon Show",
+      "author_or_brand": "Don Lemon",
+      "base_url": "https://thedonlemonshow.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Center-left / socially liberal editorial tendency",
+      "coalition": "Democratic-friendly; urges stronger opposition to Trump",
+      "organization": "Host-led news and commentary brand with contributors",
+      "confidence": "High",
+      "rationale": "A Don Lemon/Peter Rothpletz piece advocates universal background checks and other gun measures while defending transgender equality; Lemon’s own commentary urges Democrats to confront Trump. This supports an editorial tendency, not a claim that every guest shares it.",
+      "about_source": {
+        "url": "https://thedonlemonshow.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:18.830012+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "172831847",
+          "title": "Trigger Warning: Trump’s Transgender Moral Panic",
+          "url": "https://thedonlemonshow.substack.com/p/trigger-warning-trumps-transgender",
+          "date": "2025-09-04T23:05:59.978Z",
+          "body_sha256": "a633658aa9ce9db496c2376d804111dbabffdc0a9991959263f17c7572da8b43",
+          "scope": "Full saved public text"
+        },
+        {
+          "post_id": "214820949",
+          "title": "Gavin Newsom Is Done Playing Nice. Democrats, You Should Start Taking Notes.",
+          "url": "https://thedonlemonshow.substack.com/p/gavin-newsom-is-done-playing-nice",
+          "date": "2026-09-09T02:12:15.863Z",
+          "body_sha256": "d3ce0dc039a96222f1574747c9ab1cf43ac998e6ee24a998287fcfc9d5a2068f",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "publication_id": "4408534",
+      "publication": "Lawyer Oyer",
+      "author_or_brand": "Liz Oyer",
+      "base_url": "https://www.lawyeroyer.com",
+      "summary_group": "Unresolved / insufficient policy evidence",
+      "ideology": "Insufficient broad policy evidence / rule-of-law and defense advocacy",
+      "coalition": "Criticizes Trump pardons; formal party commitment not established",
+      "organization": "Individual-led legal-accountability publication",
+      "confidence": "Low",
+      "rationale": "Oyer advocates equal justice, public defense, redemption and transparent pardon processes. These are substantive legal commitments, but do not distinguish a broad liberal, centrist or dissident-conservative policy platform. Anti-Trump criticism and former government service are not enough.",
+      "about_source": {
+        "url": "https://www.lawyeroyer.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:21.053696+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "177801169",
+          "title": "Public Defenders Will Save Us",
+          "url": "https://www.lawyeroyer.com/p/public-defenders-will-save-us",
+          "date": "2025-11-02T16:20:20.394Z",
+          "body_sha256": "f3fda165642515eb3778dd5edef626ad465789bbcf6b7f7cb2edac98b243403c",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "179148038",
+          "title": "The Corruption of the Pardon Power Is An Urgent Threat to Our Democracy",
+          "url": "https://www.lawyeroyer.com/p/the-corruption-of-the-pardon-power",
+          "date": "2025-11-17T18:07:15.781Z",
+          "body_sha256": "35318b81e8e488907058ebe25045142ae1eaeadd8805b935b5cc4aed97e256e3",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 81,
+      "publication_id": "3506104",
+      "publication": "Mockler HQ",
+      "author_or_brand": "Adam Mockler",
+      "base_url": "https://www.adammockler.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Center-left / liberal, pro-regulation",
+      "coalition": "Democratic-friendly; explicit praise for AOC’s policy approach",
+      "organization": "Host-led political commentary and news network",
+      "confidence": "High",
+      "rationale": "Mockler explicitly calls for strong public-health oversight and regulations and praises AOC’s opposition to corporate influence. A senator’s quoted Medicaid statements are distinguished from the author’s own regulatory argument.",
+      "about_source": {
+        "url": "https://www.adammockler.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:23.314743+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "155961751",
+          "title": "Trump Freezes Medicaid in Some States",
+          "url": "https://www.adammockler.com/p/trump-freezes-medicaid-funding",
+          "date": "2025-01-28T23:20:55.349Z",
+          "body_sha256": "a245da0a73fe72d96ea98e3e44294d501d2d8785e38368d23c786051c511b4fe",
+          "scope": "Full saved public text"
+        },
+        {
+          "post_id": "208202328",
+          "title": "AOC Exposes Trump…",
+          "url": "https://www.adammockler.com/p/aoc-exposes-trump",
+          "date": "2026-07-23T13:54:51.322Z",
+          "body_sha256": "bbf9223f075eb17c07de1c837f80f546b364eda9e547bd0ad6f2b3f1e8f253ec",
+          "scope": "Full saved public text"
+        }
+      ]
+    },
+    {
+      "rank": 82,
+      "publication_id": "221913",
+      "publication": "Geddry",
+      "author_or_brand": "Mary Geddry",
+      "base_url": "https://marygeddry.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / social-democratic editorial tendency",
+      "coalition": "Opposes corporate dominance and Trump-era privatization",
+      "organization": "Two-author news and commentary publication",
+      "confidence": "High",
+      "rationale": "Geddry favors high taxation of wealth, unions and regulated capitalism; Hurt critiques Medicare privatization. The shared About mission emphasizes environmental justice and economic inequality, supporting an outlet-level left orientation.",
+      "about_source": {
+        "url": "https://marygeddry.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:25.851838+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "161680860",
+          "title": "When Capitalism Worked for the Rest of Us",
+          "url": "https://marygeddry.com/p/when-capitalism-worked-for-the-rest",
+          "date": "2025-04-19T15:51:30.674Z",
+          "body_sha256": "d6727675b3ac0b8f44dbb5dae2f2484b460a676ea5cafa0b69705174258251fd",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "210004331",
+          "title": "The Medicare Privatization Plan Isn't Even Wearing a Disguise",
+          "url": "https://marygeddry.com/p/the-medicare-privatization-plan-isnt",
+          "date": "2026-08-06T00:16:05.157Z",
+          "body_sha256": "1a61f7f4c8397fbfbdeb64be38f86cc1cdb7f0438dea75cefd0a459fba9cbc54",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 83,
+      "publication_id": "4608222",
+      "publication": "Our Moral Moment w/ Bishop William Barber & Jonathan Wilson-Hartgrove",
+      "author_or_brand": "Jonathan Wilson-Hartgrove",
+      "base_url": "https://ourmoralmoment.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / egalitarian, pro-labor moral movement",
+      "coalition": "Explicitly rejects a party-only frame; cross-racial moral coalition",
+      "organization": "Movement-affiliated joint-author advocacy publication",
+      "confidence": "High",
+      "rationale": "The authors affirm union organizing and oppose cuts to public provision paired with tax benefits for wealthy interests. Their rejection of left-versus-right branding does not make this agenda centrist; party affiliation is not inferred.",
+      "about_source": {
+        "url": "https://ourmoralmoment.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:28.073960+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "172397413",
+          "title": "Labor's Power to Check Authoritarians",
+          "url": "https://ourmoralmoment.substack.com/p/labors-power-to-check-authoritarians",
+          "date": "2025-09-01T10:01:16.267Z",
+          "body_sha256": "c9d0f3cf297ca608d8464379ae65b66794826e53364c48069e9dcc7e8cf9d03f",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "194303459",
+          "title": "The Moral Failures of Trump’s Budget Policies",
+          "url": "https://ourmoralmoment.substack.com/p/the-moral-failures-of-trumps-budget",
+          "date": "2026-04-15T19:37:58.455Z",
+          "body_sha256": "3c03b632cc3d682c3a2ba4c9a85fdb2213af3ea38ec948d88d5a96b1e484101a",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 85,
+      "publication_id": "2914801",
+      "publication": "Under the Desk News",
+      "author_or_brand": "V Spehar",
+      "base_url": "https://underthedesknews.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Center-left / socially liberal news and commentary",
+      "coalition": "Democratic-friendly; critiques some left influencers",
+      "organization": "Host-led news brand with guest reporting",
+      "confidence": "Medium",
+      "rationale": "A staff report affirmatively defends trans healthcare access, while Spehar critiques authoritarian or patriarchal tendencies within left influencer politics. This is a provisional socially liberal editorial tendency; a guest reporter’s prose is not assigned to Spehar personally.",
+      "about_source": {
+        "url": "https://underthedesknews.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:30.286734+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "169780156",
+          "title": "Undermining Access to Medical Treatment for Transgender Youth is a Slippery Slope. Here’s Why. ",
+          "url": "https://underthedesknews.substack.com/p/undermining-access-to-medical-treatment",
+          "date": "2025-07-31T20:24:41.655Z",
+          "body_sha256": "255292d85410c21b37ef05b1f4e54dc757b1b71c280be14d763299508b1057e3",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "208243407",
+          "title": "Tankie, Leftist, Champagne Socialist ",
+          "url": "https://underthedesknews.substack.com/p/tankie-leftist-champagne-socialist",
+          "date": "2026-07-25T16:04:58.819Z",
+          "body_sha256": "3122c8998b607fba3be81371aae00ae64885a199c94d843e630e9d5754a3b9ba",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 86,
+      "publication_id": "66221",
+      "publication": "Free Thinking Through the Fourth Turning with Sasha Stone",
+      "author_or_brand": "Sasha Stone",
+      "base_url": "https://www.sashastone.com",
+      "summary_group": "Current right or conservative",
+      "ideology": "Right / populist-right sympathetic; socially conservative",
+      "coalition": "Former Democrat; explicitly independent and sympathetic to the populist right",
+      "organization": "Individual-led commentary",
+      "confidence": "High",
+      "rationale": "Stone’s About page explicitly defends representation for the populist right while disavowing party affiliation. Her own writing supports conservative positions on abortion and gender-related policy. Independent party identity is distinct from right-leaning orientation.",
+      "about_source": {
+        "url": "https://www.sashastone.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:32.526137+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "138717600",
+          "title": "The Democrats Win on Abortion But Future Generations Might Look Back in Horror ",
+          "url": "https://www.sashastone.com/p/the-democrats-win-on-abortion-but",
+          "date": "2023-11-09T22:51:47.891Z",
+          "body_sha256": "e1d75daffed4febe183acafef9a5a89e56ce80c193bb2b8fc2f5c9f8ac04108e",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "154638068",
+          "title": "Dear Democrats: This Time, You Can't Blame the Republicans",
+          "url": "https://www.sashastone.com/p/dear-democrats-this-time-you-cant",
+          "date": "2025-01-13T01:56:08.777Z",
+          "body_sha256": "ad41c0d3aafe2829da0475685351f891cc659cc4c9f88d1339a5898987f15817",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 87,
+      "publication_id": "283745",
+      "publication": "America, America",
+      "author_or_brand": "Steven Beschloss",
+      "base_url": "https://www.americaamerica.news",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Center-left / liberal, pro-labor",
+      "coalition": "Explicitly favors Harris and Democratic economic policy",
+      "organization": "Individual-led political commentary",
+      "confidence": "High",
+      "rationale": "Beschloss praises labor protections and union support and rejects low-tax, anti-regulation and trickle-down economic approaches in his own voice, while favoring Harris’s economic agenda.",
+      "about_source": {
+        "url": "https://www.americaamerica.news/about",
+        "retrieved_at_utc": "2026-10-19T18:27:34.763900+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "148392383",
+          "title": "A Labor Day Reflection",
+          "url": "https://www.americaamerica.news/p/a-labor-day-reflection",
+          "date": "2024-09-02T10:15:39.401Z",
+          "body_sha256": "38f40597e927e9f931a67e727b9e1875b5482fb9a0aa1c40badfa9246fb7477e",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "149465082",
+          "title": "Kamala Harris Is Breaking Through on the Economy",
+          "url": "https://www.americaamerica.news/p/kamala-harris-is-breaking-through",
+          "date": "2024-09-27T10:10:15.927Z",
+          "body_sha256": "119ba3175cb136f0d96f32be722cce60dd57090d4930b304e0aca9b1e3152d30",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 88,
+      "publication_id": "259044",
+      "publication": "Glenn Loury",
+      "author_or_brand": "Glenn Loury",
+      "base_url": "https://glennshow.com",
+      "summary_group": "Current right or conservative",
+      "ideology": "Right / heterodox conservative",
+      "coalition": "Conservative self-identification; party and current voting not inferred",
+      "organization": "Host-led podcast and commentary publication",
+      "confidence": "High",
+      "rationale": "Loury explicitly describes himself as conservative while acknowledging shifts and cross-cutting commitments. Guest Daniel Bessner’s redistributive views are not assigned to Loury. The free-expression exchange illustrates pluralism rather than an exact center position.",
+      "about_source": {
+        "url": "https://glennloury.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:36.990783+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "151786366",
+          "title": "Liberalism's Exhaustion",
+          "url": "https://glennloury.substack.com/p/liberalisms-exhaustion",
+          "date": "2024-11-17T19:54:20.770Z",
+          "body_sha256": "7f64057c680267c17be35f40481e9f579e72b8c4bd8cc43b42a39e907e1999ef",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "187648547",
+          "title": "Israel, Antisemitism, and Free Expression",
+          "url": "https://glennloury.substack.com/p/israel-antisemitism-and-free-expression",
+          "date": "2026-02-11T17:22:12.520Z",
+          "body_sha256": "ec23554ebb133c88a3fe33d0071c34a16298f7faa95561e8cb0f18aaf699010e",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 90,
+      "publication_id": "392587",
+      "publication": "TRANSFORM with Marianne Williamson",
+      "author_or_brand": "Marianne Williamson",
+      "base_url": "https://www.transformarticles.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / progressive economic reform",
+      "coalition": "Democratic reform movement; criticizes party leadership from the left",
+      "organization": "Individual-led political and spiritual essays",
+      "confidence": "High",
+      "rationale": "Williamson’s own manifesto calls for universal healthcare and economic rights and criticizes Democratic complicity in oligarchy; the labor essay affirms organizing and challenges a new Gilded Age.",
+      "about_source": {
+        "url": "https://www.transformarticles.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:39.240841+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "153131760",
+          "title": "MANIFESTO FOR A RENEWED DEMOCRATIC PARTY",
+          "url": "https://www.transformarticles.com/p/manifesto-for-a-renewed-democratic",
+          "date": "2024-12-16T21:07:57.839Z",
+          "body_sha256": "9e98284c23aff2ac4fa8d29e7ee497487dd77cbcb6dea8ea22ed9967481d3cc6",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "214643237",
+          "title": "WHY LABOR DAY MATTERS",
+          "url": "https://www.transformarticles.com/p/why-labor-day-matters-251",
+          "date": "2026-09-08T00:39:54.059Z",
+          "body_sha256": "a8c83af5554fae8ed4792c8953ce6526d2462e0fa15a6881f5801cbf85a3a43c",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 92,
+      "publication_id": "20989",
+      "publication": "The David Pakman Show",
+      "author_or_brand": "David Pakman",
+      "base_url": "https://substack.davidpakman.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / progressive",
+      "coalition": "Explicit progressive media identity; Democratic electoral preference",
+      "organization": "Host-led progressive news and commentary brand",
+      "confidence": "High",
+      "rationale": "The About page explicitly calls the program progressive. Pakman’s own abortion commentary favors reproductive rights and urges Democrats to use the issue to mobilize left-leaning voters.",
+      "about_source": {
+        "url": "https://substack.davidpakman.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:41.436273+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "143570774",
+          "title": "OP-ED: The Republican Failure on Abortion Politics",
+          "url": "https://substack.davidpakman.com/p/op-ed-the-republican-failure-on-abortion",
+          "date": "2024-04-14T17:01:17.273Z",
+          "body_sha256": "00d4248ab58bb2df8392072b1f67329a14dea09da970fb0f85a8ec17f0aebda6",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "138249010",
+          "title": "A framework for Israeli-Palestinian peace, Trump heckled badly",
+          "url": "https://substack.davidpakman.com/p/a-framework-for-israeli-palestinian",
+          "date": "2023-10-24T21:30:11.894Z",
+          "body_sha256": "aa40a17bf0c16212da2233d90849fbe96e836d346eb9a0ad7111eb204f9fbc54",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 93,
+      "publication_id": "2850562",
+      "publication": "The Panicked Writer",
+      "author_or_brand": "Ellie Leonard",
+      "base_url": "https://ellieleonard.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Center-left / socially liberal; tentative",
+      "coalition": "Anti-MAGA framing; party registration not inferred",
+      "organization": "Individual-led political essays and policy explanation",
+      "confidence": "Medium",
+      "rationale": "Leonard’s full gun essay prioritizes school safety over gun access and affirms LGBTQ-inclusive education. Her own bill introduction labels the restrictions dangerous; the detailed statutory summary is not itself treated as a complete personal platform.",
+      "about_source": {
+        "url": "https://ellieleonard.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:43.716805+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "167320539",
+          "title": "H.R. 1 - The Big Beautiful Bill (Simplified) - Part 11.6 - Taxes - Immigrants and Fraud, Waste, and Abuse",
+          "url": "https://ellieleonard.substack.com/p/hr-1-the-big-beautiful-bill-simplified-f16",
+          "date": "2025-07-02T02:51:11.790Z",
+          "body_sha256": "ac028390ec4c940333930e54a60d995b1fab671cbd26ba907a0500abff06a97c",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "147866167",
+          "title": "Guns or Baseball",
+          "url": "https://ellieleonard.substack.com/p/guns-or-baseball",
+          "date": "2024-08-19T02:23:30.538Z",
+          "body_sha256": "9fb51a5e2fd23ab7fd004fe70318d81000546a567f788ed68887680e3f94e789",
+          "scope": "Full saved public text"
+        }
+      ]
+    },
+    {
+      "rank": 97,
+      "publication_id": "247716",
+      "publication": "The Fucking News",
+      "author_or_brand": "Jonathan Larsen",
+      "base_url": "https://thefuckingnews.substack.com",
+      "summary_group": "Broad left or liberal",
+      "ideology": "Left / progressive-leaning media criticism; tentative",
+      "coalition": "Critiques corporate Democratic leadership and Republican politics",
+      "organization": "Individual-led news aggregation and commentary",
+      "confidence": "Medium",
+      "rationale": "Larsen’s own framing criticizes corporatist party leadership and presents progressive economic commitments favorably. Summer Lee’s and Sanders’s quoted policies are not treated as his personal platform; the broad left placement remains inferential.",
+      "about_source": {
+        "url": "https://thefuckingnews.substack.com/about",
+        "retrieved_at_utc": "2026-10-19T18:27:45.923940+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "148142408",
+          "title": "Is Harris Centrist or Progressive?",
+          "url": "https://thefuckingnews.substack.com/p/is-harris-centrist-or-progressive",
+          "date": "2024-08-26T13:08:06.840Z",
+          "body_sha256": "c01686b9c7c8a7e6df3f4adaa557e4126d97293164b9920b60b6ce0ae2c741b8",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "146712239",
+          "title": "Democrats Fight for Truth and Democracy Against, Uh, Democrats",
+          "url": "https://thefuckingnews.substack.com/p/democrats-fight-for-truth-and-democracy",
+          "date": "2024-07-17T13:20:29.270Z",
+          "body_sha256": "bc3086a299ec87ff041c9c8f493d641f0b226e0c96f705ae0cc82ed191cd1cc0",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    },
+    {
+      "rank": 98,
+      "publication_id": "1666532",
+      "publication": "Declassified with Julie Kelly",
+      "author_or_brand": "Julie Kelly",
+      "base_url": "https://www.declassified.live",
+      "summary_group": "Current right or conservative",
+      "ideology": "Right / MAGA-aligned conservative commentary",
+      "coalition": "Explicit support for Trump administration and MAGA supporters",
+      "organization": "Individual-led legal-political commentary with guest submissions",
+      "confidence": "High",
+      "rationale": "Kelly’s About page explicitly welcomes Trump’s victory and supports the administration’s DOJ agenda. Her own judicial commentary and an identified Eastman guest piece support the publication’s right/MAGA alignment. Legal and election-fraud claims are not independently validated here.",
+      "about_source": {
+        "url": "https://www.declassified.live/about",
+        "retrieved_at_utc": "2026-10-19T18:27:48.146796+00:00",
+        "scope": "Opening 2100 characters of normalized saved About page"
+      },
+      "evidence": [
+        {
+          "post_id": "220923626",
+          "title": "If Republicans Won’t End the Monarchical Judiciary, They Must Expose It",
+          "url": "https://www.declassified.live/p/if-republicans-wont-end-the-monarchical",
+          "date": "2026-10-18T00:22:48.767Z",
+          "body_sha256": "6409d88fdb3528113b9b52e870c95c86193ff2545abe5da5edc9cc99323104e3",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        },
+        {
+          "post_id": "202302062",
+          "title": "'Resist': A Slogan of Opposition to Democratic Outcomes",
+          "url": "https://www.declassified.live/p/resist-a-slogan-of-opposition-to",
+          "date": "2026-06-16T16:11:51.693Z",
+          "body_sha256": "5c7bc4abc09fcd9471390bfa8093d3d0c64fbbf28dc18e4290f4da98e4a19412",
+          "scope": "Opening, selected policy/identity paragraphs and closing; not full text"
+        }
+      ]
+    }
+  ],
+  "new_model_api_calls": 0,
+  "new_api_spending_usd": 0
+}

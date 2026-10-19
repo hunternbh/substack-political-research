@@ -4,7 +4,7 @@
 
 Exploratory research on audience claims and editorial authority in political newsletters. The front page explains what data we have, what they can answer, what remains missing, and the expansion from fifty to one hundred publications. Expansion progress is a dated static checkpoint, not a live feed.
 
-The main page links all project HTML reports. The filtered 27-publication cohort and its coverage charts are featured first; the original fifty-publication chart and earlier reports remain accessible. Earlier analyses and progress snapshots are marked historical. Every supporting report links back to the hub. Large individual-comment appendices in three older reports remain local.
+The main page links all project HTML reports. The combined retained sixty-publication cohort, coverage charts and political breakdown are featured first. Earlier original-fifty charts and reports remain accessible. Earlier analyses and progress snapshots are marked historical. Every supporting report links back to the hub. Large individual-comment appendices in three older reports remain local.
 
 The monthly coverage report separates restricted article bodies from missing post records and flags empty months. Supporting pages document the provisional political classifications and manual pilot.
 
