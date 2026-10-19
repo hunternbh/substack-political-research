@@ -1,0 +1,4287 @@
+{
+  "reviewed_at_utc": "2026-10-19T17:08:22.324675+00:00",
+  "coder": "Assistant manual source review; no external model API or network calls. No independent coder validation.",
+  "unit": "Publication-level provisional audit. NOT 50 distinct writers and NOT labels for each contributor.",
+  "reading_scope": "All 50 downloaded public About pages; selected leads and policy/role passages from up to three of the 266 seeded sampled posts per publication, with additional targeted passages where needed. Separate pilot texts cited where indicated. Not all 266 posts read cover to cover. Expanded review: twelve About pages revisited, 26 public texts read fully and thirteen additional texts reviewed through selected passages; see Substack_Unresolved_Alignment_Review.json.",
+  "codebook": "Ideology describes demonstrated policy orientation or explicit public self-description. Coalition and expressed commitment are separate. Unknown is valid; calm, independent or nonpartisan branding is not evidence of ideological centrism. Issue-specific progressive positions do not imply economic-left positions. Historical conservative origins are not current policy scores. Confidence is holistic and some party/organization evidence is stronger than ideology evidence.",
+  "rows": [
+    {
+      "rank": 1,
+      "publication_id": "260347",
+      "publication": "The Free Press",
+      "author_or_brand": "Bari Weiss",
+      "base_url": "https://www.thefp.com",
+      "ideology": "Mixed / insufficient policy evidence",
+      "coalition": "Not established",
+      "expressed_commitment": "Not established",
+      "organization": "Multi-author news/editorial outlet",
+      "role": "Reporting and commentary",
+      "confidence": "Low",
+      "rationale": "The source explicitly describes political heterogeneity. Four sampled public texts are mostly technology and previews; they do not justify coding every contributor as right-wing or centrist.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.thefp.com/about",
+        "post_id": null,
+        "about_sha256": "0d354fb7629dcde15338e4fd9d1ba9ad2353b038c692a5c0db0d66d893642cab"
+      },
+      "sampled_posts_n": 4,
+      "stats": {
+        "all_article_records": 5824,
+        "eligible_public_150_4000_word_posts": 41,
+        "period_eligible_n": {
+          "1": 9,
+          "2": 32
+        },
+        "distinct_byline_ids": 912,
+        "coauthored_article_n": 180,
+        "missing_byline_article_n": 5,
+        "leading_byline_counts": [
+          {
+            "name": "The Free Press",
+            "id": "114101724",
+            "n": 577
+          },
+          {
+            "name": "Bari Weiss",
+            "id": "2067309",
+            "n": 359
+          },
+          {
+            "name": "Oliver Wiseman",
+            "id": "168248603",
+            "n": 230
+          },
+          {
+            "name": "Eli Lake",
+            "id": "3787008",
+            "n": 217
+          },
+          {
+            "name": "Suzy Weiss",
+            "id": "13349169",
+            "n": 211
+          },
+          {
+            "name": "River Page",
+            "id": "127597978",
+            "n": 159
+          },
+          {
+            "name": "Nellie Bowles",
+            "id": "12430253",
+            "n": 146
+          },
+          {
+            "name": "Olivia Reingold",
+            "id": "5933680",
+            "n": 120
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 2,
+      "publication_id": "87281",
+      "publication": "The Bulwark",
+      "author_or_brand": "The Bulwark",
+      "base_url": "https://www.thebulwark.com",
+      "ideology": "Mixed across contributors",
+      "coalition": "Anti-Trump coalition",
+      "expressed_commitment": "Explicit mission",
+      "organization": "Multi-author news/editorial outlet",
+      "role": "Reporting and commentary",
+      "confidence": "Medium",
+      "rationale": "A home for the politically homeless, organized around liberal democracy. Sample includes a Progressive editor and multiple distinct reporters; publication-level anti-Trump orientation does not identify each writer’s ideology.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.thebulwark.com/about",
+        "post_id": null,
+        "about_sha256": "37bececc724e8504474c0ba55724dd4e905639afdc1f25d48aa0cfea59914313"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 9023,
+        "eligible_public_150_4000_word_posts": 3782,
+        "period_eligible_n": {
+          "0": 1296,
+          "1": 1316,
+          "2": 1170
+        },
+        "distinct_byline_ids": 529,
+        "coauthored_article_n": 3102,
+        "missing_byline_article_n": 145,
+        "leading_byline_counts": [
+          {
+            "name": "Tim Miller",
+            "id": "597921",
+            "n": 1720
+          },
+          {
+            "name": "Jonathan V. Last",
+            "id": "2185865",
+            "n": 1354
+          },
+          {
+            "name": "Andrew Egger",
+            "id": "1644081",
+            "n": 910
+          },
+          {
+            "name": "William Kristol",
+            "id": "2362056",
+            "n": 885
+          },
+          {
+            "name": "Sarah Longwell",
+            "id": "16021541",
+            "n": 803
+          },
+          {
+            "name": "Sam Stein",
+            "id": "84632111",
+            "n": 798
+          },
+          {
+            "name": "Sonny Bunch",
+            "id": "2550672",
+            "n": 692
+          },
+          {
+            "name": "Jim Swift",
+            "id": "1987804",
+            "n": 406
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 3,
+      "publication_id": "20533",
+      "publication": "Letters from an American",
+      "author_or_brand": "Heather Cox Richardson",
+      "base_url": "https://heathercoxrichardson.substack.com",
+      "ideology": "Center-left / liberal",
+      "coalition": "Democratic-friendly",
+      "expressed_commitment": "Some expressed support",
+      "organization": "Individual-led with guests",
+      "role": "Historical analysis",
+      "confidence": "Medium",
+      "rationale": "The sampled account favors abortion rights and contrasts Democratic electoral gains with Republican extremism. The label is provisional, not inferred from anti-Trump criticism alone.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://heathercoxrichardson.substack.com/p/march-26-2024",
+        "post_id": "142996969",
+        "about_sha256": "dc677f3fc6012b7cd907f6b745bd169f170e595f3af45b4604f3d54499bf6e31"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 2199,
+        "eligible_public_150_4000_word_posts": 1045,
+        "period_eligible_n": {
+          "0": 334,
+          "1": 338,
+          "2": 373
+        },
+        "distinct_byline_ids": 12,
+        "coauthored_article_n": 27,
+        "missing_byline_article_n": 3,
+        "leading_byline_counts": [
+          {
+            "name": "Heather Cox Richardson",
+            "id": "4875576",
+            "n": 1592
+          },
+          {
+            "name": "Heather Cox Richardson",
+            "id": "11249461",
+            "n": 460
+          },
+          {
+            "name": "Garamond",
+            "id": "541235",
+            "n": 144
+          },
+          {
+            "name": "250 to 250",
+            "id": "496436722",
+            "n": 16
+          },
+          {
+            "name": "Liza Donnelly",
+            "id": "6215739",
+            "n": 4
+          },
+          {
+            "name": "Pete Buttigieg",
+            "id": "284251312",
+            "n": 1
+          },
+          {
+            "name": "Gavin Newsom",
+            "id": "354255572",
+            "n": 1
+          },
+          {
+            "name": "Sen. Adam Schiff",
+            "id": "320671995",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 4,
+      "publication_id": "3078900",
+      "publication": "Meidas+",
+      "author_or_brand": "MeidasTouch Network",
+      "base_url": "https://www.meidasplus.com",
+      "ideology": "Center-left / liberal",
+      "coalition": "Democratic-aligned",
+      "expressed_commitment": "Explicit electoral commitment",
+      "organization": "Partisan media/advocacy network",
+      "role": "Reporting and commentary",
+      "confidence": "Medium",
+      "rationale": "Resistance rhetoric and identification with Harris supporters accompany reporting. A named editorial network, not a single writer.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.meidasplus.com/p/zero-liberal-tears-we-are-the-resistance",
+        "post_id": "151384093",
+        "about_sha256": "3a8b4d75fa7bde55e3ea663154d0f2c030e41fb644047c537fc200ea241533e4"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 2881,
+        "eligible_public_150_4000_word_posts": 1989,
+        "period_eligible_n": {
+          "0": 53,
+          "1": 1247,
+          "2": 689
+        },
+        "distinct_byline_ids": 121,
+        "coauthored_article_n": 2024,
+        "missing_byline_article_n": 3,
+        "leading_byline_counts": [
+          {
+            "name": "MeidasTouch Network",
+            "id": "139810743",
+            "n": 2137
+          },
+          {
+            "name": "Ben Meiselas",
+            "id": "50092063",
+            "n": 1506
+          },
+          {
+            "name": "Ron Filipkowski",
+            "id": "16371328",
+            "n": 668
+          },
+          {
+            "name": "Brett Meiselas",
+            "id": "13945204",
+            "n": 264
+          },
+          {
+            "name": "Michael Cohen",
+            "id": "9354878",
+            "n": 218
+          },
+          {
+            "name": "Jordy Meiselas",
+            "id": "58205080",
+            "n": 201
+          },
+          {
+            "name": "The Ken Harbaugh Show",
+            "id": "277451069",
+            "n": 73
+          },
+          {
+            "name": "Legal AF",
+            "id": "301279317",
+            "n": 61
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 5,
+      "publication_id": "2325511",
+      "publication": "Zeteo",
+      "author_or_brand": "Mehdi Hasan",
+      "base_url": "https://zeteo.com",
+      "ideology": "Left / progressive; editorial tendency across contributors",
+      "coalition": "Anti-Trump; includes criticism of Democratic leadership from the left",
+      "expressed_commitment": "Not established",
+      "organization": "Multi-author news/editorial outlet",
+      "role": "Reporting and interviews",
+      "confidence": "High",
+      "rationale": "The larger public-text review includes affirmative economic-progressive advocacy for worker organizing and rejection of corporate influence, defenses of public healthcare coverage, and immigration analysis critical of restrictionism. This supports a broad progressive editorial tendency rather than merely an anti-Trump label. Zeteo publishes multiple authors and explicitly disclaims that each opinion is the organization’s own; do not assign every contributor the same ideology.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://zeteo.com/p/democrats-will-keep-losing-until",
+        "post_id": "152460211",
+        "body_sha256": "d5ae01711f73c68716e15f3e5fdc3a666c0cfaa6f1d7f02ab480137686e541f7"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 2392,
+        "eligible_public_150_4000_word_posts": 990,
+        "period_eligible_n": {
+          "0": 192,
+          "1": 369,
+          "2": 429
+        },
+        "distinct_byline_ids": 244,
+        "coauthored_article_n": 716,
+        "missing_byline_article_n": 7,
+        "leading_byline_counts": [
+          {
+            "name": "Team Zeteo",
+            "id": "2052150",
+            "n": 1050
+          },
+          {
+            "name": "Mehdi Hasan",
+            "id": "210737466",
+            "n": 577
+          },
+          {
+            "name": "Prem Thakker",
+            "id": "17117765",
+            "n": 369
+          },
+          {
+            "name": "Asawin Suebsaeng",
+            "id": "397563474",
+            "n": 183
+          },
+          {
+            "name": "Andrew Perez",
+            "id": "397555868",
+            "n": 128
+          },
+          {
+            "name": "John Harwood",
+            "id": "15365438",
+            "n": 109
+          },
+          {
+            "name": "Peter Rothpletz",
+            "id": "114261708",
+            "n": 55
+          },
+          {
+            "name": "Justin Baragona",
+            "id": "251377451",
+            "n": 47
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      },
+      "previous_ideology": "Insufficient policy evidence",
+      "previous_confidence": "Low",
+      "expanded_review_evidence": [
+        {
+          "post_id": "152460211",
+          "title": "Democrats Will Keep Losing Until They Cut Ties With Billionaires and Corporations",
+          "date": "2024-12-05T13:31:05.075Z",
+          "url": "https://zeteo.com/p/democrats-will-keep-losing-until",
+          "bylines": [
+            {
+              "name": "Alexandra Rojas",
+              "id": 43802060
+            }
+          ],
+          "body_sha256": "d5ae01711f73c68716e15f3e5fdc3a666c0cfaa6f1d7f02ab480137686e541f7",
+          "reading_scope": "Full saved public text",
+          "interpretation": "A published opinion piece argues for working-class representation, unions, expanded public provision and removal of corporate influence from Democratic politics. Author: Alexandra Rojas; this is an op-ed, not an official statement by every contributor."
+        },
+        {
+          "post_id": "181187674",
+          "title": "Republicans Want You to Pay More for Healthcare",
+          "date": "2025-12-09T23:27:36.169Z",
+          "url": "https://zeteo.com/p/trump-republicans-healthcare-insurance-subsidies",
+          "bylines": [
+            {
+              "name": "Andrew Perez",
+              "id": 397555868
+            }
+          ],
+          "body_sha256": "e5b063fdbfd7d311446b56d7a44f371e2c917454eb95232c3d24d53740b57b7f",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Andrew Perez’s report/commentary treats loss of public healthcare subsidies and exclusions for abortion and gender-related care negatively."
+        },
+        {
+          "post_id": "154838151",
+          "title": "Trump and Republicans Are Lying About Immigration and the Border",
+          "date": "2025-01-16T17:02:22.503Z",
+          "url": "https://zeteo.com/p/trump-republicans-immigration-lies-border",
+          "bylines": [
+            {
+              "name": "John Harwood",
+              "id": 15365438
+            }
+          ],
+          "body_sha256": "81b89dfbe40e2c0cc839f1433125b094cbd507dacb3456a43fa900b92e5f606e",
+          "reading_scope": "Full saved public text",
+          "interpretation": "John Harwood criticizes restrictive immigration narratives while using a libertarian expert; this corroborates editorial range but does not convert the quoted expert’s ideology into the outlet’s."
+        }
+      ],
+      "expanded_review_summary": "Progressive/left editorial tendency; economic-populist and rights-oriented content across several contributors.",
+      "sampled_posts_n_previous_audit": 6,
+      "expanded_review_source_n": 3
+    },
+    {
+      "rank": 6,
+      "publication_id": "3719374",
+      "publication": "The Contrarian",
+      "author_or_brand": "The Contrarian",
+      "base_url": "https://www.contrariannews.org",
+      "ideology": "Mixed / insufficient policy evidence",
+      "coalition": "Anti-Trump coalition",
+      "expressed_commitment": "Explicit mission",
+      "organization": "News/advocacy hybrid network",
+      "role": "Reporting, commentary and mobilization",
+      "confidence": "Medium",
+      "rationale": "Contributors explicitly need not agree on issues. Profits support litigation against Trump; this distinguishes the hybrid organization from a generic newsroom.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.contrariannews.org/about",
+        "post_id": null,
+        "about_sha256": "7cf5ad475fe275155642d2b2e4ed6c727993ffd7a61d91c2213cdb6eaf68e384"
+      },
+      "sampled_posts_n": 4,
+      "stats": {
+        "all_article_records": 4768,
+        "eligible_public_150_4000_word_posts": 2720,
+        "period_eligible_n": {
+          "1": 1232,
+          "2": 1488
+        },
+        "distinct_byline_ids": 438,
+        "coauthored_article_n": 1336,
+        "missing_byline_article_n": 665,
+        "leading_byline_counts": [
+          {
+            "name": "The Contrarian",
+            "id": "308784587",
+            "n": 1451
+          },
+          {
+            "name": "Jennifer Rubin",
+            "id": "3500271",
+            "n": 1278
+          },
+          {
+            "name": "Norman Eisen",
+            "id": "1323976",
+            "n": 377
+          },
+          {
+            "name": "April Ryan",
+            "id": "4683288",
+            "n": 210
+          },
+          {
+            "name": "Meredith Blake",
+            "id": "322862571",
+            "n": 190
+          },
+          {
+            "name": "Michael de Adder",
+            "id": "7249021",
+            "n": 124
+          },
+          {
+            "name": "Nick Anderson",
+            "id": "11716071",
+            "n": 119
+          },
+          {
+            "name": "Tim Dickinson",
+            "id": "550683",
+            "n": 113
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 7,
+      "publication_id": "1198116",
+      "publication": "Silver Bulletin",
+      "author_or_brand": "Nate Silver",
+      "base_url": "https://www.natesilver.net",
+      "ideology": "Moderate liberal / classical-liberal and libertarian-leaning",
+      "coalition": "Critical of Trump and progressive orthodoxy; formal party commitment not established",
+      "expressed_commitment": "Not established",
+      "organization": "Individual-led small editorial team",
+      "role": "Polling and analysis",
+      "confidence": "Medium",
+      "rationale": "Silver directly calls himself a moderate liberal and favors individual rights, free speech, decentralized decision-making and markets. A later essay explicitly places this form of liberalism closer to the center than the left. For a coarse three-way description, center/moderate liberal is the best working category. This does not mean neutral reporting, an exact ideological midpoint, or absence of liberal issue positions. Coding Silver as center-left is a reasonable sensitivity rather than calling him progressive-left or Republican.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.natesilver.net/p/why-liberalism-and-leftism-are-increasingly",
+        "post_id": "139708372",
+        "body_sha256": "5eab7cf98f82c8d68bb08aa75ad0e8eaa16f1eb19f2fb63b008e45869871401f"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 430,
+        "eligible_public_150_4000_word_posts": 230,
+        "period_eligible_n": {
+          "0": 91,
+          "1": 66,
+          "2": 73
+        },
+        "distinct_byline_ids": 7,
+        "coauthored_article_n": 56,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "Nate Silver",
+            "id": "2421724",
+            "n": 396
+          },
+          {
+            "name": "Eli McKown-Dawson",
+            "id": "209305191",
+            "n": 66
+          },
+          {
+            "name": "Joseph George",
+            "id": "154823375",
+            "n": 27
+          },
+          {
+            "name": "Jeremias Engelmann",
+            "id": "3299830",
+            "n": 4
+          },
+          {
+            "name": "Joel Wertheimer",
+            "id": "550075",
+            "n": 2
+          },
+          {
+            "name": "Galen Druke",
+            "id": "111984158",
+            "n": 2
+          },
+          {
+            "name": "Matt Glassman",
+            "id": "534782",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      },
+      "previous_ideology": "Insufficient policy evidence; heterodox analysis",
+      "previous_confidence": "Low",
+      "expanded_review_evidence": [
+        {
+          "post_id": "139708372",
+          "title": "Why liberalism and leftism are increasingly at odds",
+          "date": "2023-12-12T22:22:48.758Z",
+          "url": "https://www.natesilver.net/p/why-liberalism-and-leftism-are-increasingly",
+          "bylines": [
+            {
+              "name": "Nate Silver",
+              "id": 2421724
+            }
+          ],
+          "body_sha256": "5eab7cf98f82c8d68bb08aa75ad0e8eaa16f1eb19f2fb63b008e45869871401f",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "First-person moderate-liberal identification and preference for decentralized mechanisms and individual rights; selected passages read, not a claim to a complete current policy score."
+        },
+        {
+          "post_id": "152975443",
+          "title": "Don't mistake Democratic partisan orthodoxy for a \"coherent\" philosophy",
+          "date": "2024-12-11T18:30:50.524Z",
+          "url": "https://www.natesilver.net/p/dont-mistake-democratic-partisan",
+          "bylines": [
+            {
+              "name": "Nate Silver",
+              "id": 2421724
+            }
+          ],
+          "body_sha256": "93bdd01a2a9d689faa0ab5a5591d06c88287d8b47771568af155fde23968b7c1",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "Distinguishes classical/European liberalism from leftism and places the former closer to the ideological center."
+        },
+        {
+          "post_id": "175816489",
+          "title": "Is the Democratic Party dominated by progressives or by centrists?",
+          "date": "2025-10-10T17:14:09.488Z",
+          "url": "https://www.natesilver.net/p/is-the-democratic-party-dominated",
+          "bylines": [
+            {
+              "name": "Nate Silver",
+              "id": 2421724
+            }
+          ],
+          "body_sha256": "f31e3228ee951c630a1a309afcdecfd09f2b23a0efa25218b2f350bcf7f98883",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "Analyzes progressive and centrist Democratic factions without treating either faction’s views as his own."
+        }
+      ],
+      "expanded_review_summary": "Center/moderate liberal, with libertarian tendencies; directly self-described rather than inferred from polling work.",
+      "sampled_posts_n_previous_audit": 6,
+      "expanded_review_source_n": 3
+    },
+    {
+      "rank": 8,
+      "publication_id": "277517",
+      "publication": "Paul Krugman",
+      "author_or_brand": "Paul Krugman",
+      "base_url": "https://paulkrugman.substack.com",
+      "ideology": "Center-left / liberal",
+      "coalition": "Anti-Trump; party pledge not established",
+      "expressed_commitment": "Not established",
+      "organization": "Individual-led newsletter",
+      "role": "Economic analysis and commentary",
+      "confidence": "Medium",
+      "rationale": "Favors an immigration path to citizenship; sampled tariff and aid criticism supplies additional policy context. Do not infer a formal party identity.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://paulkrugman.substack.com/p/making-immigration-great-again",
+        "post_id": "168234856",
+        "about_sha256": "6a011cb2bc9676fff9d6f18e7b72f579cb611075204274f782466720d229bc91"
+      },
+      "sampled_posts_n": 4,
+      "stats": {
+        "all_article_records": 763,
+        "eligible_public_150_4000_word_posts": 522,
+        "period_eligible_n": {
+          "1": 244,
+          "2": 278
+        },
+        "distinct_byline_ids": 15,
+        "coauthored_article_n": 24,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "Paul Krugman",
+            "id": "26817325",
+            "n": 763
+          },
+          {
+            "name": "Heather Cox Richardson",
+            "id": "4875576",
+            "n": 5
+          },
+          {
+            "name": "Ryan Lizza",
+            "id": "547902",
+            "n": 3
+          },
+          {
+            "name": "Jared Bernstein",
+            "id": "604782",
+            "n": 3
+          },
+          {
+            "name": "Mehdi Hasan",
+            "id": "210737466",
+            "n": 2
+          },
+          {
+            "name": "Harry Litman",
+            "id": "28064135",
+            "n": 2
+          },
+          {
+            "name": "Noah Smith",
+            "id": "8243895",
+            "n": 1
+          },
+          {
+            "name": "Azeem Azhar",
+            "id": "710379",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 9,
+      "publication_id": "2337656",
+      "publication": "The Borowitz Report",
+      "author_or_brand": "Andy Borowitz",
+      "base_url": "https://www.borowitzreport.com",
+      "ideology": "Liberal satire; provisional",
+      "coalition": "Anti-Trump; party pledge not established",
+      "expressed_commitment": "Not established",
+      "organization": "Individual-led satire publication",
+      "role": "Satire",
+      "confidence": "Low",
+      "rationale": "Author explicitly identifies the product as satirical news. Satirical targets suggest orientation, but fictional statements cannot be treated as factual endorsements.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.borowitzreport.com/about",
+        "post_id": null,
+        "about_sha256": "864942fcfa7540812d070f399bab793c627944d1334fced2eadba686a7a2c585"
+      },
+      "sampled_posts_n": 5,
+      "stats": {
+        "all_article_records": 801,
+        "eligible_public_150_4000_word_posts": 26,
+        "period_eligible_n": {
+          "0": 1,
+          "1": 6,
+          "2": 19
+        },
+        "distinct_byline_ids": 33,
+        "coauthored_article_n": 41,
+        "missing_byline_article_n": 3,
+        "leading_byline_counts": [
+          {
+            "name": "Andy Borowitz",
+            "id": "42484457",
+            "n": 780
+          },
+          {
+            "name": "Ann Telnaes",
+            "id": "13005553",
+            "n": 8
+          },
+          {
+            "name": "Carlos Greaves",
+            "id": "116775361",
+            "n": 7
+          },
+          {
+            "name": "Felipe",
+            "id": "509858",
+            "n": 5
+          },
+          {
+            "name": "Kate Manne",
+            "id": "7990459",
+            "n": 4
+          },
+          {
+            "name": "Ginny Hogan",
+            "id": "10507271",
+            "n": 3
+          },
+          {
+            "name": "Van Jones",
+            "id": "3850077",
+            "n": 2
+          },
+          {
+            "name": "Mary L Trump",
+            "id": "1226035",
+            "n": 2
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 10,
+      "publication_id": "365422",
+      "publication": "Robert Reich",
+      "author_or_brand": "Robert Reich",
+      "base_url": "https://robertreich.substack.com",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic-aligned",
+      "expressed_commitment": "Explicit electoral commitment",
+      "organization": "Individual-led small editorial team",
+      "role": "Expert commentary and advocacy",
+      "confidence": "Medium",
+      "rationale": "Favorable Harris comparison and inequality/corporate-power framing support a progressive, Democratic-aligned interpretation. The newsletter also includes a collaborator and interviews.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://robertreich.substack.com/p/trump-is-unstable-harris-is-super",
+        "post_id": "150420740",
+        "about_sha256": "9c984335b05d94bf9aa1cc8c62b51e8fe9dbdb2dac7514b30540f10dd891c1a6"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 1718,
+        "eligible_public_150_4000_word_posts": 70,
+        "period_eligible_n": {
+          "0": 18,
+          "1": 15,
+          "2": 37
+        },
+        "distinct_byline_ids": 19,
+        "coauthored_article_n": 126,
+        "missing_byline_article_n": 5,
+        "leading_byline_counts": [
+          {
+            "name": "Robert Reich",
+            "id": "626319",
+            "n": 1711
+          },
+          {
+            "name": "Heather Lofthouse",
+            "id": "14481351",
+            "n": 102
+          },
+          {
+            "name": "Michael Lahanas-Calderón",
+            "id": "6412445",
+            "n": 14
+          },
+          {
+            "name": "Inequality Media Civic Action",
+            "id": "187175161",
+            "n": 7
+          },
+          {
+            "name": "Inequality Media",
+            "id": "47484239",
+            "n": 3
+          },
+          {
+            "name": "Vishal Shankar",
+            "id": "19211981",
+            "n": 1
+          },
+          {
+            "name": "William J. Barber, II",
+            "id": "332234108",
+            "n": 1
+          },
+          {
+            "name": "V Spehar",
+            "id": "35156576",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 11,
+      "publication_id": "607357",
+      "publication": "Civil Discourse with Joyce Vance ",
+      "author_or_brand": "Joyce Vance",
+      "base_url": "https://joycevance.substack.com",
+      "ideology": "Center-left / liberal; civil-rights and labor emphasis",
+      "coalition": "Anti-Trump; Democratic-friendly electoral mobilization",
+      "expressed_commitment": "Explicit mission",
+      "organization": "Individual-led with guests",
+      "role": "Legal analysis",
+      "confidence": "High",
+      "rationale": "The reviewed Labor Day essay rejects Reagan’s small-government economic program, affirms organized labor and civil-rights work, and urges electoral action. The poll-tax essay defends expansive voting access and objects to exclusionary requirements. This is substantive liberal framing, not simply a biography as an Obama appointee. A detailed economic platform remains unmeasured.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://joycevance.substack.com/p/labor-day",
+        "post_id": "214153707",
+        "body_sha256": "ee3c8e91deb9112068c70dca9b8ac5630958f3c7c2f710be6c3ccf56de922faa"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 1456,
+        "eligible_public_150_4000_word_posts": 531,
+        "period_eligible_n": {
+          "0": 5,
+          "1": 31,
+          "2": 495
+        },
+        "distinct_byline_ids": 92,
+        "coauthored_article_n": 165,
+        "missing_byline_article_n": 47,
+        "leading_byline_counts": [
+          {
+            "name": "Joyce Vance",
+            "id": "263210",
+            "n": 1409
+          },
+          {
+            "name": "Norman Eisen",
+            "id": "1323976",
+            "n": 18
+          },
+          {
+            "name": "Katie Phang",
+            "id": "21818709",
+            "n": 17
+          },
+          {
+            "name": "Preet Bharara",
+            "id": "8157228",
+            "n": 11
+          },
+          {
+            "name": "Jennifer Rubin",
+            "id": "3500271",
+            "n": 6
+          },
+          {
+            "name": "Marc Elias",
+            "id": "1840466",
+            "n": 5
+          },
+          {
+            "name": "Ruth Ben-Ghiat",
+            "id": "8154268",
+            "n": 5
+          },
+          {
+            "name": "Jim Acosta",
+            "id": "36455327",
+            "n": 5
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      },
+      "previous_ideology": "Insufficient policy evidence",
+      "previous_confidence": "Low",
+      "expanded_review_evidence": [
+        {
+          "post_id": "214153707",
+          "title": "Labor Day",
+          "date": "2026-09-08T00:25:35.656Z",
+          "url": "https://joycevance.substack.com/p/labor-day",
+          "bylines": [
+            {
+              "name": "Joyce Vance",
+              "id": 263210
+            }
+          ],
+          "body_sha256": "ee3c8e91deb9112068c70dca9b8ac5630958f3c7c2f710be6c3ccf56de922faa",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice disagreement with Reaganomics and favorable treatment of labor and civil-rights organizing."
+        },
+        {
+          "post_id": "192039363",
+          "title": "The End of the Poll Tax ",
+          "date": "2026-03-25T03:19:57.184Z",
+          "url": "https://joycevance.substack.com/p/the-end-of-the-poll-tax",
+          "bylines": [
+            {
+              "name": "Joyce Vance",
+              "id": 263210
+            }
+          ],
+          "body_sha256": "127b0322881e0c73add0b90a4283177ca5e35ce22456c8caafaa24764bdf1644",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice defense of voting access and opposition to requirements framed as wealth-based exclusion."
+        }
+      ],
+      "expanded_review_summary": "Liberal/center-left legal commentary, supported by labor and voting-rights positions.",
+      "sampled_posts_n_previous_audit": 6,
+      "expanded_review_source_n": 2
+    },
+    {
+      "rank": 12,
+      "publication_id": "1042",
+      "publication": "Racket News",
+      "author_or_brand": "Matt Taibbi",
+      "base_url": "https://www.racket.news",
+      "ideology": "Mixed / heterodox; civil-liberties emphasis",
+      "coalition": "Critical of both; no party pledge",
+      "expressed_commitment": "Not established",
+      "organization": "Multi-author news/editorial outlet",
+      "role": "Investigative reporting and commentary",
+      "confidence": "Medium",
+      "rationale": "Criticizes legacy-media accounts while also discussing Trump’s excesses. Free-speech positions and anti-establishment reporting do not by themselves establish Republican loyalty or a fixed left-right location.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.racket.news/p/the-weaponization-of-the-weaponization",
+        "post_id": "184682939",
+        "about_sha256": "8e4ecad26ff3244f4da6cc94ed18061c80a37640e886503f333ea2943f03f645"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 1502,
+        "eligible_public_150_4000_word_posts": 360,
+        "period_eligible_n": {
+          "0": 98,
+          "1": 167,
+          "2": 95
+        },
+        "distinct_byline_ids": 33,
+        "coauthored_article_n": 708,
+        "missing_byline_article_n": 4,
+        "leading_byline_counts": [
+          {
+            "name": "Matt Taibbi",
+            "id": "263053",
+            "n": 1302
+          },
+          {
+            "name": "Walter Kirn",
+            "id": "5584330",
+            "n": 335
+          },
+          {
+            "name": "Racket Staff",
+            "id": "194299495",
+            "n": 320
+          },
+          {
+            "name": "Ford Fischer",
+            "id": "1272805",
+            "n": 40
+          },
+          {
+            "name": "Eric Salzman",
+            "id": "8568459",
+            "n": 37
+          },
+          {
+            "name": "Brad Pearce",
+            "id": "41551885",
+            "n": 29
+          },
+          {
+            "name": "Caden Olson",
+            "id": "442686520",
+            "n": 19
+          },
+          {
+            "name": "Walter Kirn",
+            "id": "16870010",
+            "n": 18
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 13,
+      "publication_id": "1910658",
+      "publication": "Adam Kinzinger",
+      "author_or_brand": "Adam Kinzinger",
+      "base_url": "https://www.adamkinzinger.com",
+      "ideology": "Conservative Republican origins; current policy range unconfirmed",
+      "coalition": "Anti-Trump coalition",
+      "expressed_commitment": "Explicit mission",
+      "organization": "Individual-led with guests",
+      "role": "Former-politician commentary",
+      "confidence": "Medium",
+      "rationale": "Explicitly describes twelve years as a Republican congressman and loss of party ties after opposing Trump. Historical origins are recorded separately from current policy ideology.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.adamkinzinger.com/about",
+        "post_id": null,
+        "about_sha256": "28829e070f2a9b24c315433eb19d8b529a3d88d5b1bf7393acd7ecc94479409e"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 1082,
+        "eligible_public_150_4000_word_posts": 544,
+        "period_eligible_n": {
+          "0": 133,
+          "1": 148,
+          "2": 263
+        },
+        "distinct_byline_ids": 26,
+        "coauthored_article_n": 33,
+        "missing_byline_article_n": 3,
+        "leading_byline_counts": [
+          {
+            "name": "Adam Kinzinger",
+            "id": "34518975",
+            "n": 1074
+          },
+          {
+            "name": "Phillips P. OBrien",
+            "id": "109940878",
+            "n": 5
+          },
+          {
+            "name": "Sofia Kinzinger",
+            "id": "169532025",
+            "n": 4
+          },
+          {
+            "name": "Zach Hunter",
+            "id": "350653584",
+            "n": 3
+          },
+          {
+            "name": "Ben Meiselas",
+            "id": "50092063",
+            "n": 2
+          },
+          {
+            "name": "Michael Fanone",
+            "id": "84632509",
+            "n": 2
+          },
+          {
+            "name": "Jim Acosta",
+            "id": "36455327",
+            "n": 2
+          },
+          {
+            "name": "Elie Honig",
+            "id": "25048026",
+            "n": 2
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 14,
+      "publication_id": "159185",
+      "publication": "Slow Boring ",
+      "author_or_brand": "Matthew Yglesias",
+      "base_url": "https://www.slowboring.com",
+      "ideology": "Center-left / pragmatic liberal",
+      "coalition": "Democratic-aligned",
+      "expressed_commitment": "Explicit electoral commitment",
+      "organization": "Small author/editorial team",
+      "role": "Policy analysis",
+      "confidence": "Medium",
+      "rationale": "The separately reviewed pilot explicitly recommends incremental public health coverage, supply reform and Democratic coalition priorities. Supporting AOC for a committee role does not make the author a socialist.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.slowboring.com/p/end-the-medicare-for-all-wars",
+        "post_id": "152867726",
+        "about_sha256": "bad9e1b66e32b7e5bb2c9d09d8f4bd3516a1ff4747cb257ac8d43dfffccf0553"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 1972,
+        "eligible_public_150_4000_word_posts": 421,
+        "period_eligible_n": {
+          "0": 154,
+          "1": 147,
+          "2": 120
+        },
+        "distinct_byline_ids": 40,
+        "coauthored_article_n": 20,
+        "missing_byline_article_n": 2,
+        "leading_byline_counts": [
+          {
+            "name": "Matthew Yglesias",
+            "id": "580004",
+            "n": 877
+          },
+          {
+            "name": "Ben Krauss",
+            "id": "2264368",
+            "n": 604
+          },
+          {
+            "name": "Halina Bennet",
+            "id": "49147056",
+            "n": 437
+          },
+          {
+            "name": "Kate Crawford",
+            "id": "1082805",
+            "n": 20
+          },
+          {
+            "name": "Jed Kolko",
+            "id": "5685341",
+            "n": 8
+          },
+          {
+            "name": "Milan Singh",
+            "id": "27698852",
+            "n": 4
+          },
+          {
+            "name": "Caroline Sutton",
+            "id": "18329521",
+            "n": 4
+          },
+          {
+            "name": "Maya Bodnick",
+            "id": "103976442",
+            "n": 2
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 15,
+      "publication_id": "247881",
+      "publication": "Steady",
+      "author_or_brand": "Dan Rather",
+      "base_url": "https://steady.substack.com",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Anti-Trump; party pledge not established",
+      "expressed_commitment": "Not established",
+      "organization": "Individual-led small editorial team",
+      "role": "Commentary and reflection",
+      "confidence": "Medium",
+      "rationale": "Climate action, racial justice and democratic norms are positively valued. Team-authored pieces and staff changes require distinguishing Dan Rather from the Steady brand.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://steady.substack.com/p/walk-on",
+        "post_id": "140048111",
+        "about_sha256": "b565ac85f9ac5e0548dff7eeb11d72ee36062ebab935ccbafbbb692858bc27e6"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 488,
+        "eligible_public_150_4000_word_posts": 485,
+        "period_eligible_n": {
+          "0": 161,
+          "1": 161,
+          "2": 163
+        },
+        "distinct_byline_ids": 3,
+        "coauthored_article_n": 484,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "Dan Rather",
+            "id": "23333047",
+            "n": 485
+          },
+          {
+            "name": "Team Steady",
+            "id": "26009191",
+            "n": 458
+          },
+          {
+            "name": "Elliot Kirschner",
+            "id": "23237013",
+            "n": 29
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 16,
+      "publication_id": "2623736",
+      "publication": "The Preamble",
+      "author_or_brand": "The Preamble",
+      "base_url": "https://thepreamble.com",
+      "ideology": "Center-left / socially liberal civic analysis; provisional",
+      "coalition": "Nonpartisan civic brand; no formal party commitment established",
+      "expressed_commitment": "Not established",
+      "organization": "Individual-led small editorial team",
+      "role": "Civic explanation and news analysis",
+      "confidence": "Medium",
+      "rationale": "McMahon’s own public prose rejects firearm-worship arguments and asks that children not have access to guns, advocates a constitutional amendment limiting money in politics, and criticizes religious-political curriculum mandates. Together these support a tentative liberal-leaning/center-left editorial assessment. Independence and a calm tone are not the basis for this label. Fiscal policy and many other domains remain unmeasured. An independent gubernatorial guest’s self-description is not McMahon’s.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://thepreamble.com/p/we-shouldnt-need-a-good-guy-with",
+        "post_id": "220789493",
+        "body_sha256": "21fdff8541347a1a1a8982f7e1a02bcf37fa04772899f84415b6fd89dde76130"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 1000,
+        "eligible_public_150_4000_word_posts": 38,
+        "period_eligible_n": {
+          "0": 4,
+          "1": 4,
+          "2": 30
+        },
+        "distinct_byline_ids": 60,
+        "coauthored_article_n": 29,
+        "missing_byline_article_n": 58,
+        "leading_byline_counts": [
+          {
+            "name": "Sharon McMahon",
+            "id": "219533938",
+            "n": 414
+          },
+          {
+            "name": "The Preamble",
+            "id": "113111520",
+            "n": 156
+          },
+          {
+            "name": "Elise Labott",
+            "id": "1399066",
+            "n": 81
+          },
+          {
+            "name": "Amanda E. White, LPC",
+            "id": "50956348",
+            "n": 47
+          },
+          {
+            "name": "Casey Burgat",
+            "id": "15651679",
+            "n": 45
+          },
+          {
+            "name": "Gabe Fleisher",
+            "id": "697125",
+            "n": 40
+          },
+          {
+            "name": "Andrea Jones-Rooy",
+            "id": "462924",
+            "n": 24
+          },
+          {
+            "name": "Marie Beecham",
+            "id": "187884621",
+            "n": 18
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      },
+      "previous_ideology": "Insufficient policy evidence",
+      "previous_confidence": "Low",
+      "expanded_review_evidence": [
+        {
+          "post_id": "220789493",
+          "title": "We Shouldn’t Need a “Good Guy With a Gun” ",
+          "date": "2026-10-17T09:02:15.105Z",
+          "url": "https://thepreamble.com/p/we-shouldnt-need-a-good-guy-with",
+          "bylines": [
+            {
+              "name": "Sharon McMahon",
+              "id": 219533938
+            }
+          ],
+          "body_sha256": "21fdff8541347a1a1a8982f7e1a02bcf37fa04772899f84415b6fd89dde76130",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice rejection of the good-guy-with-a-gun response and argument that the shooter should not have obtained a gun; also explains an editorial decision not to donate to candidates."
+        },
+        {
+          "post_id": "219341595",
+          "title": "How Do We Get Dark Money Out of Politics?",
+          "date": "2026-10-08T09:02:01.080Z",
+          "url": "https://thepreamble.com/p/how-do-we-get-dark-money-out-of-politics",
+          "bylines": [
+            {
+              "name": "Sharon McMahon",
+              "id": 219533938
+            }
+          ],
+          "body_sha256": "6c31237af97062f31f14dc52fdfbbb2940c00dadb78676d11630154c3fdf43ce",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice advocacy for a constitutional amendment limiting money and super-PAC influence in politics."
+        },
+        {
+          "post_id": "162721233",
+          "title": "From Bible Mandates to Election Lies",
+          "date": "2025-05-05T10:01:07.209Z",
+          "url": "https://thepreamble.com/p/from-bible-mandates-to-election-lies",
+          "bylines": [
+            {
+              "name": "Sharon McMahon",
+              "id": 219533938
+            },
+            {
+              "name": "Judd Legum",
+              "id": 364398
+            }
+          ],
+          "body_sha256": "834a6bdf217b542ea4772c639ea7f1fa1893ac6f2e8360dfbd7792cc976e8568",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Criticizes religious-political classroom mandates and the insertion of election-conspiracy claims into curriculum."
+        }
+      ],
+      "expanded_review_summary": "Tentatively center-left/liberal-leaning civic journalism; nonpartisan branding remains a separate field.",
+      "sampled_posts_n_previous_audit": 6,
+      "expanded_review_source_n": 3
+    },
+    {
+      "rank": 17,
+      "publication_id": "1664",
+      "publication": "Popular Information",
+      "author_or_brand": "Judd Legum",
+      "base_url": "https://popular.info",
+      "ideology": "Left / progressive",
+      "coalition": "Party pledge not established",
+      "expressed_commitment": "Not established",
+      "organization": "Small reporting team",
+      "role": "Accountability reporting",
+      "confidence": "High",
+      "rationale": "Judd Legum expressly identifies as progressive while stating that readers need not share his views. Former campaign employment is biographical evidence, not proof of present party obedience.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://popular.info/about",
+        "post_id": null,
+        "about_sha256": "bc15940d0a10cf19d5959a6d91d5cbc332c98a204f19f47809d0e249f9d76bec"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 595,
+        "eligible_public_150_4000_word_posts": 578,
+        "period_eligible_n": {
+          "0": 179,
+          "1": 187,
+          "2": 212
+        },
+        "distinct_byline_ids": 10,
+        "coauthored_article_n": 253,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "Judd Legum",
+            "id": "364398",
+            "n": 498
+          },
+          {
+            "name": "Rebecca Crosby",
+            "id": "41959330",
+            "n": 206
+          },
+          {
+            "name": "Noel Sims",
+            "id": "254787085",
+            "n": 152
+          },
+          {
+            "name": "Tesnim Zekeria",
+            "id": "5400025",
+            "n": 49
+          },
+          {
+            "name": "Caleb Ecarma",
+            "id": "17500014",
+            "n": 9
+          },
+          {
+            "name": "Stephen Semler",
+            "id": "802427",
+            "n": 4
+          },
+          {
+            "name": "Aaron Rupar",
+            "id": "696120",
+            "n": 3
+          },
+          {
+            "name": "Dave Infante",
+            "id": "116315",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 18,
+      "publication_id": "5445372",
+      "publication": "Hope for America with Heather Delaney Reese",
+      "author_or_brand": "Heather Delaney Reese",
+      "base_url": "https://www.heatherdelaneyreese.com",
+      "ideology": "Center-left / liberal; social-protection and immigrant-rights emphasis",
+      "coalition": "Democratic-oriented opposition to MAGA",
+      "expressed_commitment": "Explicit mission",
+      "organization": "Individual-led with guests",
+      "role": "Political commentary",
+      "confidence": "High",
+      "rationale": "The Social Security essay affirmatively defends social insurance and Medicaid against cuts paired with tax benefits for the wealthy. Immigration commentary rejects scapegoating and calls for taking Congress back. These give positive social-protection and rights positions beyond generalized anti-MAGA criticism.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.heatherdelaneyreese.com/p/mike-johnson-accidentally-told-us-1e0",
+        "post_id": "201496253",
+        "body_sha256": "0c2bdda7ee27ba373e6220ed1e9b074445b12cc2edd5306f9ab7a5b4b3355624"
+      },
+      "sampled_posts_n": 2,
+      "stats": {
+        "all_article_records": 854,
+        "eligible_public_150_4000_word_posts": 660,
+        "period_eligible_n": {
+          "2": 660
+        },
+        "distinct_byline_ids": 4,
+        "coauthored_article_n": 15,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "Heather Delaney Reese",
+            "id": "135515462",
+            "n": 854
+          },
+          {
+            "name": "Pete Reese",
+            "id": "361140109",
+            "n": 13
+          },
+          {
+            "name": "THE LEFT HOOK with Wajahat Ali",
+            "id": "5345375",
+            "n": 1
+          },
+          {
+            "name": "Scott MacFarlane",
+            "id": "379469498",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      },
+      "previous_ideology": "Insufficient policy evidence",
+      "previous_confidence": "Low",
+      "expanded_review_evidence": [
+        {
+          "post_id": "201496253",
+          "title": "Mike Johnson accidentally told us the plan for Social Security and Medicare",
+          "date": "2026-06-11T01:52:01.072Z",
+          "url": "https://www.heatherdelaneyreese.com/p/mike-johnson-accidentally-told-us-1e0",
+          "bylines": [
+            {
+              "name": "Heather Delaney Reese",
+              "id": 135515462
+            }
+          ],
+          "body_sha256": "0c2bdda7ee27ba373e6220ed1e9b074445b12cc2edd5306f9ab7a5b4b3355624",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Defends Social Security as earned protection and criticizes reductions in Medicaid alongside tax benefits for the wealthy."
+        },
+        {
+          "post_id": "219641236",
+          "title": "Trump honors BILLIONAIRE immigrants while attacking others",
+          "date": "2026-10-10T01:03:48.870Z",
+          "url": "https://www.heatherdelaneyreese.com/p/trump-honors-billionaire-immigrants",
+          "bylines": [
+            {
+              "name": "Heather Delaney Reese",
+              "id": 135515462
+            }
+          ],
+          "body_sha256": "ed64a3c01fc161def33875350beb19af04aaad39f055a2171dace742a910e950",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Rejects discrimination between wealthy favored immigrants and scapegoated immigrant communities, and urges electoral opposition."
+        }
+      ],
+      "expanded_review_summary": "Liberal/center-left, with clear support for social insurance and protection of immigrants.",
+      "sampled_posts_n_previous_audit": 2,
+      "expanded_review_source_n": 2
+    },
+    {
+      "rank": 19,
+      "publication_id": "3561893",
+      "publication": "Lincoln Square Media",
+      "author_or_brand": "Lincoln Square",
+      "base_url": "https://www.lincolnsquare.media",
+      "ideology": "Left / progressive, with mixed contributor backgrounds",
+      "coalition": "Anti-Trump coalition",
+      "expressed_commitment": "Explicit mission",
+      "organization": "Partisan media/advocacy network",
+      "role": "Reporting, strategy and mobilization",
+      "confidence": "Medium",
+      "rationale": "Self-description is progressive independent media, featuring Lincoln Project talent. Do not give every former Republican contributor the publication’s progressive label.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.lincolnsquare.media/about",
+        "post_id": null,
+        "about_sha256": "9b7e2443c5b9ac35d762f08fe0df2da18459f9c826b78882fe025590bd396343"
+      },
+      "sampled_posts_n": 5,
+      "stats": {
+        "all_article_records": 2450,
+        "eligible_public_150_4000_word_posts": 778,
+        "period_eligible_n": {
+          "0": 1,
+          "1": 338,
+          "2": 439
+        },
+        "distinct_byline_ids": 274,
+        "coauthored_article_n": 959,
+        "missing_byline_article_n": 1,
+        "leading_byline_counts": [
+          {
+            "name": "Lincoln Square",
+            "id": "326053148",
+            "n": 385
+          },
+          {
+            "name": "Susan J. Demas",
+            "id": "282293680",
+            "n": 357
+          },
+          {
+            "name": "Sam Osterhout",
+            "id": "219643473",
+            "n": 279
+          },
+          {
+            "name": "Rick Wilson",
+            "id": "2770933",
+            "n": 277
+          },
+          {
+            "name": "Joe Trippi",
+            "id": "3456669",
+            "n": 237
+          },
+          {
+            "name": "Edwin Eisendrath",
+            "id": "3308554",
+            "n": 193
+          },
+          {
+            "name": "Stuart Stevens",
+            "id": "3669487",
+            "n": 186
+          },
+          {
+            "name": "The Intellectualist",
+            "id": "178164411",
+            "n": 115
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 20,
+      "publication_id": "836444",
+      "publication": "The Warning with Steve Schmidt",
+      "author_or_brand": "Steve Schmidt",
+      "base_url": "https://steveschmidt.substack.com",
+      "ideology": "Center-left / moderate liberal; former Republican, Democratic-aligned",
+      "coalition": "Democratic-aligned anti-Trump; self-reported Democratic registration in a 2024 post",
+      "expressed_commitment": "Explicit mission",
+      "organization": "Individual-led small editorial team",
+      "role": "Commentary plus reporting",
+      "confidence": "Medium",
+      "rationale": "Schmidt’s 2024 autobiographical post says he left the GOP in 2018 and registered as a Democrat in 2020; it does not verify his registration today. More substantively, his own writing opposes reproductive restrictions and discrimination against gay people, and condemns the transfer of resources from working families and healthcare to wealthy interests. A moderate-liberal/center-left working label fits this current editorial material better than either Republican-conservative or merely unknown. A detailed economic ideology is not established.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://steveschmidt.substack.com/p/the-warning-a-fearless-hub-to-chart",
+        "post_id": "151824039",
+        "body_sha256": "52f6b7b1e8ed0e5bb21ad000d7696c743d87be2f48c8eeb92040274c9c751bd5"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 2611,
+        "eligible_public_150_4000_word_posts": 1297,
+        "period_eligible_n": {
+          "0": 389,
+          "1": 463,
+          "2": 445
+        },
+        "distinct_byline_ids": 74,
+        "coauthored_article_n": 130,
+        "missing_byline_article_n": 6,
+        "leading_byline_counts": [
+          {
+            "name": "Steve Schmidt",
+            "id": "279803574",
+            "n": 1801
+          },
+          {
+            "name": "Steve S",
+            "id": "39170975",
+            "n": 776
+          },
+          {
+            "name": "Sasha Ingber",
+            "id": "1919102",
+            "n": 30
+          },
+          {
+            "name": "Jim Acosta",
+            "id": "36455327",
+            "n": 26
+          },
+          {
+            "name": "Ryan Lizza",
+            "id": "547902",
+            "n": 18
+          },
+          {
+            "name": "Tara Palmeri",
+            "id": "2547291",
+            "n": 10
+          },
+          {
+            "name": "Dean Blundell",
+            "id": "34833166",
+            "n": 6
+          },
+          {
+            "name": "The Ken Harbaugh Show",
+            "id": "277451069",
+            "n": 5
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      },
+      "previous_ideology": "Insufficient current policy evidence",
+      "previous_confidence": "Low",
+      "expanded_review_evidence": [
+        {
+          "post_id": "151824039",
+          "title": "The Warning: a fearless hub to chart our future",
+          "date": "2024-11-18T16:44:15.222Z",
+          "url": "https://steveschmidt.substack.com/p/the-warning-a-fearless-hub-to-chart",
+          "bylines": [
+            {
+              "name": "Steve Schmidt",
+              "id": 279803574
+            }
+          ],
+          "body_sha256": "52f6b7b1e8ed0e5bb21ad000d7696c743d87be2f48c8eeb92040274c9c751bd5",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Explicit dated account of leaving the GOP and registering Democratic; retained as party-history evidence rather than a complete ideological score."
+        },
+        {
+          "post_id": "167171371",
+          "title": "A big beautiful bomb",
+          "date": "2025-06-30T12:45:46.135Z",
+          "url": "https://steveschmidt.substack.com/p/a-big-beautiful-bomb",
+          "bylines": [
+            {
+              "name": "Steve Schmidt",
+              "id": 279803574
+            }
+          ],
+          "body_sha256": "11c074db8ec114954805fd7de7f20a8cfdc4a70937820eabbeb4122cadcbd8fe",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice opposition to healthcare cuts, upward wealth transfers and expanded coercive immigration enforcement."
+        },
+        {
+          "post_id": "143402236",
+          "title": "Trump's double game on abortion rights",
+          "date": "2024-04-09T00:39:33.646Z",
+          "url": "https://steveschmidt.substack.com/p/trumps-double-game-on-abortion-rights",
+          "bylines": [
+            {
+              "name": "Steve S",
+              "id": 39170975
+            }
+          ],
+          "body_sha256": "61963b94ed201454083a600bb17dc824e58812e9b5a1464487c97690fc2954d9",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Opposes reproductive restrictions as intrusion into private life."
+        },
+        {
+          "post_id": "138302461",
+          "title": "The era of the 'Handmaid' speaker has begun",
+          "date": "2023-10-26T12:30:54.571Z",
+          "url": "https://steveschmidt.substack.com/p/the-era-of-the-handmaid-speaker-has",
+          "bylines": [
+            {
+              "name": "Steve S",
+              "id": 39170975
+            }
+          ],
+          "body_sha256": "b6fe6e4876f5c4e637b0a5ab2b3bfe1e2152e3e2d510564c62dbe5de02623362",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Rejects anti-gay political intrusion; published under an earlier Steve S byline, so individual account continuity is not independently certified."
+        }
+      ],
+      "expanded_review_summary": "Moderate liberal/center-left in current commentary; his Republican past does not describe his current electoral alignment.",
+      "sampled_posts_n_previous_audit": 6,
+      "expanded_review_source_n": 4
+    },
+    {
+      "rank": 21,
+      "publication_id": "283462",
+      "publication": "The Status Kuo",
+      "author_or_brand": "Jay Kuo",
+      "base_url": "https://statuskuo.substack.com",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Democratic-friendly",
+      "expressed_commitment": "Some expressed support",
+      "organization": "Individual-led newsletter",
+      "role": "Legal and political analysis",
+      "confidence": "Low",
+      "rationale": "Democratic gains are presented favorably alongside criticism of MAGA institutional control. This provides coalition evidence more clearly than a comprehensive policy ideology.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://statuskuo.substack.com/p/florida-man-loses-bigly",
+        "post_id": "192100347",
+        "about_sha256": "88ce8406c87f15cba31406657e9a3f2ecb294efc3aa585807b5857bfc7a3f591"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 1063,
+        "eligible_public_150_4000_word_posts": 1033,
+        "period_eligible_n": {
+          "0": 351,
+          "1": 345,
+          "2": 337
+        },
+        "distinct_byline_ids": 7,
+        "coauthored_article_n": 4,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "Jay Kuo",
+            "id": "479426373",
+            "n": 1053
+          },
+          {
+            "name": "Jay Kuo",
+            "id": "3347867",
+            "n": 10
+          },
+          {
+            "name": "Robert B. Hubbell",
+            "id": "3956425",
+            "n": 1
+          },
+          {
+            "name": "Joyce Vance",
+            "id": "263210",
+            "n": 1
+          },
+          {
+            "name": "Lincoln Square",
+            "id": "326053148",
+            "n": 1
+          },
+          {
+            "name": "The Ken Harbaugh Show",
+            "id": "277451069",
+            "n": 1
+          },
+          {
+            "name": "The Save America Movement",
+            "id": "353107918",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 22,
+      "publication_id": "994764",
+      "publication": "Erin In The Morning",
+      "author_or_brand": "Erin Reed",
+      "base_url": "https://www.erininthemorning.com",
+      "ideology": "Left / progressive on LGBTQ rights",
+      "coalition": "Issue-based; party pledge not established",
+      "expressed_commitment": "Issue commitment",
+      "organization": "Small reporting team",
+      "role": "Specialist reporting and rights advocacy",
+      "confidence": "High",
+      "rationale": "Explicitly presents anti-LGBTQ bills failing as victories. A strong issue position does not establish loyalty to every Democratic politician or an economic ideology.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.erininthemorning.com/p/iowa-attacks-on-trans-and-lgbtq-people",
+        "post_id": "143853293",
+        "about_sha256": "94a5af933cb7cd384de0727053393abdef10c51e20a2ce60136582d4c4c053e0"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 793,
+        "eligible_public_150_4000_word_posts": 790,
+        "period_eligible_n": {
+          "0": 201,
+          "1": 304,
+          "2": 285
+        },
+        "distinct_byline_ids": 8,
+        "coauthored_article_n": 2,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "Erin Reed",
+            "id": "16777014",
+            "n": 530
+          },
+          {
+            "name": "s. baum (they/them)",
+            "id": "2726182",
+            "n": 230
+          },
+          {
+            "name": "Mira Lazine",
+            "id": "7802585",
+            "n": 30
+          },
+          {
+            "name": "Evan Urquhart",
+            "id": "134938511",
+            "n": 1
+          },
+          {
+            "name": "Alejandra Caraballo",
+            "id": "280685576",
+            "n": 1
+          },
+          {
+            "name": "Evan Greer",
+            "id": "26180974",
+            "n": 1
+          },
+          {
+            "name": "Max Freedman",
+            "id": "304338940",
+            "n": 1
+          },
+          {
+            "name": "AlterNet America",
+            "id": "483889708",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 23,
+      "publication_id": "61371",
+      "publication": "The Weekly Dish",
+      "author_or_brand": "Andrew Sullivan",
+      "base_url": "https://andrewsullivan.substack.com",
+      "ideology": "Right / conservative-leaning, heterodox; provisional",
+      "coalition": "Critical of both; no party pledge",
+      "expressed_commitment": "Not established",
+      "organization": "Individual-led with editor",
+      "role": "Commentary and edited reader debate",
+      "confidence": "Medium",
+      "rationale": "Criticism of gender-policy progressivism and Biden coexists with extensive criticism of Trump’s executive power and election conduct. About page institutionalizes an edited dissent section; email selection is not the same as open comments.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://andrewsullivan.substack.com/p/the-tq-threat-to-lgb-rights",
+        "post_id": "200064657",
+        "about_sha256": "4c1fd9e8121661ba42da3dfbebed96a5d260e5755b33ebe82a51e6909292e1a8"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 421,
+        "eligible_public_150_4000_word_posts": 23,
+        "period_eligible_n": {
+          "0": 6,
+          "1": 5,
+          "2": 12
+        },
+        "distinct_byline_ids": 2,
+        "coauthored_article_n": 0,
+        "missing_byline_article_n": 1,
+        "leading_byline_counts": [
+          {
+            "name": "Andrew Sullivan",
+            "id": "12296303",
+            "n": 289
+          },
+          {
+            "name": "Chris Bodenner",
+            "id": "2255735",
+            "n": 131
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 24,
+      "publication_id": "271358",
+      "publication": "Today's Edition Newsletter",
+      "author_or_brand": "Robert B. Hubbell",
+      "base_url": "https://roberthubbell.substack.com",
+      "ideology": "Center-left / liberal",
+      "coalition": "Democratic-aligned",
+      "expressed_commitment": "Explicit electoral commitment",
+      "organization": "Individual-led with guests",
+      "role": "Political commentary and mobilization",
+      "confidence": "High",
+      "rationale": "The separately reviewed pilot explicitly defends intentionally positive Biden coverage and identifies itself as commentary rather than journalism. Electoral mobilization is also explicit.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://roberthubbell.substack.com/p/bidens-promises-kept-vs-trumps-trail",
+        "post_id": "144461448",
+        "about_sha256": "ae5a91e199429b812ee59a7ff552beb1a13874126002ae078b6988005988a61f"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 1280,
+        "eligible_public_150_4000_word_posts": 1019,
+        "period_eligible_n": {
+          "0": 315,
+          "1": 338,
+          "2": 366
+        },
+        "distinct_byline_ids": 13,
+        "coauthored_article_n": 9,
+        "missing_byline_article_n": 2,
+        "leading_byline_counts": [
+          {
+            "name": "Robert B. Hubbell",
+            "id": "3956425",
+            "n": 1275
+          },
+          {
+            "name": "Latino Victory",
+            "id": "343607926",
+            "n": 5
+          },
+          {
+            "name": "Charlie S",
+            "id": "280378964",
+            "n": 2
+          },
+          {
+            "name": "Jennifer Hubbell",
+            "id": "34651223",
+            "n": 1
+          },
+          {
+            "name": "Jay Kuo",
+            "id": "479426373",
+            "n": 1
+          },
+          {
+            "name": "Laura W. Brill",
+            "id": "22344296",
+            "n": 1
+          },
+          {
+            "name": "Jess Craven",
+            "id": "1960372",
+            "n": 1
+          },
+          {
+            "name": "Ade (Adelys) Ferro",
+            "id": "18096835",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 25,
+      "publication_id": "65026",
+      "publication": "The Message Box",
+      "author_or_brand": "Dan Pfeiffer",
+      "base_url": "https://www.messageboxnews.com",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Democratic-aligned",
+      "expressed_commitment": "Explicit electoral commitment",
+      "organization": "Individual-led with guests",
+      "role": "Campaign strategy and commentary",
+      "confidence": "Medium",
+      "rationale": "Former Obama adviser explicitly offers a newsletter for defeating Trump and MAGA. Party strategy is better identified than the precise degree of economic progressivism.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.messageboxnews.com/about",
+        "post_id": null,
+        "about_sha256": "36184e2ee4e1534aabdc4ae748fbf28a56c00aab31d2926edc746a784cad6941"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 527,
+        "eligible_public_150_4000_word_posts": 175,
+        "period_eligible_n": {
+          "0": 69,
+          "1": 63,
+          "2": 43
+        },
+        "distinct_byline_ids": 13,
+        "coauthored_article_n": 12,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "Dan Pfeiffer",
+            "id": "1856377",
+            "n": 527
+          },
+          {
+            "name": "Jon Favreau",
+            "id": "3728271",
+            "n": 2
+          },
+          {
+            "name": "Sarah Longwell",
+            "id": "16021541",
+            "n": 1
+          },
+          {
+            "name": "Jonathan V. Last",
+            "id": "2185865",
+            "n": 1
+          },
+          {
+            "name": "Preet Bharara",
+            "id": "8157228",
+            "n": 1
+          },
+          {
+            "name": "David Pakman",
+            "id": "354407",
+            "n": 1
+          },
+          {
+            "name": "Tommy Vietor",
+            "id": "1851999",
+            "n": 1
+          },
+          {
+            "name": "Mike Nellis",
+            "id": "313054292",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 26,
+      "publication_id": "70374",
+      "publication": "The.Ink",
+      "author_or_brand": "Anand Giridharadas",
+      "base_url": "https://the.ink",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic-aligned, internally critical",
+      "expressed_commitment": "Explicit electoral commitment",
+      "organization": "Multi-author editorial outlet",
+      "role": "Interviews and political commentary",
+      "confidence": "Medium",
+      "rationale": "Explicitly seeks a progressive future and defeating Trump; a later sampled rant criticizes Democrats’ weak opposition. Party commitment does not mean absence of intra-party criticism.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://the.ink/p/how-harris-crushes-trump",
+        "post_id": "146876197",
+        "about_sha256": "b389e427f8843ec1250080fbc92694bbefade62da2555137946590d0d4112d58"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 1197,
+        "eligible_public_150_4000_word_posts": 182,
+        "period_eligible_n": {
+          "0": 7,
+          "1": 94,
+          "2": 81
+        },
+        "distinct_byline_ids": 128,
+        "coauthored_article_n": 218,
+        "missing_byline_article_n": 5,
+        "leading_byline_counts": [
+          {
+            "name": "The Ink",
+            "id": "201953295",
+            "n": 680
+          },
+          {
+            "name": "Anand Giridharadas",
+            "id": "2005291",
+            "n": 405
+          },
+          {
+            "name": "Leigh Haber",
+            "id": "116484118",
+            "n": 131
+          },
+          {
+            "name": "Michael Berk",
+            "id": "846721",
+            "n": 20
+          },
+          {
+            "name": "Brian Montopoli",
+            "id": "20910432",
+            "n": 18
+          },
+          {
+            "name": "Anat Shenker-Osorio",
+            "id": "671652",
+            "n": 12
+          },
+          {
+            "name": "Anya Kamenetz",
+            "id": "977376",
+            "n": 8
+          },
+          {
+            "name": "Michael Cohen",
+            "id": "9354878",
+            "n": 7
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 27,
+      "publication_id": "501423",
+      "publication": "Public Notice",
+      "author_or_brand": "Aaron Rupar",
+      "base_url": "https://www.publicnotice.co",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic-friendly",
+      "expressed_commitment": "Some expressed support",
+      "organization": "Multi-author news/editorial outlet",
+      "role": "Reporting and commentary",
+      "confidence": "High",
+      "rationale": "About page explicitly describes a largely progressive audience and a cast of contributors. Article-level legal analysis should not be conflated with a formal party institution.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.publicnotice.co/about",
+        "post_id": null,
+        "about_sha256": "203a4c48ccc37485c0a4cd3e766f06ff1eb446992aaa176ae8cebf646b064d66"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 871,
+        "eligible_public_150_4000_word_posts": 757,
+        "period_eligible_n": {
+          "0": 198,
+          "1": 265,
+          "2": 294
+        },
+        "distinct_byline_ids": 30,
+        "coauthored_article_n": 149,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "Aaron Rupar",
+            "id": "696120",
+            "n": 192
+          },
+          {
+            "name": "Lisa Needham",
+            "id": "10292",
+            "n": 161
+          },
+          {
+            "name": "Noah Berlatsky",
+            "id": "2185926",
+            "n": 154
+          },
+          {
+            "name": "Liz Dye",
+            "id": "6000720",
+            "n": 126
+          },
+          {
+            "name": "Paul Waldman",
+            "id": "21164210",
+            "n": 89
+          },
+          {
+            "name": "Stephen Robinson",
+            "id": "52692688",
+            "n": 66
+          },
+          {
+            "name": "Thor Benson",
+            "id": "3455464",
+            "n": 59
+          },
+          {
+            "name": "David R. Lurie",
+            "id": "2615625",
+            "n": 48
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 28,
+      "publication_id": "3546953",
+      "publication": "Legal AF's Substack",
+      "author_or_brand": "Legal AF",
+      "base_url": "https://michaelpopok.substack.com",
+      "ideology": "Center-left / liberal; reproductive-rights and equal-protection emphasis",
+      "coalition": "MeidasTouch-linked anti-Trump legal media",
+      "expressed_commitment": "Explicit mission",
+      "organization": "Partisan media/advocacy network",
+      "role": "Legal analysis and news commentary",
+      "confidence": "High",
+      "rationale": "Two longer public pieces explicitly favor reproductive autonomy and defend abortion access while criticizing restrictions and attacks on healthcare provision. This supplies substantive liberal editorial evidence missing from the initial short-video sample. Multiple authors and advocacy partners contribute; do not attribute every piece to Michael Popok. Medical or legal factual claims are not adjudicated by this ideology review.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://michaelpopok.substack.com/p/wyoming-republicans-accidentally",
+        "post_id": "183830019",
+        "body_sha256": "817b2700d339387175902247b2e7801de1c0db221a5e91c6e932ae2aa1623de6"
+      },
+      "sampled_posts_n": 4,
+      "stats": {
+        "all_article_records": 3207,
+        "eligible_public_150_4000_word_posts": 1098,
+        "period_eligible_n": {
+          "1": 246,
+          "2": 852
+        },
+        "distinct_byline_ids": 68,
+        "coauthored_article_n": 2448,
+        "missing_byline_article_n": 2,
+        "leading_byline_counts": [
+          {
+            "name": "Legal AF",
+            "id": "301279317",
+            "n": 3205
+          },
+          {
+            "name": "Popok",
+            "id": "337615104",
+            "n": 1833
+          },
+          {
+            "name": "Adam Klasfeld",
+            "id": "967934",
+            "n": 248
+          },
+          {
+            "name": "All Rise News",
+            "id": "333005334",
+            "n": 183
+          },
+          {
+            "name": "Ben Meiselas",
+            "id": "50092063",
+            "n": 155
+          },
+          {
+            "name": "Lisa Graves",
+            "id": "7171731",
+            "n": 135
+          },
+          {
+            "name": "Court Accountability Action",
+            "id": "247917342",
+            "n": 117
+          },
+          {
+            "name": "Karen Friedman Agnifilo",
+            "id": "62999550",
+            "n": 103
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      },
+      "previous_ideology": "Insufficient policy evidence",
+      "previous_confidence": "Low",
+      "expanded_review_evidence": [
+        {
+          "post_id": "183830019",
+          "title": "Wyoming Republicans Accidentally Enshrined Abortion Rights in Their Constitution",
+          "date": "2026-01-07T22:30:43.761Z",
+          "url": "https://michaelpopok.substack.com/p/wyoming-republicans-accidentally",
+          "bylines": [
+            {
+              "name": "Legal AF",
+              "id": 301279317
+            },
+            {
+              "name": "Dina Doll",
+              "id": 88810130
+            }
+          ],
+          "body_sha256": "817b2700d339387175902247b2e7801de1c0db221a5e91c6e932ae2aa1623de6",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Dina Doll explicitly welcomes protection of women’s healthcare decisions and the preservation of abortion access."
+        },
+        {
+          "post_id": "175649192",
+          "title": "The Anti-Abortion Machine Again Tries to Use Fake Science to Take Down Mifepristone",
+          "date": "2025-10-08T23:00:29.988Z",
+          "url": "https://michaelpopok.substack.com/p/the-anti-abortion-machine-again-tries",
+          "bylines": [
+            {
+              "name": "Legal AF",
+              "id": 301279317
+            },
+            {
+              "name": "Court Accountability Action",
+              "id": 247917342
+            }
+          ],
+          "body_sha256": "33605ab46a7a8c067be18bee12a3c841366cc480fcafe7e08f36d4a5ddc67fd2",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Court Accountability Action contribution defends access to abortion medication and encourages readers to oppose anti-abortion claims; the classification concerns its stated orientation, not independent medical validation."
+        }
+      ],
+      "expanded_review_summary": "Liberal/center-left legal and reproductive-rights commentary; a network with multiple contributors.",
+      "sampled_posts_n_previous_audit": 4,
+      "expanded_review_source_n": 2
+    },
+    {
+      "rank": 29,
+      "publication_id": "1223483",
+      "publication": "Hopium Chronicles By Simon Rosenberg",
+      "author_or_brand": "Simon Rosenberg",
+      "base_url": "https://www.hopiumchronicles.com",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Democratic-aligned",
+      "expressed_commitment": "Explicit electoral commitment",
+      "organization": "Individual-led with guests",
+      "role": "Campaign organizing and strategy",
+      "confidence": "High",
+      "rationale": "About page praises the Democratic Party and Biden; articles solicit money and volunteering for Democratic candidates. Degree of left economic ideology remains less certain than party commitment.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.hopiumchronicles.com/about",
+        "post_id": null,
+        "about_sha256": "910d3e77d9b91e6b00269be52c7f2a59b9a4e8efab37473e3bb250989a86b17b"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 1756,
+        "eligible_public_150_4000_word_posts": 1291,
+        "period_eligible_n": {
+          "0": 333,
+          "1": 406,
+          "2": 552
+        },
+        "distinct_byline_ids": 35,
+        "coauthored_article_n": 63,
+        "missing_byline_article_n": 12,
+        "leading_byline_counts": [
+          {
+            "name": "Simon Rosenberg",
+            "id": "65522710",
+            "n": 1709
+          },
+          {
+            "name": "Lincoln Cooper",
+            "id": "291064323",
+            "n": 38
+          },
+          {
+            "name": "Lincoln Square",
+            "id": "326053148",
+            "n": 11
+          },
+          {
+            "name": "Jennifer Rubin",
+            "id": "3500271",
+            "n": 7
+          },
+          {
+            "name": "Norman Eisen",
+            "id": "1323976",
+            "n": 6
+          },
+          {
+            "name": "Katie Phang",
+            "id": "21818709",
+            "n": 5
+          },
+          {
+            "name": "Rep. Adam Smith",
+            "id": "390736508",
+            "n": 4
+          },
+          {
+            "name": "The Contrarian",
+            "id": "308784587",
+            "n": 3
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 30,
+      "publication_id": "186462",
+      "publication": "News Not Noise",
+      "author_or_brand": "Jessica Yellin",
+      "base_url": "https://newsnotnoisejessicayellin.substack.com",
+      "ideology": "Center-left / socially liberal editorial framing; nonpartisan news brand",
+      "coalition": "Democratic-friendly coverage; formal party pledge not established",
+      "expressed_commitment": "Not established",
+      "organization": "Small reporting team",
+      "role": "News explanation and interviews",
+      "confidence": "Medium",
+      "rationale": "The editor’s own introductions affirm reproductive-rights work and characterize abortion restrictions and their consequences critically. The outlet also gives space to pragmatic Democratic figures and maintains a fact-explanation mission. This supports a tentative center-left editorial tendency without equating a nonpartisan news brand with centrism or assigning it a party identity. Guest views and poll findings are not coded as the editor’s own.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://newsnotnoisejessicayellin.substack.com/p/judge-threatens-criminal-contempt",
+        "post_id": "161418469",
+        "body_sha256": "f1070340a45e9507ae7cd2cbc60ccf97bf5d9aa39a5470220ace3240a9a45f3c"
+      },
+      "sampled_posts_n": 4,
+      "stats": {
+        "all_article_records": 438,
+        "eligible_public_150_4000_word_posts": 53,
+        "period_eligible_n": {
+          "1": 23,
+          "2": 30
+        },
+        "distinct_byline_ids": 19,
+        "coauthored_article_n": 231,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "Jessica Yellin",
+            "id": "20113711",
+            "n": 437
+          },
+          {
+            "name": "Rohan Montgomery",
+            "id": "281164902",
+            "n": 216
+          },
+          {
+            "name": "Jeremy Faust, MD",
+            "id": "9568827",
+            "n": 2
+          },
+          {
+            "name": "Jessica Knurick, PhD, RDN",
+            "id": "61174671",
+            "n": 2
+          },
+          {
+            "name": "Shannon Watts",
+            "id": "3953875",
+            "n": 1
+          },
+          {
+            "name": "Andrea Bendewald",
+            "id": "10384912",
+            "n": 1
+          },
+          {
+            "name": "Elise Loehnen",
+            "id": "107732838",
+            "n": 1
+          },
+          {
+            "name": "Anne Applebaum",
+            "id": "2016344",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      },
+      "previous_ideology": "Insufficient policy evidence",
+      "previous_confidence": "Low",
+      "expanded_review_evidence": [
+        {
+          "post_id": "161418469",
+          "title": "Judge Threatens Criminal Contempt & A Conversation With Jessica Valenti",
+          "date": "2025-04-16T21:47:25.622Z",
+          "url": "https://newsnotnoisejessicayellin.substack.com/p/judge-threatens-criminal-contempt",
+          "bylines": [
+            {
+              "name": "Jessica Yellin",
+              "id": 20113711
+            },
+            {
+              "name": "Jessica Valenti",
+              "id": 535611
+            },
+            {
+              "name": "Rohan Montgomery",
+              "id": 281164902
+            }
+          ],
+          "body_sha256": "f1070340a45e9507ae7cd2cbc60ccf97bf5d9aa39a5470220ace3240a9a45f3c",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "Yellin’s own introduction praises Valenti’s reproductive-rights work and describes restrictions as attacks; not merely a guest quotation."
+        },
+        {
+          "post_id": "208390214",
+          "title": "Texas \"Clarified\" Its Abortion Law. Then This Happened. ",
+          "date": "2026-07-24T23:47:01.979Z",
+          "url": "https://newsnotnoisejessicayellin.substack.com/p/texas-clarified-its-abortion-law",
+          "bylines": [
+            {
+              "name": "Jessica Yellin",
+              "id": 20113711
+            },
+            {
+              "name": "Rohan Montgomery",
+              "id": 281164902
+            }
+          ],
+          "body_sha256": "610ad5ddc5131599686cfba1c562fbc362dc8e3310325091b2385d6bcbce3541",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "Editorial text describes the consequences of Texas abortion restrictions and calls the revised protection inadequate."
+        },
+        {
+          "post_id": "198741434",
+          "title": "Matt Mahan Ran Facebook's First Campaign. Now He Wants to Run California.",
+          "date": "2026-05-22T23:08:37.595Z",
+          "url": "https://newsnotnoisejessicayellin.substack.com/p/matt-mahan-ran-facebooks-first-campaign",
+          "bylines": [
+            {
+              "name": "Jessica Yellin",
+              "id": 20113711
+            },
+            {
+              "name": "Rohan Montgomery",
+              "id": 281164902
+            }
+          ],
+          "body_sha256": "3c6876af61baa94e4fd46130d49c4fd2d9abad376f07fa83b3a8fc222dc59cb5",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "An interview with a pragmatic Democratic candidate illustrates within-coalition breadth; not a candidate endorsement by itself."
+        }
+      ],
+      "expanded_review_summary": "Center-left/socially liberal framing within a news-explanation brand; no formal Democratic identity inferred.",
+      "sampled_posts_n_previous_audit": 4,
+      "expanded_review_source_n": 3
+    },
+    {
+      "rank": 31,
+      "publication_id": "362618",
+      "publication": "Chop Wood, Carry Water",
+      "author_or_brand": "Jess Craven",
+      "base_url": "https://chopwoodcarrywaterdailyactions.substack.com",
+      "ideology": "Left / progressive; provisional",
+      "coalition": "Democratic-aligned",
+      "expressed_commitment": "Explicit electoral commitment",
+      "organization": "Individual-led with guests",
+      "role": "Political organizing",
+      "confidence": "High",
+      "rationale": "Explicitly works to elect Democratic candidates and supplies daily political actions. This is an organizing product rather than a general news agency.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://chopwoodcarrywaterdailyactions.substack.com/about",
+        "post_id": null,
+        "about_sha256": "f2f21608bf6cb0d7e9429cb6f16bf2e2198500ce7f0fe11401601dbe919ba0cb"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 954,
+        "eligible_public_150_4000_word_posts": 854,
+        "period_eligible_n": {
+          "0": 292,
+          "1": 282,
+          "2": 280
+        },
+        "distinct_byline_ids": 47,
+        "coauthored_article_n": 58,
+        "missing_byline_article_n": 1,
+        "leading_byline_counts": [
+          {
+            "name": "Jess Craven",
+            "id": "1960372",
+            "n": 953
+          },
+          {
+            "name": "THE LEFT HOOK with Wajahat Ali",
+            "id": "5345375",
+            "n": 7
+          },
+          {
+            "name": "Anat Shenker-Osorio",
+            "id": "671652",
+            "n": 3
+          },
+          {
+            "name": "Scott Dworkin",
+            "id": "1054333",
+            "n": 2
+          },
+          {
+            "name": "Isaiah Martin for Congress",
+            "id": "327125947",
+            "n": 2
+          },
+          {
+            "name": "Qasim Rashid, Esq.",
+            "id": "26821923",
+            "n": 2
+          },
+          {
+            "name": "John Bonifaz",
+            "id": "2016757",
+            "n": 2
+          },
+          {
+            "name": "Chuck Borges",
+            "id": "443496801",
+            "n": 2
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 32,
+      "publication_id": "6832795",
+      "publication": "Raw America",
+      "author_or_brand": "Raw America",
+      "base_url": "https://www.rawamerica.com",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Anti-Trump coalition",
+      "expressed_commitment": "Explicit mission",
+      "organization": "News/advocacy hybrid network",
+      "role": "Reporting and commentary",
+      "confidence": "Medium",
+      "rationale": "A named Raw Story/Really American network describes itself as a people-powered response to MAGA media ownership. Multiple staff and brand bylines make individual attribution difficult.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.rawamerica.com/about",
+        "post_id": null,
+        "about_sha256": "f70bf2eee7c817013ffe5666a5e2cc110871bf9ff29a052f60bab1a44bed7a45"
+      },
+      "sampled_posts_n": 2,
+      "stats": {
+        "all_article_records": 569,
+        "eligible_public_150_4000_word_posts": 400,
+        "period_eligible_n": {
+          "2": 400
+        },
+        "distinct_byline_ids": 51,
+        "coauthored_article_n": 320,
+        "missing_byline_article_n": 8,
+        "leading_byline_counts": [
+          {
+            "name": "Raw America",
+            "id": "233718245",
+            "n": 559
+          },
+          {
+            "name": "British Chris",
+            "id": "449334513",
+            "n": 149
+          },
+          {
+            "name": "John Byrne",
+            "id": "4368391",
+            "n": 94
+          },
+          {
+            "name": "Thom Hartmann",
+            "id": "1100619",
+            "n": 26
+          },
+          {
+            "name": "Brian Karem",
+            "id": "43865804",
+            "n": 7
+          },
+          {
+            "name": "D. Earl Stephens ✍️",
+            "id": "74578175",
+            "n": 2
+          },
+          {
+            "name": "Lev Parnas",
+            "id": "35788031",
+            "n": 2
+          },
+          {
+            "name": "Florida Democratic Party",
+            "id": "381289626",
+            "n": 2
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 33,
+      "publication_id": "559646",
+      "publication": "The Good in Us by Mary L. Trump ",
+      "author_or_brand": "Mary L Trump",
+      "base_url": "https://www.marytrump.org",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Democratic-aligned, internally critical",
+      "expressed_commitment": "Explicit electoral commitment",
+      "organization": "Individual-led with guests",
+      "role": "Political commentary",
+      "confidence": "Medium",
+      "rationale": "Urges Democratic leadership not to concede to Republicans. Many sampled records have missing bylines, so Mary Trump’s author identity cannot be assumed for all texts.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.marytrump.org/about",
+        "post_id": null,
+        "about_sha256": "243306bf8d6910ebe82dd3d8f8564e2ec7ce3c60cbf770b4c918f962ef047d72"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 761,
+        "eligible_public_150_4000_word_posts": 660,
+        "period_eligible_n": {
+          "0": 210,
+          "1": 129,
+          "2": 321
+        },
+        "distinct_byline_ids": 34,
+        "coauthored_article_n": 64,
+        "missing_byline_article_n": 389,
+        "leading_byline_counts": [
+          {
+            "name": "Mary L Trump",
+            "id": "1226035",
+            "n": 360
+          },
+          {
+            "name": "THE LEFT HOOK with Wajahat Ali",
+            "id": "5345375",
+            "n": 14
+          },
+          {
+            "name": "Brian Karem",
+            "id": "43865804",
+            "n": 7
+          },
+          {
+            "name": "Katie Phang",
+            "id": "21818709",
+            "n": 6
+          },
+          {
+            "name": "Dean Obeidallah",
+            "id": "2050219",
+            "n": 6
+          },
+          {
+            "name": "Joyce Vance",
+            "id": "263210",
+            "n": 5
+          },
+          {
+            "name": "Danielle Moodie",
+            "id": "187569285",
+            "n": 4
+          },
+          {
+            "name": "Steven Beschloss",
+            "id": "18997640",
+            "n": 3
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 34,
+      "publication_id": "1887091",
+      "publication": "Rick Wilson’s Against All Enemies",
+      "author_or_brand": "Rick Wilson",
+      "base_url": "https://www.againstallenemies.net",
+      "ideology": "Conservative Republican origins; current policy range unconfirmed",
+      "coalition": "Anti-Trump coalition",
+      "expressed_commitment": "Explicit mission",
+      "organization": "Individual-led with guests",
+      "role": "Political strategy and advocacy",
+      "confidence": "High",
+      "rationale": "Explicitly rejects being a progressive or liberal, describes former Republican roots, and commits to fighting the current GOP. An important case where anti-Trump does not mean left.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.againstallenemies.net/about",
+        "post_id": null,
+        "about_sha256": "642c5e46c97c308a91ae5a0a6253db1bb28d9282e8a4e3087f219c91ca2561f1"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 988,
+        "eligible_public_150_4000_word_posts": 224,
+        "period_eligible_n": {
+          "0": 115,
+          "1": 47,
+          "2": 62
+        },
+        "distinct_byline_ids": 26,
+        "coauthored_article_n": 37,
+        "missing_byline_article_n": 3,
+        "leading_byline_counts": [
+          {
+            "name": "Rick Wilson",
+            "id": "2770933",
+            "n": 985
+          },
+          {
+            "name": "Molly Jong-Fast",
+            "id": "2869184",
+            "n": 8
+          },
+          {
+            "name": "Lincoln Square",
+            "id": "326053148",
+            "n": 5
+          },
+          {
+            "name": "THE LEFT HOOK with Wajahat Ali",
+            "id": "5345375",
+            "n": 5
+          },
+          {
+            "name": "Jim Acosta",
+            "id": "36455327",
+            "n": 4
+          },
+          {
+            "name": "Scott MacFarlane",
+            "id": "379469498",
+            "n": 3
+          },
+          {
+            "name": "Michael Cohen",
+            "id": "9354878",
+            "n": 2
+          },
+          {
+            "name": "Preet Bharara",
+            "id": "8157228",
+            "n": 2
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 35,
+      "publication_id": "3117639",
+      "publication": "Pantsuit Politics",
+      "author_or_brand": "Pantsuit Politics",
+      "base_url": "https://www.pantsuitpoliticsshow.com",
+      "ideology": "Center-left / pluralist liberal; cohosts have cross-cutting positions",
+      "coalition": "Democratic electoral preference with internal disagreement",
+      "expressed_commitment": "Not established",
+      "organization": "Small cohost/editorial team",
+      "role": "Political conversation and civic advice",
+      "confidence": "High",
+      "rationale": "Beth Silvers explicitly rejects identifying her conversational moderation with centrist policy views, describes welcoming immigration and left/libertarian criminal-justice positions, and calls a Democratic midterm victory imperative. Sarah identifies herself as a Democrat in a separate transcript. This resolves the broad outlet tendency while preserving differences between the cohosts; a shared tone is not a shared point on every issue.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.pantsuitpoliticsshow.com/p/the-resistance-and-the-moderates",
+        "post_id": "186090535",
+        "body_sha256": "96348e3db83a6f12bc68dbfea2d8304527b9ae53e241da20404e598b24650ca6"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 1510,
+        "eligible_public_150_4000_word_posts": 165,
+        "period_eligible_n": {
+          "0": 47,
+          "1": 69,
+          "2": 49
+        },
+        "distinct_byline_ids": 62,
+        "coauthored_article_n": 203,
+        "missing_byline_article_n": 4,
+        "leading_byline_counts": [
+          {
+            "name": "Pantsuit Politics",
+            "id": "141635740",
+            "n": 924
+          },
+          {
+            "name": "Sarah Stewart Holland",
+            "id": "276263",
+            "n": 413
+          },
+          {
+            "name": "Beth Ann Silvers",
+            "id": "4943356",
+            "n": 346
+          },
+          {
+            "name": "Alise Napp",
+            "id": "18113519",
+            "n": 25
+          },
+          {
+            "name": "Maggie Penton",
+            "id": "75278749",
+            "n": 12
+          },
+          {
+            "name": "Norma Stary",
+            "id": "5802555",
+            "n": 10
+          },
+          {
+            "name": "Bethaney Wilkinson",
+            "id": "101032787",
+            "n": 3
+          },
+          {
+            "name": "Erin Baute",
+            "id": "54294048",
+            "n": 3
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      },
+      "previous_ideology": "Insufficient broad ideology; liberal positions on selected social issues",
+      "previous_confidence": "Medium",
+      "expanded_review_evidence": [
+        {
+          "post_id": "186090535",
+          "title": "The Resistance and the Moderates",
+          "date": "2026-01-28T16:17:06.883Z",
+          "url": "https://www.pantsuitpoliticsshow.com/p/the-resistance-and-the-moderates",
+          "bylines": [
+            {
+              "name": "Beth Ann Silvers",
+              "id": 4943356
+            }
+          ],
+          "body_sha256": "96348e3db83a6f12bc68dbfea2d8304527b9ae53e241da20404e598b24650ca6",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Beth distinguishes moderation as pluralism from centrism, describes her own immigration and criminal-justice positions, and explicitly advocates a Democratic midterm victory."
+        },
+        {
+          "post_id": "155572161",
+          "title": "How Scared Should We Be That Trump Won the Iowa Caucus?",
+          "date": "2024-01-17T07:00:00.000Z",
+          "url": "https://www.pantsuitpoliticsshow.com/p/2024117how-scared-should-we-be-that-donald-trump-won-the-iowa-caucus",
+          "bylines": [
+            {
+              "name": "Pantsuit Politics",
+              "id": 141635740
+            }
+          ],
+          "body_sha256": "60260a32efd3f946975919f887ce30a2a2b4930af09a57238677a4128ac5c3e9",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "A specifically attributed Sarah transcript passage contains her own Democratic identification and favorable assessment of Biden’s leadership."
+        }
+      ],
+      "expanded_review_summary": "Pluralist center-left/liberal; moderate tone should not be mistaken for centrist policy positions.",
+      "sampled_posts_n_previous_audit": 6,
+      "expanded_review_source_n": 2
+    },
+    {
+      "rank": 36,
+      "publication_id": "2794840",
+      "publication": "Brian Tyler Cohen",
+      "author_or_brand": "Brian Tyler Cohen",
+      "base_url": "https://plus.briantylercohen.com",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic-aligned",
+      "expressed_commitment": "Explicit electoral commitment",
+      "organization": "Individual-led with guests",
+      "role": "Political commentary and strategy",
+      "confidence": "High",
+      "rationale": "About page explicitly calls the creator left; sampled essay advocates supporting even conservative Democrats over Republicans to secure governing power.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://plus.briantylercohen.com/about",
+        "post_id": null,
+        "about_sha256": "c7e9e8f3718e73db07ca6c13c2d7d9868c351da1c3e2dfe2cf2de514810b0155"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 178,
+        "eligible_public_150_4000_word_posts": 168,
+        "period_eligible_n": {
+          "0": 19,
+          "1": 49,
+          "2": 100
+        },
+        "distinct_byline_ids": 7,
+        "coauthored_article_n": 5,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "Brian Tyler Cohen",
+            "id": "110233861",
+            "n": 176
+          },
+          {
+            "name": "Glenn Kirschner",
+            "id": "8891234",
+            "n": 2
+          },
+          {
+            "name": "Lucas Kunce",
+            "id": "162150733",
+            "n": 1
+          },
+          {
+            "name": "David Pakman",
+            "id": "354407",
+            "n": 1
+          },
+          {
+            "name": "Mike Nellis",
+            "id": "313054292",
+            "n": 1
+          },
+          {
+            "name": "Catherine Rampell",
+            "id": "112934",
+            "n": 1
+          },
+          {
+            "name": "Sarah Longwell",
+            "id": "16021541",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 37,
+      "publication_id": "759524",
+      "publication": "To the Contrary",
+      "author_or_brand": "Charlie Sykes",
+      "base_url": "https://charliesykes.substack.com",
+      "ideology": "Right / center-right liberal conservative; anti-Trump",
+      "coalition": "Anti-Trump; explicit Harris endorsement despite policy disagreements",
+      "expressed_commitment": "Explicit mission",
+      "organization": "Individual-led with guests",
+      "role": "Political commentary",
+      "confidence": "High",
+      "rationale": "In an interview republished on his own newsletter, Sykes says his conservative principles have not changed and specifically retains disagreements over tax policy and student debt while endorsing Harris on democratic grounds. His own commentary situates this within a conservative anti-Trump coalition, with later criticism of MAGA and attention to Democratic moderation. This is a clearer current center-right/conservative case than the initial sampled excerpts showed. It is not pro-Trump.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://charliesykes.substack.com/p/why-im-voting-for-kamala-harris",
+        "post_id": "150073840",
+        "body_sha256": "1a6c87c5eda471e4de8d8e4de9163c0ed4f4d8bb6b3da360dc53bc74de6681c0"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 959,
+        "eligible_public_150_4000_word_posts": 889,
+        "period_eligible_n": {
+          "0": 79,
+          "1": 341,
+          "2": 469
+        },
+        "distinct_byline_ids": 39,
+        "coauthored_article_n": 133,
+        "missing_byline_article_n": 21,
+        "leading_byline_counts": [
+          {
+            "name": "Charlie Sykes",
+            "id": "4298516",
+            "n": 938
+          },
+          {
+            "name": "Matt Lewis",
+            "id": "2532833",
+            "n": 51
+          },
+          {
+            "name": "Julian Zelizer",
+            "id": "596700",
+            "n": 20
+          },
+          {
+            "name": "Adam Kinzinger",
+            "id": "34518975",
+            "n": 11
+          },
+          {
+            "name": "Tara Palmeri",
+            "id": "2547291",
+            "n": 6
+          },
+          {
+            "name": "Jim Acosta",
+            "id": "36455327",
+            "n": 5
+          },
+          {
+            "name": "Harry Litman",
+            "id": "28064135",
+            "n": 5
+          },
+          {
+            "name": "Chris Cillizza",
+            "id": "35291792",
+            "n": 3
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      },
+      "previous_ideology": "Current ideology insufficiently established",
+      "previous_confidence": "Low",
+      "expanded_review_evidence": [
+        {
+          "post_id": "150073840",
+          "title": "Why I'm Voting for Kamala Harris",
+          "date": "2024-10-11T16:13:09.674Z",
+          "url": "https://charliesykes.substack.com/p/why-im-voting-for-kamala-harris",
+          "bylines": [
+            {
+              "name": "Charlie Sykes",
+              "id": 4298516
+            }
+          ],
+          "body_sha256": "1a6c87c5eda471e4de8d8e4de9163c0ed4f4d8bb6b3da360dc53bc74de6681c0",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Republished interview clearly attributes to Sykes his unchanged conservative principles and tax/student-debt disagreements alongside an explicit Harris endorsement."
+        },
+        {
+          "post_id": "149312708",
+          "title": "Yes, There are Conservatives for Kamala",
+          "date": "2024-09-26T16:27:12.797Z",
+          "url": "https://charliesykes.substack.com/p/yes-there-are-conservatives-for-kamala",
+          "bylines": [
+            {
+              "name": "Charlie Sykes",
+              "id": 4298516
+            }
+          ],
+          "body_sha256": "2e799d0da84ff806daff2e653affe089e62c8f7aa980123273632cb3e89a810b",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice explanation of conservative support for Harris separates policy differences from an anti-authoritarian electoral choice."
+        },
+        {
+          "post_id": "158403116",
+          "title": "Democratic Centrists Make Their Move?",
+          "date": "2025-03-07T16:49:10.511Z",
+          "url": "https://charliesykes.substack.com/p/democratic-centrists-make-their-move",
+          "bylines": [
+            {
+              "name": "Charlie Sykes",
+              "id": 4298516
+            }
+          ],
+          "body_sha256": "66f2fe40741673d5dba464dd08f88a80b4b630cebfd14d890cc56a13e7ce1cd8",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "Later discussion of Democratic centrists provides additional context; statements by quoted politicians are not automatically his own."
+        }
+      ],
+      "expanded_review_summary": "Center-right/anti-Trump conservative; Democratic voting does not make his policy identity left-wing.",
+      "sampled_posts_n_previous_audit": 6,
+      "expanded_review_source_n": 3
+    },
+    {
+      "rank": 38,
+      "publication_id": "302288",
+      "publication": "The Hartmann Report",
+      "author_or_brand": "Thom Hartmann",
+      "base_url": "https://hartmannreport.com",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic-friendly",
+      "expressed_commitment": "Some expressed support",
+      "organization": "Individual-led small editorial team",
+      "role": "Political commentary",
+      "confidence": "High",
+      "rationale": "Explicit progressive politics mission and talk-show identity; policy commentary plus songs, book excerpts and collaborators require genre separation.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://hartmannreport.com/about",
+        "post_id": null,
+        "about_sha256": "efbfea04f9ec4746385ca9f55a06de1d2cce98d7f1076766b1546336b20d1940"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 2554,
+        "eligible_public_150_4000_word_posts": 1324,
+        "period_eligible_n": {
+          "0": 339,
+          "1": 517,
+          "2": 468
+        },
+        "distinct_byline_ids": 11,
+        "coauthored_article_n": 11,
+        "missing_byline_article_n": 82,
+        "leading_byline_counts": [
+          {
+            "name": "Thom Hartmann",
+            "id": "1100619",
+            "n": 1937
+          },
+          {
+            "name": "Louise",
+            "id": "2367195",
+            "n": 354
+          },
+          {
+            "name": "Nigel Peacock",
+            "id": "30023400",
+            "n": 174
+          },
+          {
+            "name": "Greg Palast",
+            "id": "2549521",
+            "n": 8
+          },
+          {
+            "name": "Shawn Taylor",
+            "id": "99836950",
+            "n": 4
+          },
+          {
+            "name": "Michael Cohen",
+            "id": "9354878",
+            "n": 1
+          },
+          {
+            "name": "THE LEFT HOOK with Wajahat Ali",
+            "id": "5345375",
+            "n": 1
+          },
+          {
+            "name": "Ossiana Tepfenhart",
+            "id": "45732881",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 39,
+      "publication_id": "1162742",
+      "publication": "everyone is entitled to my own opinion ",
+      "author_or_brand": "Jeff Tiedrich",
+      "base_url": "https://www.jefftiedrich.com",
+      "ideology": "Liberal polemical commentary; provisional",
+      "coalition": "Anti-Trump; party pledge not established",
+      "expressed_commitment": "Not established",
+      "organization": "Individual-led newsletter",
+      "role": "Polemical commentary",
+      "confidence": "Medium",
+      "rationale": "Explicitly attacks conservative politics, not just Trump personally. Insults and humorous labels are rhetorical style, not a numerical extremity scale.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.jefftiedrich.com/p/liars-drunks-and-violent-jerks-just",
+        "post_id": "138933615",
+        "about_sha256": "c81f0a089e7a311f0e8100268e6ced57baad14ab53585a20285ed70a2915a837"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 1098,
+        "eligible_public_150_4000_word_posts": 1095,
+        "period_eligible_n": {
+          "0": 366,
+          "1": 364,
+          "2": 365
+        },
+        "distinct_byline_ids": 1,
+        "coauthored_article_n": 0,
+        "missing_byline_article_n": 3,
+        "leading_byline_counts": [
+          {
+            "name": "Jeff Tiedrich",
+            "id": "51646226",
+            "n": 1095
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 40,
+      "publication_id": "5106560",
+      "publication": "Crooked Media",
+      "author_or_brand": "Crooked Media",
+      "base_url": "https://crookedmedia.substack.com",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic-aligned",
+      "expressed_commitment": "Explicit electoral commitment",
+      "organization": "Partisan media/advocacy network",
+      "role": "News, commentary and podcasts",
+      "confidence": "High",
+      "rationale": "Explicitly funds progressive voices and ideas. The Pod Save America brand includes many distinct authors and formats.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://crookedmedia.substack.com/about",
+        "post_id": null,
+        "about_sha256": "90024d95f85d07c15f04fed59dbf6c62e0142a02367182beecf05ece89042d55"
+      },
+      "sampled_posts_n": 4,
+      "stats": {
+        "all_article_records": 1018,
+        "eligible_public_150_4000_word_posts": 308,
+        "period_eligible_n": {
+          "1": 63,
+          "2": 245
+        },
+        "distinct_byline_ids": 47,
+        "coauthored_article_n": 526,
+        "missing_byline_article_n": 30,
+        "leading_byline_counts": [
+          {
+            "name": "Crooked Media",
+            "id": "212236164",
+            "n": 541
+          },
+          {
+            "name": "Matt Berg",
+            "id": "261967474",
+            "n": 270
+          },
+          {
+            "name": "Jon Favreau",
+            "id": "3728271",
+            "n": 270
+          },
+          {
+            "name": "Jon Lovett",
+            "id": "2051267",
+            "n": 224
+          },
+          {
+            "name": "Dan Pfeiffer",
+            "id": "1856377",
+            "n": 150
+          },
+          {
+            "name": "Tommy Vietor",
+            "id": "1689105",
+            "n": 119
+          },
+          {
+            "name": "Tommy Vietor",
+            "id": "1851999",
+            "n": 96
+          },
+          {
+            "name": "Alex Wagner",
+            "id": "603836",
+            "n": 48
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 41,
+      "publication_id": "5247799",
+      "publication": "The Argument",
+      "author_or_brand": "The Argument",
+      "base_url": "https://www.theargumentmag.com",
+      "ideology": "Center-left / liberal; exact economic position provisional",
+      "coalition": "Party pledge not established",
+      "expressed_commitment": "Not established",
+      "organization": "Multi-author news/editorial outlet",
+      "role": "Opinion, reporting and polling",
+      "confidence": "High",
+      "rationale": "Explicit mission makes a positive case for liberalism. Liberalism is not automatically equivalent to a Democratic party commitment, nor does it put all writers at the same policy point.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.theargumentmag.com/about",
+        "post_id": null,
+        "about_sha256": "6646a55024627b4f4c726f505c68fafbb7c64252d15ee14d7760bccb2c99ec25"
+      },
+      "sampled_posts_n": 4,
+      "stats": {
+        "all_article_records": 400,
+        "eligible_public_150_4000_word_posts": 223,
+        "period_eligible_n": {
+          "1": 38,
+          "2": 185
+        },
+        "distinct_byline_ids": 65,
+        "coauthored_article_n": 53,
+        "missing_byline_article_n": 1,
+        "leading_byline_counts": [
+          {
+            "name": "Jerusalem Demsas",
+            "id": "18091829",
+            "n": 133
+          },
+          {
+            "name": "Kelsey Piper",
+            "id": "19302435",
+            "n": 70
+          },
+          {
+            "name": "Lakshya Jain",
+            "id": "22610836",
+            "n": 53
+          },
+          {
+            "name": "Jeremiah Johnson",
+            "id": "4569798",
+            "n": 26
+          },
+          {
+            "name": "Maibritt Henkel",
+            "id": "280865842",
+            "n": 22
+          },
+          {
+            "name": "Kobe Yank-Jacobs",
+            "id": "2733084",
+            "n": 22
+          },
+          {
+            "name": "Milan Singh",
+            "id": "27698852",
+            "n": 22
+          },
+          {
+            "name": "Jordan Weissmann",
+            "id": "435556",
+            "n": 15
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 42,
+      "publication_id": "4559901",
+      "publication": "HOWL",
+      "author_or_brand": "Michael Wolff",
+      "base_url": "https://michaelwolffnyc.substack.com",
+      "ideology": "Insufficient policy evidence; strongly Trump-critical insider commentary",
+      "coalition": "Strongly Trump-critical; party commitment not established",
+      "expressed_commitment": "Not established",
+      "organization": "Individual-led small editorial team",
+      "role": "Insider reporting and commentary",
+      "confidence": "Low",
+      "rationale": "The expanded reading establishes an oppositional stance toward Trump’s authoritarian behavior and a focus on insider reporting, personality and elite power. It does not provide a sufficiently broad affirmative position on redistribution, healthcare, immigration or other domains to distinguish left, center or a dissident right. Criticism of Fauci’s celebrity or Trump’s war management is not a policy platform. Keep broad ideology unclassified rather than inventing centrism.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://michaelwolffnyc.substack.com/p/welcome-to-howl-michaels-wolffs-substack",
+        "post_id": "176837718",
+        "body_sha256": "709804d70197863fd9f64d6895a4cebe567d18da956595e6263d98c09ebe7153"
+      },
+      "sampled_posts_n": 2,
+      "stats": {
+        "all_article_records": 235,
+        "eligible_public_150_4000_word_posts": 42,
+        "period_eligible_n": {
+          "2": 42
+        },
+        "distinct_byline_ids": 10,
+        "coauthored_article_n": 33,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "Michael Wolff",
+            "id": "1932879",
+            "n": 235
+          },
+          {
+            "name": "Joanna Coles",
+            "id": "229075767",
+            "n": 25
+          },
+          {
+            "name": "The Daily Beast",
+            "id": "420948694",
+            "n": 5
+          },
+          {
+            "name": "THE LEFT HOOK with Wajahat Ali",
+            "id": "5345375",
+            "n": 2
+          },
+          {
+            "name": "Michael Cohen",
+            "id": "9354878",
+            "n": 1
+          },
+          {
+            "name": "Legal AF",
+            "id": "301279317",
+            "n": 1
+          },
+          {
+            "name": "Lev Parnas",
+            "id": "35788031",
+            "n": 1
+          },
+          {
+            "name": "Zev Shalev",
+            "id": "8215350",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      },
+      "previous_ideology": "Insufficient policy evidence",
+      "previous_confidence": "Low",
+      "expanded_review_evidence": [
+        {
+          "post_id": "176837718",
+          "title": "Welcome to HOWL Michael Wolff's Substack",
+          "date": "2025-10-22T16:43:47.908Z",
+          "url": "https://michaelwolffnyc.substack.com/p/welcome-to-howl-michaels-wolffs-substack",
+          "bylines": [
+            {
+              "name": "Michael Wolff",
+              "id": 1932879
+            }
+          ],
+          "body_sha256": "709804d70197863fd9f64d6895a4cebe567d18da956595e6263d98c09ebe7153",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Launch essay explicitly opposes Trump’s encroachments and describes an insider-reporting and accountability mission."
+        },
+        {
+          "post_id": "190619424",
+          "title": "Trump's War Is in Total Disarray, But He's Having a Blast",
+          "date": "2026-03-11T18:45:41.502Z",
+          "url": "https://michaelwolffnyc.substack.com/p/trumps-war-is-in-total-disarray-but",
+          "bylines": [
+            {
+              "name": "Michael Wolff",
+              "id": 1932879
+            }
+          ],
+          "body_sha256": "35ee11c1482ec5498b93236ee8e3f82672b9f0e8f9e9d3943cbf3166e26f2029",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Criticizes Trump’s war management through personality and organizational dysfunction, without establishing a general foreign-policy doctrine."
+        },
+        {
+          "post_id": "209259918",
+          "title": "Eleven True Notes about Anthony Fauci",
+          "date": "2026-07-31T15:15:51.561Z",
+          "url": "https://michaelwolffnyc.substack.com/p/eleven-true-notes-about-anthony-fauci",
+          "bylines": [
+            {
+              "name": "Michael Wolff",
+              "id": 1932879
+            }
+          ],
+          "body_sha256": "c1305e44a77651948f7d4011c671cf3c37f4aaf7ef5f0eaf745e9ff0800ae3f6",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Comments on celebrity, institutional exposure and elite reputations; does not establish a healthcare ideology."
+        }
+      ],
+      "expanded_review_summary": "Trump-critical insider reporting; broader left–center–right ideology remains unclassified.",
+      "sampled_posts_n_previous_audit": 2,
+      "expanded_review_source_n": 3
+    },
+    {
+      "rank": 43,
+      "publication_id": "6273",
+      "publication": "Strength In Numbers",
+      "author_or_brand": "G. Elliott Morris",
+      "base_url": "https://www.gelliottmorris.com",
+      "ideology": "Center-left / liberal-democratic reformist; tentative",
+      "coalition": "Democratic-oriented electoral analysis; formal party identity not established",
+      "expressed_commitment": "Not established",
+      "organization": "Individual-led with guests",
+      "role": "Polling and data journalism",
+      "confidence": "Medium",
+      "rationale": "The longer review combines explicit support for institutional reforms in the About page, an own-voice statement that Democrats should optimize their chances of winning, and a business/editorial account aligning the publication with evidence-based resistance to right-wing attacks on democracy. This supports a tentative center-left/liberal-democratic editorial placement. It is an inference about orientation, not a full policy score. Poll respondents’ preferences, projected Democratic wins and technical corrections are not themselves ideological evidence.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.gelliottmorris.com/p/2026-06-12-dem-voters-moderate-and-socialist",
+        "post_id": "201713923",
+        "body_sha256": "38b3b3adb5995acdfa2e2dafd6c3276663ca8b35f4176bdb962b49efc5bc1d6d"
+      },
+      "sampled_posts_n": 4,
+      "stats": {
+        "all_article_records": 359,
+        "eligible_public_150_4000_word_posts": 102,
+        "period_eligible_n": {
+          "1": 6,
+          "2": 96
+        },
+        "distinct_byline_ids": 13,
+        "coauthored_article_n": 37,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "G. Elliott Morris",
+            "id": "479143",
+            "n": 359
+          },
+          {
+            "name": "David Nir",
+            "id": "214649590",
+            "n": 24
+          },
+          {
+            "name": "Michael Podhorzer",
+            "id": "1683920",
+            "n": 2
+          },
+          {
+            "name": "Mary Radcliffe",
+            "id": "124976415",
+            "n": 2
+          },
+          {
+            "name": "Mark Rieke",
+            "id": "22021252",
+            "n": 2
+          },
+          {
+            "name": "Chris Cillizza",
+            "id": "35291792",
+            "n": 1
+          },
+          {
+            "name": "Ryan Lizza",
+            "id": "547902",
+            "n": 1
+          },
+          {
+            "name": "Jesse",
+            "id": "214543664",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      },
+      "previous_ideology": "Insufficient policy evidence",
+      "previous_confidence": "Low",
+      "expanded_review_evidence": [
+        {
+          "post_id": "201713923",
+          "title": "Democratic voters want the party to be more moderate — and more socialist?",
+          "date": "2026-06-12T12:10:36.396Z",
+          "url": "https://www.gelliottmorris.com/p/2026-06-12-dem-voters-moderate-and-socialist",
+          "bylines": [
+            {
+              "name": "G. Elliott Morris",
+              "id": 479143
+            }
+          ],
+          "body_sha256": "38b3b3adb5995acdfa2e2dafd6c3276663ca8b35f4176bdb962b49efc5bc1d6d",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice normative statement that Democrats should optimize their electoral prospects, while explicitly refusing to infer a policy prescription from an ambiguous poll."
+        },
+        {
+          "post_id": "214433181",
+          "title": "Notes on building an independent media and polling ecosystem in 2026",
+          "date": "2026-09-06T20:29:09.413Z",
+          "url": "https://www.gelliottmorris.com/p/2026-09-06-sunday-roundup",
+          "bylines": [
+            {
+              "name": "G. Elliott Morris",
+              "id": 479143
+            }
+          ],
+          "body_sha256": "8c68e3b2b51fc576020536530078753358b742a948d78251fe472843c5b92363",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "Own-voice discussion of editorial values, chosen comparison outlets and willingness to confront right-wing attacks on democracy; selected passages reviewed."
+        }
+      ],
+      "expanded_review_summary": "Tentatively center-left/liberal-democratic analysis; economic and foreign-policy positions remain less well identified.",
+      "sampled_posts_n_previous_audit": 4,
+      "expanded_review_source_n": 2
+    },
+    {
+      "rank": 44,
+      "publication_id": "262336",
+      "publication": "Proof",
+      "author_or_brand": "Seth Abramson",
+      "base_url": "https://sethabramson.substack.com",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Democratic-friendly",
+      "expressed_commitment": "Some expressed support",
+      "organization": "Individual-led newsletter",
+      "role": "Curatorial reporting and commentary",
+      "confidence": "Medium",
+      "rationale": "Additional sampled passage critiques punitive three-strikes policy and far-right claims; another defends Biden against a campaign attack. Current free-post coverage is sparse and most material is paid.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://sethabramson.substack.com/p/new-q-and-a-series-no-1-answering",
+        "post_id": "154152760",
+        "about_sha256": "a31429d9c89e3afd6d5dac00e811530121f08f2978cfe1f17070e61bb9ba56b3"
+      },
+      "sampled_posts_n": 4,
+      "stats": {
+        "all_article_records": 183,
+        "eligible_public_150_4000_word_posts": 12,
+        "period_eligible_n": {
+          "0": 8,
+          "1": 4
+        },
+        "distinct_byline_ids": 1,
+        "coauthored_article_n": 0,
+        "missing_byline_article_n": 2,
+        "leading_byline_counts": [
+          {
+            "name": "Seth Abramson",
+            "id": "25059164",
+            "n": 181
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 45,
+      "publication_id": "105260",
+      "publication": "The Beinart Notebook",
+      "author_or_brand": "Peter Beinart",
+      "base_url": "https://peterbeinart.substack.com",
+      "ideology": "Left / progressive on Palestine and foreign policy",
+      "coalition": "Issue-based; party pledge not established",
+      "expressed_commitment": "Issue commitment",
+      "organization": "Individual-led with editor/guests",
+      "role": "Foreign-policy commentary and interviews",
+      "confidence": "High",
+      "rationale": "Explicit Palestinian-freedom mission and criticism of mainstream two-state rhetoric. It is a strong issue position, not a complete economic ideology or party identity.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://peterbeinart.substack.com/about",
+        "post_id": null,
+        "about_sha256": "d3a6d38c65803a16ba4bd2dd3e5e51a7f7a0148ad082a769953850be3733f053"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 405,
+        "eligible_public_150_4000_word_posts": 159,
+        "period_eligible_n": {
+          "0": 56,
+          "1": 53,
+          "2": 50
+        },
+        "distinct_byline_ids": 11,
+        "coauthored_article_n": 9,
+        "missing_byline_article_n": 8,
+        "leading_byline_counts": [
+          {
+            "name": "Peter Beinart",
+            "id": "17077168",
+            "n": 358
+          },
+          {
+            "name": "Ken Silverman",
+            "id": "19031772",
+            "n": 35
+          },
+          {
+            "name": "Daniel Kaufman",
+            "id": "934293",
+            "n": 4
+          },
+          {
+            "name": "Jim Zogby",
+            "id": "3457559",
+            "n": 2
+          },
+          {
+            "name": "Representative Ro Khanna",
+            "id": "100104423",
+            "n": 1
+          },
+          {
+            "name": "Mouin Rabbani",
+            "id": "30297238",
+            "n": 1
+          },
+          {
+            "name": "Abdullah Hammoud",
+            "id": "3457882",
+            "n": 1
+          },
+          {
+            "name": "Joshua Leifer",
+            "id": "933835",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 46,
+      "publication_id": "2686450",
+      "publication": "The Left Hook with Wajahat Ali",
+      "author_or_brand": "THE LEFT HOOK with Wajahat Ali",
+      "base_url": "https://thelefthook.substack.com",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic electoral preference, internally critical",
+      "expressed_commitment": "Some expressed support",
+      "organization": "Individual-led with recurring contributors",
+      "role": "Political commentary and interviews",
+      "confidence": "Medium",
+      "rationale": "Condemns Biden’s Palestine policy while arguing Trump would be worse. Critical electoral support and policy disagreement must remain separate dimensions.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://thelefthook.substack.com/p/lets-ask-trump-to-leave-the-race",
+        "post_id": "146102947",
+        "about_sha256": "7ff497aefb4eb006b88c1313e78e477331416a768f538f5387392d7ff25f423b"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 1523,
+        "eligible_public_150_4000_word_posts": 1492,
+        "period_eligible_n": {
+          "0": 145,
+          "1": 513,
+          "2": 834
+        },
+        "distinct_byline_ids": 304,
+        "coauthored_article_n": 1018,
+        "missing_byline_article_n": 0,
+        "leading_byline_counts": [
+          {
+            "name": "THE LEFT HOOK with Wajahat Ali",
+            "id": "5345375",
+            "n": 1521
+          },
+          {
+            "name": "Danielle Moodie",
+            "id": "187569285",
+            "n": 126
+          },
+          {
+            "name": "Lev Parnas",
+            "id": "35788031",
+            "n": 71
+          },
+          {
+            "name": "Allison Gill",
+            "id": "68479965",
+            "n": 66
+          },
+          {
+            "name": "Ellie Leonard",
+            "id": "39376636",
+            "n": 35
+          },
+          {
+            "name": "Francesca Fiorentini",
+            "id": "300702102",
+            "n": 26
+          },
+          {
+            "name": "Jared Yates Sexton",
+            "id": "10313218",
+            "n": 24
+          },
+          {
+            "name": "Joy-Ann Reid",
+            "id": "122253935",
+            "n": 24
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 47,
+      "publication_id": "7677",
+      "publication": "Ken Klippenstein",
+      "author_or_brand": "Ken Klippenstein",
+      "base_url": "https://www.kenklippenstein.com",
+      "ideology": "Left-leaning / anti-establishment; provisional",
+      "coalition": "Critical of both; no party pledge",
+      "expressed_commitment": "Not established",
+      "organization": "Small reporting team",
+      "role": "Investigative reporting",
+      "confidence": "Medium",
+      "rationale": "Compares Trump, Harris and RFK on health-care failures and corporate power; national-security reporting is highly critical of executive power. About page identifies KlipNews and a named editor, so this is no longer safely treated as a wholly solo operation.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.kenklippenstein.com/p/rfks-appeal-should-not-be-overlooked",
+        "post_id": "148240727",
+        "about_sha256": "1dae9e7c2efda0dbe31774638f38f30ebfb4a8ed0985a4defe5fb38de9c0215c"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 429,
+        "eligible_public_150_4000_word_posts": 424,
+        "period_eligible_n": {
+          "0": 106,
+          "1": 185,
+          "2": 133
+        },
+        "distinct_byline_ids": 5,
+        "coauthored_article_n": 11,
+        "missing_byline_article_n": 1,
+        "leading_byline_counts": [
+          {
+            "name": "Ken Klippenstein",
+            "id": "1980988",
+            "n": 422
+          },
+          {
+            "name": "Dan Boguslaw",
+            "id": "258427484",
+            "n": 9
+          },
+          {
+            "name": "William M. Arkin",
+            "id": "4084040",
+            "n": 6
+          },
+          {
+            "name": "Taylor Lorenz",
+            "id": "1153079",
+            "n": 1
+          },
+          {
+            "name": "Jason Paladino",
+            "id": "4625863",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 48,
+      "publication_id": "1783367",
+      "publication": "Wonkette",
+      "author_or_brand": "Rebecca Schoenkopf",
+      "base_url": "https://www.wonkette.com",
+      "ideology": "Left / liberal",
+      "coalition": "Party pledge not established",
+      "expressed_commitment": "Not established",
+      "organization": "Multi-author news/editorial outlet",
+      "role": "News and humorous commentary",
+      "confidence": "High",
+      "rationale": "Explicitly identifies as liberal news and commentary with roughly a dozen daily stories. Humor does not make the whole outlet fictional satire in the Borowitz sense.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.wonkette.com/about",
+        "post_id": null,
+        "about_sha256": "4b7d5e51697db76c109ba61e9e6a14af7c6ab207812a2322eb3a7e87ee6e994b"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 7032,
+        "eligible_public_150_4000_word_posts": 6863,
+        "period_eligible_n": {
+          "0": 2795,
+          "1": 2190,
+          "2": 1878
+        },
+        "distinct_byline_ids": 36,
+        "coauthored_article_n": 62,
+        "missing_byline_article_n": 15,
+        "leading_byline_counts": [
+          {
+            "name": "Evan Hurst",
+            "id": "9485412",
+            "n": 1344
+          },
+          {
+            "name": "Robyn Pennacchia",
+            "id": "155626924",
+            "n": 1326
+          },
+          {
+            "name": "Doktor Zoom",
+            "id": "681982",
+            "n": 1107
+          },
+          {
+            "name": "Marcie Jones",
+            "id": "182676513",
+            "n": 857
+          },
+          {
+            "name": "Gary Legum",
+            "id": "4139703",
+            "n": 627
+          },
+          {
+            "name": "Rebecca Schoenkopf",
+            "id": "681549",
+            "n": 546
+          },
+          {
+            "name": "ziggywiggy",
+            "id": "155618292",
+            "n": 184
+          },
+          {
+            "name": "Matthew Hooper",
+            "id": "110744061",
+            "n": 166
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 49,
+      "publication_id": "247754",
+      "publication": "The Huckabee Post",
+      "author_or_brand": "Huckabee Post",
+      "base_url": "https://huckabeepost.substack.com",
+      "ideology": "Right / conservative",
+      "coalition": "Republican / pro-Trump",
+      "expressed_commitment": "Explicit electoral commitment",
+      "organization": "Partisan media/advocacy network",
+      "role": "News commentary and religious reflection",
+      "confidence": "High",
+      "rationale": "Explicit anticipation of Trump’s second term and a Huck PAC donation appeal. Names a writing/editing team and Blue Diamond Media ownership; a brand byline cannot identify Mike Huckabee as every article’s actual author.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://huckabeepost.substack.com/about",
+        "post_id": null,
+        "about_sha256": "fd95625b09e7084583861a2daa502e1a5de5c7948d66bff446a047522dea500d"
+      },
+      "sampled_posts_n": 4,
+      "stats": {
+        "all_article_records": 1636,
+        "eligible_public_150_4000_word_posts": 12,
+        "period_eligible_n": {
+          "1": 6,
+          "2": 6
+        },
+        "distinct_byline_ids": 2,
+        "coauthored_article_n": 1,
+        "missing_byline_article_n": 11,
+        "leading_byline_counts": [
+          {
+            "name": "Huckabee Post",
+            "id": "23332652",
+            "n": 1622
+          },
+          {
+            "name": "David",
+            "id": "50538266",
+            "n": 4
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    },
+    {
+      "rank": 50,
+      "publication_id": "1198173",
+      "publication": "Ettingermentum Newsletter",
+      "author_or_brand": "ettingermentum",
+      "base_url": "https://www.ettingermentum.news",
+      "ideology": "Left / explicitly left-wing",
+      "coalition": "Party pledge not established",
+      "expressed_commitment": "Not established",
+      "organization": "Individual-led with guests",
+      "role": "Election analysis and commentary",
+      "confidence": "High",
+      "rationale": "Explicit left-wing perspective; anti-war critique of Trump’s cabinet does not imply uncritical Democratic loyalty.",
+      "wire_news_agency": "Not established: no explicit wire-service operation identified",
+      "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.ettingermentum.news/about",
+        "post_id": null,
+        "about_sha256": "995e71970c5a1360c0d325f4ab4573b5fcda135acb409bada75c2da1419f4a4d"
+      },
+      "sampled_posts_n": 6,
+      "stats": {
+        "all_article_records": 187,
+        "eligible_public_150_4000_word_posts": 16,
+        "period_eligible_n": {
+          "0": 9,
+          "1": 5,
+          "2": 2
+        },
+        "distinct_byline_ids": 6,
+        "coauthored_article_n": 5,
+        "missing_byline_article_n": 1,
+        "leading_byline_counts": [
+          {
+            "name": "ettingermentum",
+            "id": "111960882",
+            "n": 186
+          },
+          {
+            "name": "Samuel Lipson",
+            "id": "158938694",
+            "n": 2
+          },
+          {
+            "name": "Josh Taft",
+            "id": "195183563",
+            "n": 1
+          },
+          {
+            "name": "Michael Lange",
+            "id": "23752994",
+            "n": 1
+          },
+          {
+            "name": "Roo",
+            "id": "199299967",
+            "n": 1
+          },
+          {
+            "name": "Parallaxes",
+            "id": "429890941",
+            "n": 1
+          }
+        ],
+        "byline_warning": "Capture-time metadata may include interview guests and cannot alone verify authorship, staff size, employer or wire-service status."
+      }
+    }
+  ],
+  "organization_counts": {
+    "Multi-author news/editorial outlet": 7,
+    "Individual-led with guests": 14,
+    "Partisan media/advocacy network": 5,
+    "News/advocacy hybrid network": 2,
+    "Individual-led small editorial team": 7,
+    "Individual-led newsletter": 4,
+    "Individual-led satire publication": 1,
+    "Small author/editorial team": 1,
+    "Small reporting team": 4,
+    "Individual-led with editor": 1,
+    "Multi-author editorial outlet": 1,
+    "Small cohost/editorial team": 1,
+    "Individual-led with editor/guests": 1,
+    "Individual-led with recurring contributors": 1
+  },
+  "revision": "Expanded manual review of the twelve previously unresolved publications. The original saved audit remains unchanged."
+}

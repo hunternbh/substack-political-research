@@ -1,0 +1,552 @@
+{
+  "checked_at_utc": "2026-10-19T16:42:38.382687+00:00",
+  "source_database": "Local research archive (not published)",
+  "database_bytes": 1827770368,
+  "post_fields": [
+    "publication_id",
+    "post_id",
+    "rank",
+    "publication",
+    "title",
+    "post_date",
+    "month",
+    "two_year",
+    "audience",
+    "body_text",
+    "body_status",
+    "bylines_json",
+    "comment_count",
+    "permissions",
+    "url",
+    "retrieved_at",
+    "fields_json"
+  ],
+  "comment_fields": [
+    "publication_id",
+    "post_id",
+    "comment_id",
+    "parent_id",
+    "participant_key",
+    "date",
+    "body",
+    "reactions",
+    "deleted",
+    "depth",
+    "retrieved_at",
+    "fields_json"
+  ],
+  "posts": {
+    "post_records": 79340,
+    "two_year_post_records": 62285,
+    "with_nonempty_saved_text": 48880,
+    "public_with_nonempty_saved_text": 48880,
+    "public_saved_text_at_least_150_words": 39736,
+    "two_year_public_saved_text_at_least_150_words": 30404
+  },
+  "post_body_status": {
+    "paid_body_not_collected": 29377,
+    "public_text_returned": 48880,
+    "no_public_prose": 1083
+  },
+  "post_audience": {
+    "only_paid": 29072,
+    "everyone": 49963,
+    "only_subscribers": 41,
+    "founding": 264
+  },
+  "publications_with_post_records": 50,
+  "publications_with_public_text": 50,
+  "comments": {
+    "total_records": 1256544,
+    "top_level_records": 544570,
+    "nested_reply_records": 711974,
+    "flagged_deleted_records": 13768,
+    "nonempty_body_records": 1238401,
+    "two_year_comment_records": 927593,
+    "publications_with_comments": 49,
+    "earliest_saved_comment": "2023-10-18T06:54:52.548Z",
+    "latest_saved_comment": "2026-10-19T03:32:31.678Z",
+    "distinct_pseudonymous_account_keys": 129085
+  },
+  "threads": {
+    "captured_discussions": 6925,
+    "publications_with_captured_discussions": 49,
+    "sum_reported_returned_count": 1256544
+  },
+  "thread_status": [
+    {
+      "status": "empty_public_response_not_zero_dissent",
+      "n": 3,
+      "child_gap_nodes": 0
+    },
+    {
+      "status": "public_response_not_independently_complete",
+      "n": 6922,
+      "child_gap_nodes": 310
+    }
+  ],
+  "coverage_by_publication": [
+    {
+      "rank": 1,
+      "publication": "The Free Press",
+      "post_records": 5824,
+      "captured_discussions": 29
+    },
+    {
+      "rank": 2,
+      "publication": "The Bulwark",
+      "post_records": 9023,
+      "captured_discussions": 210
+    },
+    {
+      "rank": 3,
+      "publication": "Letters from an American",
+      "post_records": 2199,
+      "captured_discussions": 209
+    },
+    {
+      "rank": 4,
+      "publication": "Meidas+",
+      "post_records": 2881,
+      "captured_discussions": 155
+    },
+    {
+      "rank": 5,
+      "publication": "Zeteo",
+      "post_records": 2392,
+      "captured_discussions": 185
+    },
+    {
+      "rank": 6,
+      "publication": "The Contrarian",
+      "post_records": 4768,
+      "captured_discussions": 134
+    },
+    {
+      "rank": 7,
+      "publication": "Silver Bulletin",
+      "post_records": 430,
+      "captured_discussions": 191
+    },
+    {
+      "rank": 8,
+      "publication": "Paul Krugman",
+      "post_records": 763,
+      "captured_discussions": 137
+    },
+    {
+      "rank": 9,
+      "publication": "The Borowitz Report",
+      "post_records": 801,
+      "captured_discussions": 26
+    },
+    {
+      "rank": 10,
+      "publication": "Robert Reich",
+      "post_records": 1718,
+      "captured_discussions": 58
+    },
+    {
+      "rank": 11,
+      "publication": "Civil Discourse with Joyce Vance ",
+      "post_records": 1456,
+      "captured_discussions": 114
+    },
+    {
+      "rank": 12,
+      "publication": "Racket News",
+      "post_records": 1502,
+      "captured_discussions": 190
+    },
+    {
+      "rank": 13,
+      "publication": "Adam Kinzinger",
+      "post_records": 1082,
+      "captured_discussions": 206
+    },
+    {
+      "rank": 14,
+      "publication": "Slow Boring ",
+      "post_records": 1972,
+      "captured_discussions": 207
+    },
+    {
+      "rank": 15,
+      "publication": "Steady",
+      "post_records": 488,
+      "captured_discussions": 207
+    },
+    {
+      "rank": 16,
+      "publication": "The Preamble",
+      "post_records": 1000,
+      "captured_discussions": 30
+    },
+    {
+      "rank": 17,
+      "publication": "Popular Information",
+      "post_records": 595,
+      "captured_discussions": 206
+    },
+    {
+      "rank": 18,
+      "publication": "Hope for America with Heather Delaney Reese",
+      "post_records": 854,
+      "captured_discussions": 82
+    },
+    {
+      "rank": 19,
+      "publication": "Lincoln Square Media",
+      "post_records": 2450,
+      "captured_discussions": 121
+    },
+    {
+      "rank": 20,
+      "publication": "The Warning with Steve Schmidt",
+      "post_records": 2611,
+      "captured_discussions": 210
+    },
+    {
+      "rank": 21,
+      "publication": "The Status Kuo",
+      "post_records": 1063,
+      "captured_discussions": 210
+    },
+    {
+      "rank": 22,
+      "publication": "Erin In The Morning",
+      "post_records": 793,
+      "captured_discussions": 210
+    },
+    {
+      "rank": 23,
+      "publication": "The Weekly Dish",
+      "post_records": 421,
+      "captured_discussions": 0
+    },
+    {
+      "rank": 24,
+      "publication": "Today's Edition Newsletter",
+      "post_records": 1280,
+      "captured_discussions": 208
+    },
+    {
+      "rank": 25,
+      "publication": "The Message Box",
+      "post_records": 527,
+      "captured_discussions": 151
+    },
+    {
+      "rank": 26,
+      "publication": "The.Ink",
+      "post_records": 1197,
+      "captured_discussions": 86
+    },
+    {
+      "rank": 27,
+      "publication": "Public Notice",
+      "post_records": 871,
+      "captured_discussions": 210
+    },
+    {
+      "rank": 28,
+      "publication": "Legal AF's Substack",
+      "post_records": 3207,
+      "captured_discussions": 129
+    },
+    {
+      "rank": 29,
+      "publication": "Hopium Chronicles By Simon Rosenberg",
+      "post_records": 1756,
+      "captured_discussions": 209
+    },
+    {
+      "rank": 30,
+      "publication": "News Not Noise",
+      "post_records": 438,
+      "captured_discussions": 43
+    },
+    {
+      "rank": 31,
+      "publication": "Chop Wood, Carry Water",
+      "post_records": 954,
+      "captured_discussions": 209
+    },
+    {
+      "rank": 32,
+      "publication": "Raw America",
+      "post_records": 569,
+      "captured_discussions": 66
+    },
+    {
+      "rank": 33,
+      "publication": "The Good in Us by Mary L. Trump ",
+      "post_records": 761,
+      "captured_discussions": 207
+    },
+    {
+      "rank": 34,
+      "publication": "Rick Wilson’s Against All Enemies",
+      "post_records": 988,
+      "captured_discussions": 164
+    },
+    {
+      "rank": 35,
+      "publication": "Pantsuit Politics",
+      "post_records": 1510,
+      "captured_discussions": 167
+    },
+    {
+      "rank": 36,
+      "publication": "Brian Tyler Cohen",
+      "post_records": 178,
+      "captured_discussions": 121
+    },
+    {
+      "rank": 37,
+      "publication": "To the Contrary",
+      "post_records": 959,
+      "captured_discussions": 178
+    },
+    {
+      "rank": 38,
+      "publication": "The Hartmann Report",
+      "post_records": 2554,
+      "captured_discussions": 207
+    },
+    {
+      "rank": 39,
+      "publication": "everyone is entitled to my own opinion ",
+      "post_records": 1098,
+      "captured_discussions": 210
+    },
+    {
+      "rank": 40,
+      "publication": "Crooked Media",
+      "post_records": 1018,
+      "captured_discussions": 93
+    },
+    {
+      "rank": 41,
+      "publication": "The Argument",
+      "post_records": 400,
+      "captured_discussions": 93
+    },
+    {
+      "rank": 42,
+      "publication": "HOWL",
+      "post_records": 235,
+      "captured_discussions": 37
+    },
+    {
+      "rank": 43,
+      "publication": "Strength In Numbers",
+      "post_records": 359,
+      "captured_discussions": 61
+    },
+    {
+      "rank": 44,
+      "publication": "Proof",
+      "post_records": 183,
+      "captured_discussions": 39
+    },
+    {
+      "rank": 45,
+      "publication": "The Beinart Notebook",
+      "post_records": 405,
+      "captured_discussions": 117
+    },
+    {
+      "rank": 46,
+      "publication": "The Left Hook with Wajahat Ali",
+      "post_records": 1523,
+      "captured_discussions": 170
+    },
+    {
+      "rank": 47,
+      "publication": "Ken Klippenstein",
+      "post_records": 429,
+      "captured_discussions": 189
+    },
+    {
+      "rank": 48,
+      "publication": "Wonkette",
+      "post_records": 7032,
+      "captured_discussions": 210
+    },
+    {
+      "rank": 49,
+      "publication": "The Huckabee Post",
+      "post_records": 1636,
+      "captured_discussions": 6
+    },
+    {
+      "rank": 50,
+      "publication": "Ettingermentum Newsletter",
+      "post_records": 187,
+      "captured_discussions": 18
+    }
+  ],
+  "captured_discussions_with_public_text_at_least_150_words": 6923,
+  "post_raw_metadata_keys": [
+    "audience",
+    "audience_before_archived",
+    "canonical_url",
+    "default_comment_sort",
+    "editor_v2",
+    "exempt_from_archive_paywall",
+    "free_unlock_required",
+    "id",
+    "podcast_art_url",
+    "podcast_duration",
+    "podcast_preview_upload_id",
+    "podcast_upload_id",
+    "podcast_url",
+    "post_date",
+    "updated_at",
+    "publication_id",
+    "search_engine_description",
+    "search_engine_title",
+    "section_id",
+    "should_send_free_preview",
+    "show_guest_bios",
+    "slug",
+    "social_title",
+    "subtitle",
+    "teaser_post_eligible",
+    "title",
+    "type",
+    "video_upload_id",
+    "write_comment_permissions",
+    "meter_type",
+    "live_stream_id",
+    "is_published",
+    "restacks",
+    "reactions",
+    "top_exclusions",
+    "pins",
+    "section_pins",
+    "has_shareable_clips",
+    "previous_post_slug",
+    "next_post_slug",
+    "cover_image",
+    "cover_image_is_square",
+    "cover_image_is_explicit",
+    "videoUpload",
+    "podcastFields",
+    "podcastUpload",
+    "podcastPreviewUpload",
+    "voiceover_upload_id",
+    "voiceoverUpload",
+    "has_voiceover",
+    "description",
+    "has_dynamic_content",
+    "truncated_body_text",
+    "wordcount",
+    "post_preview_limit",
+    "language",
+    "postTags",
+    "postCountryBlocks",
+    "postTheme",
+    "headlineTest",
+    "coverImagePalette",
+    "reaction",
+    "reaction_count",
+    "comment_count",
+    "child_comment_count",
+    "audio_items",
+    "is_geoblocked",
+    "hidden",
+    "is_editor_preview",
+    "sponsorshipUpgradePaywallPlacementId",
+    "hasCashtag"
+  ],
+  "older_rare_extension": {
+    "annotation_progress.json": {
+      "phase": "blocked_api_credit_balance_exhausted",
+      "updated_at_utc": "2026-10-19T06:08:47.513323+00:00",
+      "target_jobs": 3601,
+      "completed_jobs": 3357,
+      "labeled_roots": 11413,
+      "pending_roots": 892,
+      "rare_dissent_primary": {
+        "efficacy": 193,
+        "legitimacy": 89
+      },
+      "errors": [
+        {
+          "status": "API credit_balance_exhausted",
+          "pending_job_n": 244,
+          "note": "Includes rejected-ID jobs and unprocessed jobs. All pending identifiers retained; no zero labels imputed."
+        }
+      ],
+      "input_tokens": 15059281,
+      "output_tokens": 2496823
+    }
+  },
+  "unfinished_manual_rare_candidate_review": {
+    "review_progress.json": {
+      "updated_at_utc": "2026-10-19T06:36:05.555626+00:00",
+      "reviewed": 72,
+      "target": 282,
+      "by_status": {
+        "no": 28,
+        "yes": 41,
+        "uncertain": 3
+      },
+      "retained_local_primary_types": {
+        "tactical": 4,
+        "legitimacy": 29,
+        "efficacy": 1,
+        "policy": 1,
+        "moral": 3,
+        "factual": 1,
+        "editorial": 2
+      },
+      "withdrawal_accounts_all_reviewed": {
+        "third_party": 2,
+        "unclear": 4,
+        "refusal": 6,
+        "none": 29,
+        "completed": 6,
+        "declared": 15,
+        "identity_distancing_only": 1,
+        "conditional": 5,
+        "respect_only": 1,
+        "conditional_offer_no_prior": 2,
+        "communication_exit_only": 1
+      },
+      "new_outcomes_inspected": false,
+      "paid_api_calls": 0
+    },
+    "review_manifest.json": {
+      "frozen_at_utc": "2026-10-19T06:27:48.806940+00:00",
+      "n": 282,
+      "original_type_counts": {
+        "legitimacy": 89,
+        "efficacy": 193
+      },
+      "input_sha256": "d1458806cf5191b944c32fbec153c3457fec55474b00e2e4ebd707c7154fab22",
+      "method": "Assistant source review of full roots or relevant argument passages against article lead and targeted article paragraphs, with full article text available for followup. Extraction is deterministic lexical retrieval, not a new classifier. No responses, reactions or new API calls. Record what source passages are actually inspected; do not claim cover-to-cover reading of every article.",
+      "limitations": "Not independent human validation, not a recall audit of negatives, and not a new baseline prevalence estimate. Earlier pilot findings and candidate labels known to assistant. New extension outcomes withheld.",
+      "withdrawal_status_values": [
+        "self_reported_completed_withdrawal",
+        "declared_withdrawal",
+        "conditional_future_threat",
+        "support_refusal_no_prior_tie",
+        "third_party_report",
+        "hypothetical_or_question",
+        "none",
+        "unclear"
+      ],
+      "rubric": "Dissent must oppose an adopted local article claim or reject continued support for a claimed putative ally, beyond repeating articlelicensed criticism. Keep agreement, prognosis, openquestions and hypothetical claims separate. Efficacy requires an adopted claim that a political/information action is futile or counterproductive, not merely a preferred tactic. Legitimacy concerns worthiness/representation/meaningful political choice, not epistemic credibility or routine performance complaints. Actual withdrawal means an explicit selfreported discontinuity in support, not independently verified behavior. Prior support must be claimed in text, not inferred. Newsletter cancellations are tracked separately from politicalparty withdrawals. Record uncertainty rather than infer inaccessible context."
+    }
+  },
+  "cautions": [
+    "Post records include metadata and teasers; nonempty text or word-count thresholds do not guarantee a complete original article.",
+    "Public comment collection is uneven and contains incomplete threads. No observed reply is not verified absence of a reply.",
+    "The cohort is a 2026 paid US Politics ranking, not a historical representative sample of all political writers.",
+    "Paid subscriber rosters, transactions, longitudinal subscription totals, readership impressions and private emails are not available as a systematic linked dataset.",
+    "Older model labels concern a different dissent codebook; current editorial-authority pilot labels are exploratory assistant review, not independent human validation."
+  ]
+}

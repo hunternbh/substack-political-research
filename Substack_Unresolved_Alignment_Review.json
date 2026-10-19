@@ -1,0 +1,889 @@
+{
+  "reviewed_at_utc": "2026-10-19T17:08:22.324675+00:00",
+  "target": "The twelve publications previously categorized Unresolved; other thirty-eight labels retained.",
+  "coder": "Assistant manual source review; no external model API or network calls. No independent coder validation.",
+  "reading_scope": {
+    "about_pages_read": 12,
+    "full_public_texts_read": 26,
+    "additional_texts_with_selected_passages": 13,
+    "limits": "Source retrieval returned more texts than were read. Full and selected-passage reading scopes are listed separately. Sources are saved public texts through October 18 2026; an opinion contributor’s views do not necessarily represent all contributors."
+  },
+  "operational_rule": "Broad editorial orientation based on affirmative policy positions, explicit self-description and repeated normative framing; ideology, party allegiance, coalition and tone remain distinct. Labels are provisional and not numerical ideology estimates.",
+  "decisions": [
+    {
+      "rank": 5,
+      "ideology": "Left / progressive; editorial tendency across contributors",
+      "coalition": "Anti-Trump; includes criticism of Democratic leadership from the left",
+      "confidence": "High",
+      "rationale": "The larger public-text review includes affirmative economic-progressive advocacy for worker organizing and rejection of corporate influence, defenses of public healthcare coverage, and immigration analysis critical of restrictionism. This supports a broad progressive editorial tendency rather than merely an anti-Trump label. Zeteo publishes multiple authors and explicitly disclaims that each opinion is the organization’s own; do not assign every contributor the same ideology.",
+      "short": "Progressive/left editorial tendency; economic-populist and rights-oriented content across several contributors.",
+      "evidence": [
+        {
+          "post_id": "152460211",
+          "title": "Democrats Will Keep Losing Until They Cut Ties With Billionaires and Corporations",
+          "date": "2024-12-05T13:31:05.075Z",
+          "url": "https://zeteo.com/p/democrats-will-keep-losing-until",
+          "bylines": [
+            {
+              "name": "Alexandra Rojas",
+              "id": 43802060
+            }
+          ],
+          "body_sha256": "d5ae01711f73c68716e15f3e5fdc3a666c0cfaa6f1d7f02ab480137686e541f7",
+          "reading_scope": "Full saved public text",
+          "interpretation": "A published opinion piece argues for working-class representation, unions, expanded public provision and removal of corporate influence from Democratic politics. Author: Alexandra Rojas; this is an op-ed, not an official statement by every contributor."
+        },
+        {
+          "post_id": "181187674",
+          "title": "Republicans Want You to Pay More for Healthcare",
+          "date": "2025-12-09T23:27:36.169Z",
+          "url": "https://zeteo.com/p/trump-republicans-healthcare-insurance-subsidies",
+          "bylines": [
+            {
+              "name": "Andrew Perez",
+              "id": 397555868
+            }
+          ],
+          "body_sha256": "e5b063fdbfd7d311446b56d7a44f371e2c917454eb95232c3d24d53740b57b7f",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Andrew Perez’s report/commentary treats loss of public healthcare subsidies and exclusions for abortion and gender-related care negatively."
+        },
+        {
+          "post_id": "154838151",
+          "title": "Trump and Republicans Are Lying About Immigration and the Border",
+          "date": "2025-01-16T17:02:22.503Z",
+          "url": "https://zeteo.com/p/trump-republicans-immigration-lies-border",
+          "bylines": [
+            {
+              "name": "John Harwood",
+              "id": 15365438
+            }
+          ],
+          "body_sha256": "81b89dfbe40e2c0cc839f1433125b094cbd507dacb3456a43fa900b92e5f606e",
+          "reading_scope": "Full saved public text",
+          "interpretation": "John Harwood criticizes restrictive immigration narratives while using a libertarian expert; this corroborates editorial range but does not convert the quoted expert’s ideology into the outlet’s."
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "ideology": "Moderate liberal / classical-liberal and libertarian-leaning",
+      "coalition": "Critical of Trump and progressive orthodoxy; formal party commitment not established",
+      "confidence": "Medium",
+      "rationale": "Silver directly calls himself a moderate liberal and favors individual rights, free speech, decentralized decision-making and markets. A later essay explicitly places this form of liberalism closer to the center than the left. For a coarse three-way description, center/moderate liberal is the best working category. This does not mean neutral reporting, an exact ideological midpoint, or absence of liberal issue positions. Coding Silver as center-left is a reasonable sensitivity rather than calling him progressive-left or Republican.",
+      "short": "Center/moderate liberal, with libertarian tendencies; directly self-described rather than inferred from polling work.",
+      "evidence": [
+        {
+          "post_id": "139708372",
+          "title": "Why liberalism and leftism are increasingly at odds",
+          "date": "2023-12-12T22:22:48.758Z",
+          "url": "https://www.natesilver.net/p/why-liberalism-and-leftism-are-increasingly",
+          "bylines": [
+            {
+              "name": "Nate Silver",
+              "id": 2421724
+            }
+          ],
+          "body_sha256": "5eab7cf98f82c8d68bb08aa75ad0e8eaa16f1eb19f2fb63b008e45869871401f",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "First-person moderate-liberal identification and preference for decentralized mechanisms and individual rights; selected passages read, not a claim to a complete current policy score."
+        },
+        {
+          "post_id": "152975443",
+          "title": "Don't mistake Democratic partisan orthodoxy for a \"coherent\" philosophy",
+          "date": "2024-12-11T18:30:50.524Z",
+          "url": "https://www.natesilver.net/p/dont-mistake-democratic-partisan",
+          "bylines": [
+            {
+              "name": "Nate Silver",
+              "id": 2421724
+            }
+          ],
+          "body_sha256": "93bdd01a2a9d689faa0ab5a5591d06c88287d8b47771568af155fde23968b7c1",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "Distinguishes classical/European liberalism from leftism and places the former closer to the ideological center."
+        },
+        {
+          "post_id": "175816489",
+          "title": "Is the Democratic Party dominated by progressives or by centrists?",
+          "date": "2025-10-10T17:14:09.488Z",
+          "url": "https://www.natesilver.net/p/is-the-democratic-party-dominated",
+          "bylines": [
+            {
+              "name": "Nate Silver",
+              "id": 2421724
+            }
+          ],
+          "body_sha256": "f31e3228ee951c630a1a309afcdecfd09f2b23a0efa25218b2f350bcf7f98883",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "Analyzes progressive and centrist Democratic factions without treating either faction’s views as his own."
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "ideology": "Center-left / liberal; civil-rights and labor emphasis",
+      "coalition": "Anti-Trump; Democratic-friendly electoral mobilization",
+      "confidence": "High",
+      "rationale": "The reviewed Labor Day essay rejects Reagan’s small-government economic program, affirms organized labor and civil-rights work, and urges electoral action. The poll-tax essay defends expansive voting access and objects to exclusionary requirements. This is substantive liberal framing, not simply a biography as an Obama appointee. A detailed economic platform remains unmeasured.",
+      "short": "Liberal/center-left legal commentary, supported by labor and voting-rights positions.",
+      "evidence": [
+        {
+          "post_id": "214153707",
+          "title": "Labor Day",
+          "date": "2026-09-08T00:25:35.656Z",
+          "url": "https://joycevance.substack.com/p/labor-day",
+          "bylines": [
+            {
+              "name": "Joyce Vance",
+              "id": 263210
+            }
+          ],
+          "body_sha256": "ee3c8e91deb9112068c70dca9b8ac5630958f3c7c2f710be6c3ccf56de922faa",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice disagreement with Reaganomics and favorable treatment of labor and civil-rights organizing."
+        },
+        {
+          "post_id": "192039363",
+          "title": "The End of the Poll Tax ",
+          "date": "2026-03-25T03:19:57.184Z",
+          "url": "https://joycevance.substack.com/p/the-end-of-the-poll-tax",
+          "bylines": [
+            {
+              "name": "Joyce Vance",
+              "id": 263210
+            }
+          ],
+          "body_sha256": "127b0322881e0c73add0b90a4283177ca5e35ce22456c8caafaa24764bdf1644",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice defense of voting access and opposition to requirements framed as wealth-based exclusion."
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "ideology": "Center-left / socially liberal civic analysis; provisional",
+      "coalition": "Nonpartisan civic brand; no formal party commitment established",
+      "confidence": "Medium",
+      "rationale": "McMahon’s own public prose rejects firearm-worship arguments and asks that children not have access to guns, advocates a constitutional amendment limiting money in politics, and criticizes religious-political curriculum mandates. Together these support a tentative liberal-leaning/center-left editorial assessment. Independence and a calm tone are not the basis for this label. Fiscal policy and many other domains remain unmeasured. An independent gubernatorial guest’s self-description is not McMahon’s.",
+      "short": "Tentatively center-left/liberal-leaning civic journalism; nonpartisan branding remains a separate field.",
+      "evidence": [
+        {
+          "post_id": "220789493",
+          "title": "We Shouldn’t Need a “Good Guy With a Gun” ",
+          "date": "2026-10-17T09:02:15.105Z",
+          "url": "https://thepreamble.com/p/we-shouldnt-need-a-good-guy-with",
+          "bylines": [
+            {
+              "name": "Sharon McMahon",
+              "id": 219533938
+            }
+          ],
+          "body_sha256": "21fdff8541347a1a1a8982f7e1a02bcf37fa04772899f84415b6fd89dde76130",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice rejection of the good-guy-with-a-gun response and argument that the shooter should not have obtained a gun; also explains an editorial decision not to donate to candidates."
+        },
+        {
+          "post_id": "219341595",
+          "title": "How Do We Get Dark Money Out of Politics?",
+          "date": "2026-10-08T09:02:01.080Z",
+          "url": "https://thepreamble.com/p/how-do-we-get-dark-money-out-of-politics",
+          "bylines": [
+            {
+              "name": "Sharon McMahon",
+              "id": 219533938
+            }
+          ],
+          "body_sha256": "6c31237af97062f31f14dc52fdfbbb2940c00dadb78676d11630154c3fdf43ce",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice advocacy for a constitutional amendment limiting money and super-PAC influence in politics."
+        },
+        {
+          "post_id": "162721233",
+          "title": "From Bible Mandates to Election Lies",
+          "date": "2025-05-05T10:01:07.209Z",
+          "url": "https://thepreamble.com/p/from-bible-mandates-to-election-lies",
+          "bylines": [
+            {
+              "name": "Sharon McMahon",
+              "id": 219533938
+            },
+            {
+              "name": "Judd Legum",
+              "id": 364398
+            }
+          ],
+          "body_sha256": "834a6bdf217b542ea4772c639ea7f1fa1893ac6f2e8360dfbd7792cc976e8568",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Criticizes religious-political classroom mandates and the insertion of election-conspiracy claims into curriculum."
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "ideology": "Center-left / liberal; social-protection and immigrant-rights emphasis",
+      "coalition": "Democratic-oriented opposition to MAGA",
+      "confidence": "High",
+      "rationale": "The Social Security essay affirmatively defends social insurance and Medicaid against cuts paired with tax benefits for the wealthy. Immigration commentary rejects scapegoating and calls for taking Congress back. These give positive social-protection and rights positions beyond generalized anti-MAGA criticism.",
+      "short": "Liberal/center-left, with clear support for social insurance and protection of immigrants.",
+      "evidence": [
+        {
+          "post_id": "201496253",
+          "title": "Mike Johnson accidentally told us the plan for Social Security and Medicare",
+          "date": "2026-06-11T01:52:01.072Z",
+          "url": "https://www.heatherdelaneyreese.com/p/mike-johnson-accidentally-told-us-1e0",
+          "bylines": [
+            {
+              "name": "Heather Delaney Reese",
+              "id": 135515462
+            }
+          ],
+          "body_sha256": "0c2bdda7ee27ba373e6220ed1e9b074445b12cc2edd5306f9ab7a5b4b3355624",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Defends Social Security as earned protection and criticizes reductions in Medicaid alongside tax benefits for the wealthy."
+        },
+        {
+          "post_id": "219641236",
+          "title": "Trump honors BILLIONAIRE immigrants while attacking others",
+          "date": "2026-10-10T01:03:48.870Z",
+          "url": "https://www.heatherdelaneyreese.com/p/trump-honors-billionaire-immigrants",
+          "bylines": [
+            {
+              "name": "Heather Delaney Reese",
+              "id": 135515462
+            }
+          ],
+          "body_sha256": "ed64a3c01fc161def33875350beb19af04aaad39f055a2171dace742a910e950",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Rejects discrimination between wealthy favored immigrants and scapegoated immigrant communities, and urges electoral opposition."
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "ideology": "Center-left / moderate liberal; former Republican, Democratic-aligned",
+      "coalition": "Democratic-aligned anti-Trump; self-reported Democratic registration in a 2024 post",
+      "confidence": "Medium",
+      "rationale": "Schmidt’s 2024 autobiographical post says he left the GOP in 2018 and registered as a Democrat in 2020; it does not verify his registration today. More substantively, his own writing opposes reproductive restrictions and discrimination against gay people, and condemns the transfer of resources from working families and healthcare to wealthy interests. A moderate-liberal/center-left working label fits this current editorial material better than either Republican-conservative or merely unknown. A detailed economic ideology is not established.",
+      "short": "Moderate liberal/center-left in current commentary; his Republican past does not describe his current electoral alignment.",
+      "evidence": [
+        {
+          "post_id": "151824039",
+          "title": "The Warning: a fearless hub to chart our future",
+          "date": "2024-11-18T16:44:15.222Z",
+          "url": "https://steveschmidt.substack.com/p/the-warning-a-fearless-hub-to-chart",
+          "bylines": [
+            {
+              "name": "Steve Schmidt",
+              "id": 279803574
+            }
+          ],
+          "body_sha256": "52f6b7b1e8ed0e5bb21ad000d7696c743d87be2f48c8eeb92040274c9c751bd5",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Explicit dated account of leaving the GOP and registering Democratic; retained as party-history evidence rather than a complete ideological score."
+        },
+        {
+          "post_id": "167171371",
+          "title": "A big beautiful bomb",
+          "date": "2025-06-30T12:45:46.135Z",
+          "url": "https://steveschmidt.substack.com/p/a-big-beautiful-bomb",
+          "bylines": [
+            {
+              "name": "Steve Schmidt",
+              "id": 279803574
+            }
+          ],
+          "body_sha256": "11c074db8ec114954805fd7de7f20a8cfdc4a70937820eabbeb4122cadcbd8fe",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice opposition to healthcare cuts, upward wealth transfers and expanded coercive immigration enforcement."
+        },
+        {
+          "post_id": "143402236",
+          "title": "Trump's double game on abortion rights",
+          "date": "2024-04-09T00:39:33.646Z",
+          "url": "https://steveschmidt.substack.com/p/trumps-double-game-on-abortion-rights",
+          "bylines": [
+            {
+              "name": "Steve S",
+              "id": 39170975
+            }
+          ],
+          "body_sha256": "61963b94ed201454083a600bb17dc824e58812e9b5a1464487c97690fc2954d9",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Opposes reproductive restrictions as intrusion into private life."
+        },
+        {
+          "post_id": "138302461",
+          "title": "The era of the 'Handmaid' speaker has begun",
+          "date": "2023-10-26T12:30:54.571Z",
+          "url": "https://steveschmidt.substack.com/p/the-era-of-the-handmaid-speaker-has",
+          "bylines": [
+            {
+              "name": "Steve S",
+              "id": 39170975
+            }
+          ],
+          "body_sha256": "b6fe6e4876f5c4e637b0a5ab2b3bfe1e2152e3e2d510564c62dbe5de02623362",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Rejects anti-gay political intrusion; published under an earlier Steve S byline, so individual account continuity is not independently certified."
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "ideology": "Center-left / liberal; reproductive-rights and equal-protection emphasis",
+      "coalition": "MeidasTouch-linked anti-Trump legal media",
+      "confidence": "High",
+      "rationale": "Two longer public pieces explicitly favor reproductive autonomy and defend abortion access while criticizing restrictions and attacks on healthcare provision. This supplies substantive liberal editorial evidence missing from the initial short-video sample. Multiple authors and advocacy partners contribute; do not attribute every piece to Michael Popok. Medical or legal factual claims are not adjudicated by this ideology review.",
+      "short": "Liberal/center-left legal and reproductive-rights commentary; a network with multiple contributors.",
+      "evidence": [
+        {
+          "post_id": "183830019",
+          "title": "Wyoming Republicans Accidentally Enshrined Abortion Rights in Their Constitution",
+          "date": "2026-01-07T22:30:43.761Z",
+          "url": "https://michaelpopok.substack.com/p/wyoming-republicans-accidentally",
+          "bylines": [
+            {
+              "name": "Legal AF",
+              "id": 301279317
+            },
+            {
+              "name": "Dina Doll",
+              "id": 88810130
+            }
+          ],
+          "body_sha256": "817b2700d339387175902247b2e7801de1c0db221a5e91c6e932ae2aa1623de6",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Dina Doll explicitly welcomes protection of women’s healthcare decisions and the preservation of abortion access."
+        },
+        {
+          "post_id": "175649192",
+          "title": "The Anti-Abortion Machine Again Tries to Use Fake Science to Take Down Mifepristone",
+          "date": "2025-10-08T23:00:29.988Z",
+          "url": "https://michaelpopok.substack.com/p/the-anti-abortion-machine-again-tries",
+          "bylines": [
+            {
+              "name": "Legal AF",
+              "id": 301279317
+            },
+            {
+              "name": "Court Accountability Action",
+              "id": 247917342
+            }
+          ],
+          "body_sha256": "33605ab46a7a8c067be18bee12a3c841366cc480fcafe7e08f36d4a5ddc67fd2",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Court Accountability Action contribution defends access to abortion medication and encourages readers to oppose anti-abortion claims; the classification concerns its stated orientation, not independent medical validation."
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "ideology": "Center-left / socially liberal editorial framing; nonpartisan news brand",
+      "coalition": "Democratic-friendly coverage; formal party pledge not established",
+      "confidence": "Medium",
+      "rationale": "The editor’s own introductions affirm reproductive-rights work and characterize abortion restrictions and their consequences critically. The outlet also gives space to pragmatic Democratic figures and maintains a fact-explanation mission. This supports a tentative center-left editorial tendency without equating a nonpartisan news brand with centrism or assigning it a party identity. Guest views and poll findings are not coded as the editor’s own.",
+      "short": "Center-left/socially liberal framing within a news-explanation brand; no formal Democratic identity inferred.",
+      "evidence": [
+        {
+          "post_id": "161418469",
+          "title": "Judge Threatens Criminal Contempt & A Conversation With Jessica Valenti",
+          "date": "2025-04-16T21:47:25.622Z",
+          "url": "https://newsnotnoisejessicayellin.substack.com/p/judge-threatens-criminal-contempt",
+          "bylines": [
+            {
+              "name": "Jessica Yellin",
+              "id": 20113711
+            },
+            {
+              "name": "Jessica Valenti",
+              "id": 535611
+            },
+            {
+              "name": "Rohan Montgomery",
+              "id": 281164902
+            }
+          ],
+          "body_sha256": "f1070340a45e9507ae7cd2cbc60ccf97bf5d9aa39a5470220ace3240a9a45f3c",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "Yellin’s own introduction praises Valenti’s reproductive-rights work and describes restrictions as attacks; not merely a guest quotation."
+        },
+        {
+          "post_id": "208390214",
+          "title": "Texas \"Clarified\" Its Abortion Law. Then This Happened. ",
+          "date": "2026-07-24T23:47:01.979Z",
+          "url": "https://newsnotnoisejessicayellin.substack.com/p/texas-clarified-its-abortion-law",
+          "bylines": [
+            {
+              "name": "Jessica Yellin",
+              "id": 20113711
+            },
+            {
+              "name": "Rohan Montgomery",
+              "id": 281164902
+            }
+          ],
+          "body_sha256": "610ad5ddc5131599686cfba1c562fbc362dc8e3310325091b2385d6bcbce3541",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "Editorial text describes the consequences of Texas abortion restrictions and calls the revised protection inadequate."
+        },
+        {
+          "post_id": "198741434",
+          "title": "Matt Mahan Ran Facebook's First Campaign. Now He Wants to Run California.",
+          "date": "2026-05-22T23:08:37.595Z",
+          "url": "https://newsnotnoisejessicayellin.substack.com/p/matt-mahan-ran-facebooks-first-campaign",
+          "bylines": [
+            {
+              "name": "Jessica Yellin",
+              "id": 20113711
+            },
+            {
+              "name": "Rohan Montgomery",
+              "id": 281164902
+            }
+          ],
+          "body_sha256": "3c6876af61baa94e4fd46130d49c4fd2d9abad376f07fa83b3a8fc222dc59cb5",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "An interview with a pragmatic Democratic candidate illustrates within-coalition breadth; not a candidate endorsement by itself."
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "ideology": "Center-left / pluralist liberal; cohosts have cross-cutting positions",
+      "coalition": "Democratic electoral preference with internal disagreement",
+      "confidence": "High",
+      "rationale": "Beth Silvers explicitly rejects identifying her conversational moderation with centrist policy views, describes welcoming immigration and left/libertarian criminal-justice positions, and calls a Democratic midterm victory imperative. Sarah identifies herself as a Democrat in a separate transcript. This resolves the broad outlet tendency while preserving differences between the cohosts; a shared tone is not a shared point on every issue.",
+      "short": "Pluralist center-left/liberal; moderate tone should not be mistaken for centrist policy positions.",
+      "evidence": [
+        {
+          "post_id": "186090535",
+          "title": "The Resistance and the Moderates",
+          "date": "2026-01-28T16:17:06.883Z",
+          "url": "https://www.pantsuitpoliticsshow.com/p/the-resistance-and-the-moderates",
+          "bylines": [
+            {
+              "name": "Beth Ann Silvers",
+              "id": 4943356
+            }
+          ],
+          "body_sha256": "96348e3db83a6f12bc68dbfea2d8304527b9ae53e241da20404e598b24650ca6",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Beth distinguishes moderation as pluralism from centrism, describes her own immigration and criminal-justice positions, and explicitly advocates a Democratic midterm victory."
+        },
+        {
+          "post_id": "155572161",
+          "title": "How Scared Should We Be That Trump Won the Iowa Caucus?",
+          "date": "2024-01-17T07:00:00.000Z",
+          "url": "https://www.pantsuitpoliticsshow.com/p/2024117how-scared-should-we-be-that-donald-trump-won-the-iowa-caucus",
+          "bylines": [
+            {
+              "name": "Pantsuit Politics",
+              "id": 141635740
+            }
+          ],
+          "body_sha256": "60260a32efd3f946975919f887ce30a2a2b4930af09a57238677a4128ac5c3e9",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "A specifically attributed Sarah transcript passage contains her own Democratic identification and favorable assessment of Biden’s leadership."
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "ideology": "Right / center-right liberal conservative; anti-Trump",
+      "coalition": "Anti-Trump; explicit Harris endorsement despite policy disagreements",
+      "confidence": "High",
+      "rationale": "In an interview republished on his own newsletter, Sykes says his conservative principles have not changed and specifically retains disagreements over tax policy and student debt while endorsing Harris on democratic grounds. His own commentary situates this within a conservative anti-Trump coalition, with later criticism of MAGA and attention to Democratic moderation. This is a clearer current center-right/conservative case than the initial sampled excerpts showed. It is not pro-Trump.",
+      "short": "Center-right/anti-Trump conservative; Democratic voting does not make his policy identity left-wing.",
+      "evidence": [
+        {
+          "post_id": "150073840",
+          "title": "Why I'm Voting for Kamala Harris",
+          "date": "2024-10-11T16:13:09.674Z",
+          "url": "https://charliesykes.substack.com/p/why-im-voting-for-kamala-harris",
+          "bylines": [
+            {
+              "name": "Charlie Sykes",
+              "id": 4298516
+            }
+          ],
+          "body_sha256": "1a6c87c5eda471e4de8d8e4de9163c0ed4f4d8bb6b3da360dc53bc74de6681c0",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Republished interview clearly attributes to Sykes his unchanged conservative principles and tax/student-debt disagreements alongside an explicit Harris endorsement."
+        },
+        {
+          "post_id": "149312708",
+          "title": "Yes, There are Conservatives for Kamala",
+          "date": "2024-09-26T16:27:12.797Z",
+          "url": "https://charliesykes.substack.com/p/yes-there-are-conservatives-for-kamala",
+          "bylines": [
+            {
+              "name": "Charlie Sykes",
+              "id": 4298516
+            }
+          ],
+          "body_sha256": "2e799d0da84ff806daff2e653affe089e62c8f7aa980123273632cb3e89a810b",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice explanation of conservative support for Harris separates policy differences from an anti-authoritarian electoral choice."
+        },
+        {
+          "post_id": "158403116",
+          "title": "Democratic Centrists Make Their Move?",
+          "date": "2025-03-07T16:49:10.511Z",
+          "url": "https://charliesykes.substack.com/p/democratic-centrists-make-their-move",
+          "bylines": [
+            {
+              "name": "Charlie Sykes",
+              "id": 4298516
+            }
+          ],
+          "body_sha256": "66f2fe40741673d5dba464dd08f88a80b4b630cebfd14d890cc56a13e7ce1cd8",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "Later discussion of Democratic centrists provides additional context; statements by quoted politicians are not automatically his own."
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "ideology": "Insufficient policy evidence; strongly Trump-critical insider commentary",
+      "coalition": "Strongly Trump-critical; party commitment not established",
+      "confidence": "Low",
+      "rationale": "The expanded reading establishes an oppositional stance toward Trump’s authoritarian behavior and a focus on insider reporting, personality and elite power. It does not provide a sufficiently broad affirmative position on redistribution, healthcare, immigration or other domains to distinguish left, center or a dissident right. Criticism of Fauci’s celebrity or Trump’s war management is not a policy platform. Keep broad ideology unclassified rather than inventing centrism.",
+      "short": "Trump-critical insider reporting; broader left–center–right ideology remains unclassified.",
+      "evidence": [
+        {
+          "post_id": "176837718",
+          "title": "Welcome to HOWL Michael Wolff's Substack",
+          "date": "2025-10-22T16:43:47.908Z",
+          "url": "https://michaelwolffnyc.substack.com/p/welcome-to-howl-michaels-wolffs-substack",
+          "bylines": [
+            {
+              "name": "Michael Wolff",
+              "id": 1932879
+            }
+          ],
+          "body_sha256": "709804d70197863fd9f64d6895a4cebe567d18da956595e6263d98c09ebe7153",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Launch essay explicitly opposes Trump’s encroachments and describes an insider-reporting and accountability mission."
+        },
+        {
+          "post_id": "190619424",
+          "title": "Trump's War Is in Total Disarray, But He's Having a Blast",
+          "date": "2026-03-11T18:45:41.502Z",
+          "url": "https://michaelwolffnyc.substack.com/p/trumps-war-is-in-total-disarray-but",
+          "bylines": [
+            {
+              "name": "Michael Wolff",
+              "id": 1932879
+            }
+          ],
+          "body_sha256": "35ee11c1482ec5498b93236ee8e3f82672b9f0e8f9e9d3943cbf3166e26f2029",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Criticizes Trump’s war management through personality and organizational dysfunction, without establishing a general foreign-policy doctrine."
+        },
+        {
+          "post_id": "209259918",
+          "title": "Eleven True Notes about Anthony Fauci",
+          "date": "2026-07-31T15:15:51.561Z",
+          "url": "https://michaelwolffnyc.substack.com/p/eleven-true-notes-about-anthony-fauci",
+          "bylines": [
+            {
+              "name": "Michael Wolff",
+              "id": 1932879
+            }
+          ],
+          "body_sha256": "c1305e44a77651948f7d4011c671cf3c37f4aaf7ef5f0eaf745e9ff0800ae3f6",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Comments on celebrity, institutional exposure and elite reputations; does not establish a healthcare ideology."
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "ideology": "Center-left / liberal-democratic reformist; tentative",
+      "coalition": "Democratic-oriented electoral analysis; formal party identity not established",
+      "confidence": "Medium",
+      "rationale": "The longer review combines explicit support for institutional reforms in the About page, an own-voice statement that Democrats should optimize their chances of winning, and a business/editorial account aligning the publication with evidence-based resistance to right-wing attacks on democracy. This supports a tentative center-left/liberal-democratic editorial placement. It is an inference about orientation, not a full policy score. Poll respondents’ preferences, projected Democratic wins and technical corrections are not themselves ideological evidence.",
+      "short": "Tentatively center-left/liberal-democratic analysis; economic and foreign-policy positions remain less well identified.",
+      "evidence": [
+        {
+          "post_id": "201713923",
+          "title": "Democratic voters want the party to be more moderate — and more socialist?",
+          "date": "2026-06-12T12:10:36.396Z",
+          "url": "https://www.gelliottmorris.com/p/2026-06-12-dem-voters-moderate-and-socialist",
+          "bylines": [
+            {
+              "name": "G. Elliott Morris",
+              "id": 479143
+            }
+          ],
+          "body_sha256": "38b3b3adb5995acdfa2e2dafd6c3276663ca8b35f4176bdb962b49efc5bc1d6d",
+          "reading_scope": "Full saved public text",
+          "interpretation": "Own-voice normative statement that Democrats should optimize their electoral prospects, while explicitly refusing to infer a policy prescription from an ambiguous poll."
+        },
+        {
+          "post_id": "214433181",
+          "title": "Notes on building an independent media and polling ecosystem in 2026",
+          "date": "2026-09-06T20:29:09.413Z",
+          "url": "https://www.gelliottmorris.com/p/2026-09-06-sunday-roundup",
+          "bylines": [
+            {
+              "name": "G. Elliott Morris",
+              "id": 479143
+            }
+          ],
+          "body_sha256": "8c68e3b2b51fc576020536530078753358b742a948d78251fe472843c5b92363",
+          "reading_scope": "Opening and selected argument passages",
+          "interpretation": "Own-voice discussion of editorial values, chosen comparison outlets and willingness to confront right-wing attacks on democracy; selected passages reviewed."
+        }
+      ]
+    }
+  ],
+  "source_reading_log": [
+    {
+      "rank": 5,
+      "post_id": "154838151",
+      "scope": "full",
+      "body_sha256": "81b89dfbe40e2c0cc839f1433125b094cbd507dacb3456a43fa900b92e5f606e"
+    },
+    {
+      "rank": 5,
+      "post_id": "152460211",
+      "scope": "full",
+      "body_sha256": "d5ae01711f73c68716e15f3e5fdc3a666c0cfaa6f1d7f02ab480137686e541f7"
+    },
+    {
+      "rank": 5,
+      "post_id": "181187674",
+      "scope": "full",
+      "body_sha256": "e5b063fdbfd7d311446b56d7a44f371e2c917454eb95232c3d24d53740b57b7f"
+    },
+    {
+      "rank": 11,
+      "post_id": "214153707",
+      "scope": "full",
+      "body_sha256": "ee3c8e91deb9112068c70dca9b8ac5630958f3c7c2f710be6c3ccf56de922faa"
+    },
+    {
+      "rank": 11,
+      "post_id": "192039363",
+      "scope": "full",
+      "body_sha256": "127b0322881e0c73add0b90a4283177ca5e35ce22456c8caafaa24764bdf1644"
+    },
+    {
+      "rank": 16,
+      "post_id": "220789493",
+      "scope": "full",
+      "body_sha256": "21fdff8541347a1a1a8982f7e1a02bcf37fa04772899f84415b6fd89dde76130"
+    },
+    {
+      "rank": 16,
+      "post_id": "162721233",
+      "scope": "full",
+      "body_sha256": "834a6bdf217b542ea4772c639ea7f1fa1893ac6f2e8360dfbd7792cc976e8568"
+    },
+    {
+      "rank": 16,
+      "post_id": "219341595",
+      "scope": "full",
+      "body_sha256": "6c31237af97062f31f14dc52fdfbbb2940c00dadb78676d11630154c3fdf43ce"
+    },
+    {
+      "rank": 18,
+      "post_id": "201496253",
+      "scope": "full",
+      "body_sha256": "0c2bdda7ee27ba373e6220ed1e9b074445b12cc2edd5306f9ab7a5b4b3355624"
+    },
+    {
+      "rank": 18,
+      "post_id": "219641236",
+      "scope": "full",
+      "body_sha256": "ed64a3c01fc161def33875350beb19af04aaad39f055a2171dace742a910e950"
+    },
+    {
+      "rank": 20,
+      "post_id": "151824039",
+      "scope": "full",
+      "body_sha256": "52f6b7b1e8ed0e5bb21ad000d7696c743d87be2f48c8eeb92040274c9c751bd5"
+    },
+    {
+      "rank": 20,
+      "post_id": "207148136",
+      "scope": "full",
+      "body_sha256": "79a51e6cd158600dbb1231933e19673898e856abee3013559acc2cde5d8a0cbc"
+    },
+    {
+      "rank": 20,
+      "post_id": "138302461",
+      "scope": "full",
+      "body_sha256": "b6fe6e4876f5c4e637b0a5ab2b3bfe1e2152e3e2d510564c62dbe5de02623362"
+    },
+    {
+      "rank": 20,
+      "post_id": "143402236",
+      "scope": "full",
+      "body_sha256": "61963b94ed201454083a600bb17dc824e58812e9b5a1464487c97690fc2954d9"
+    },
+    {
+      "rank": 20,
+      "post_id": "153098180",
+      "scope": "full",
+      "body_sha256": "9d5a10ad2d1eb41ebcca671ff0523aa7760b107e02e346112991caa2e9225f19"
+    },
+    {
+      "rank": 20,
+      "post_id": "167171371",
+      "scope": "full",
+      "body_sha256": "11c074db8ec114954805fd7de7f20a8cfdc4a70937820eabbeb4122cadcbd8fe"
+    },
+    {
+      "rank": 28,
+      "post_id": "183830019",
+      "scope": "full",
+      "body_sha256": "817b2700d339387175902247b2e7801de1c0db221a5e91c6e932ae2aa1623de6"
+    },
+    {
+      "rank": 28,
+      "post_id": "175649192",
+      "scope": "full",
+      "body_sha256": "33605ab46a7a8c067be18bee12a3c841366cc480fcafe7e08f36d4a5ddc67fd2"
+    },
+    {
+      "rank": 35,
+      "post_id": "186090535",
+      "scope": "full",
+      "body_sha256": "96348e3db83a6f12bc68dbfea2d8304527b9ae53e241da20404e598b24650ca6"
+    },
+    {
+      "rank": 37,
+      "post_id": "149312708",
+      "scope": "full",
+      "body_sha256": "2e799d0da84ff806daff2e653affe089e62c8f7aa980123273632cb3e89a810b"
+    },
+    {
+      "rank": 37,
+      "post_id": "150073840",
+      "scope": "full",
+      "body_sha256": "1a6c87c5eda471e4de8d8e4de9163c0ed4f4d8bb6b3da360dc53bc74de6681c0"
+    },
+    {
+      "rank": 42,
+      "post_id": "176837718",
+      "scope": "full",
+      "body_sha256": "709804d70197863fd9f64d6895a4cebe567d18da956595e6263d98c09ebe7153"
+    },
+    {
+      "rank": 42,
+      "post_id": "209259918",
+      "scope": "full",
+      "body_sha256": "c1305e44a77651948f7d4011c671cf3c37f4aaf7ef5f0eaf745e9ff0800ae3f6"
+    },
+    {
+      "rank": 42,
+      "post_id": "190619424",
+      "scope": "full",
+      "body_sha256": "35ee11c1482ec5498b93236ee8e3f82672b9f0e8f9e9d3943cbf3166e26f2029"
+    },
+    {
+      "rank": 43,
+      "post_id": "211171832",
+      "scope": "full",
+      "body_sha256": "d6df4e276cfdc5eee9feff4cc9fc669efe7784a40029bb734beba290fe4a842e"
+    },
+    {
+      "rank": 43,
+      "post_id": "201713923",
+      "scope": "full",
+      "body_sha256": "38b3b3adb5995acdfa2e2dafd6c3276663ca8b35f4176bdb962b49efc5bc1d6d"
+    },
+    {
+      "rank": 7,
+      "post_id": "166262346",
+      "scope": "selected_passages",
+      "body_sha256": "882e1bdd45abd7d5e81dbb568f858383b48e25ffd56e9f0a5ae0fa10a730bf60"
+    },
+    {
+      "rank": 7,
+      "post_id": "139708372",
+      "scope": "selected_passages",
+      "body_sha256": "5eab7cf98f82c8d68bb08aa75ad0e8eaa16f1eb19f2fb63b008e45869871401f"
+    },
+    {
+      "rank": 7,
+      "post_id": "175816489",
+      "scope": "selected_passages",
+      "body_sha256": "f31e3228ee951c630a1a309afcdecfd09f2b23a0efa25218b2f350bcf7f98883"
+    },
+    {
+      "rank": 7,
+      "post_id": "155489157",
+      "scope": "selected_passages",
+      "body_sha256": "eecece96fc95bd6383b3f2de39416b410afbdaafdb634db2fb40ebf44c258790"
+    },
+    {
+      "rank": 7,
+      "post_id": "152975443",
+      "scope": "selected_passages",
+      "body_sha256": "93bdd01a2a9d689faa0ab5a5591d06c88287d8b47771568af155fde23968b7c1"
+    },
+    {
+      "rank": 30,
+      "post_id": "208390214",
+      "scope": "selected_passages",
+      "body_sha256": "610ad5ddc5131599686cfba1c562fbc362dc8e3310325091b2385d6bcbce3541"
+    },
+    {
+      "rank": 30,
+      "post_id": "198741434",
+      "scope": "selected_passages",
+      "body_sha256": "3c6876af61baa94e4fd46130d49c4fd2d9abad376f07fa83b3a8fc222dc59cb5"
+    },
+    {
+      "rank": 30,
+      "post_id": "161418469",
+      "scope": "selected_passages",
+      "body_sha256": "f1070340a45e9507ae7cd2cbc60ccf97bf5d9aa39a5470220ace3240a9a45f3c"
+    },
+    {
+      "rank": 35,
+      "post_id": "155572161",
+      "scope": "selected_passages",
+      "body_sha256": "60260a32efd3f946975919f887ce30a2a2b4930af09a57238677a4128ac5c3e9"
+    },
+    {
+      "rank": 37,
+      "post_id": "158403116",
+      "scope": "selected_passages",
+      "body_sha256": "66f2fe40741673d5dba464dd08f88a80b4b630cebfd14d890cc56a13e7ce1cd8"
+    },
+    {
+      "rank": 37,
+      "post_id": "174105971",
+      "scope": "selected_passages",
+      "body_sha256": "ae1529715b2cdb7879fdf4e44853453871592dd5891605ea0f2ade9a4a147ce9"
+    },
+    {
+      "rank": 37,
+      "post_id": "180753527",
+      "scope": "selected_passages",
+      "body_sha256": "81bc66baa6504dc80e52c94b18add5aaaef8521e062181633f7c7f64c03a303f"
+    },
+    {
+      "rank": 43,
+      "post_id": "214433181",
+      "scope": "selected_passages",
+      "body_sha256": "8c68e3b2b51fc576020536530078753358b742a948d78251fe472843c5b92363"
+    }
+  ],
+  "pitfalls_rejected": [
+    "Preamble guest Lauren Pinkston’s Independent identity is not Sharon McMahon’s.",
+    "A Florida reader’s voter-registration question is not McMahon’s own party registration.",
+    "Cameron Hanes saying he is Republican is not Schmidt saying so; Schmidt’s dated self-report is separately verified.",
+    "David French’s conservative self-description and Stanley McChrystal’s centrist self-description are not Sykes’s own.",
+    "A poll respondent favoring socialism or moderation does not establish Morris’s ideology.",
+    "A technical polling article titled KILL THE VAMPIRES is not economic-radicalism evidence.",
+    "Pantsuit moderation refers to conversational pluralism and must not be substituted for policy centrism."
+  ],
+  "model_api_calls": 0,
+  "new_spend_usd": 0
+}

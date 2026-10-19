@@ -1,0 +1,1074 @@
+{
+  "prepared_at_utc": "2026-10-19T17:11:01.059861+00:00",
+  "source_reviewed_at_utc": "2026-10-19T17:08:22.324675+00:00",
+  "unit": "Publication-level provisional audit. NOT 50 distinct writers and NOT labels for each contributor.",
+  "reading_scope": "All 50 downloaded public About pages; selected leads and policy/role passages from up to three of the 266 seeded sampled posts per publication, with additional targeted passages where needed. Separate pilot texts cited where indicated. Not all 266 posts read cover to cover. Expanded review: twelve About pages revisited, 26 public texts read fully and thirteen additional texts reviewed through selected passages; see Substack_Unresolved_Alignment_Review.json.",
+  "codebook": "Ideology describes demonstrated policy orientation or explicit public self-description. Coalition and expressed commitment are separate. Unknown is valid; calm, independent or nonpartisan branding is not evidence of ideological centrism. Issue-specific progressive positions do not imply economic-left positions. Historical conservative origins are not current policy scores. Confidence is holistic and some party/organization evidence is stronger than ideology evidence.",
+  "counts": [
+    {
+      "group": "Broad left or liberal",
+      "n": 39,
+      "percentage": 78,
+      "description": "Includes progressive, liberal and center-left editorial tendencies; some new classifications remain tentative and issue-specific."
+    },
+    {
+      "group": "Center or moderate liberal",
+      "n": 1,
+      "percentage": 2,
+      "description": "Silver Bulletin: moderate/classical liberal with libertarian tendencies. This is a coarse working placement, not ideological neutrality or an exact midpoint."
+    },
+    {
+      "group": "Current right or conservative",
+      "n": 3,
+      "percentage": 6,
+      "description": "The Weekly Dish, The Huckabee Post and Charlie Sykes’s To the Contrary. Sykes is an anti-Trump conservative; conservative policy identity and Republican voting are distinct."
+    },
+    {
+      "group": "Conservative origins with current policy range unresolved",
+      "n": 2,
+      "percentage": 4,
+      "description": "Adam Kinzinger and Rick Wilson. These two were outside the twelve-publication expanded review; their earlier classifications are retained."
+    },
+    {
+      "group": "Mixed or heterodox",
+      "n": 4,
+      "percentage": 8,
+      "description": "The Free Press, The Bulwark, The Contrarian and Racket News. Their original classifications are retained; mixed contributor positions are not automatically centrist."
+    },
+    {
+      "group": "Unresolved",
+      "n": 1,
+      "percentage": 2,
+      "description": "HOWL: clearly Trump-critical insider reporting, but insufficient affirmative policy evidence for a broad left/center/right placement."
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "publication_id": "260347",
+      "publication": "The Free Press",
+      "author_or_brand": "Bari Weiss",
+      "ideology": "Mixed / insufficient policy evidence",
+      "coalition": "Not established",
+      "organization": "Multi-author news/editorial outlet",
+      "confidence": "Low",
+      "rationale": "The source explicitly describes political heterogeneity. Four sampled public texts are mostly technology and previews; they do not justify coding every contributor as right-wing or centrist.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.thefp.com/about",
+        "post_id": null,
+        "about_sha256": "0d354fb7629dcde15338e4fd9d1ba9ad2353b038c692a5c0db0d66d893642cab"
+      },
+      "summary_group": "Mixed or heterodox",
+      "captured_discussions": 29
+    },
+    {
+      "rank": 2,
+      "publication_id": "87281",
+      "publication": "The Bulwark",
+      "author_or_brand": "The Bulwark",
+      "ideology": "Mixed across contributors",
+      "coalition": "Anti-Trump coalition",
+      "organization": "Multi-author news/editorial outlet",
+      "confidence": "Medium",
+      "rationale": "A home for the politically homeless, organized around liberal democracy. Sample includes a Progressive editor and multiple distinct reporters; publication-level anti-Trump orientation does not identify each writer’s ideology.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.thebulwark.com/about",
+        "post_id": null,
+        "about_sha256": "37bececc724e8504474c0ba55724dd4e905639afdc1f25d48aa0cfea59914313"
+      },
+      "summary_group": "Mixed or heterodox",
+      "captured_discussions": 210
+    },
+    {
+      "rank": 3,
+      "publication_id": "20533",
+      "publication": "Letters from an American",
+      "author_or_brand": "Heather Cox Richardson",
+      "ideology": "Center-left / liberal",
+      "coalition": "Democratic-friendly",
+      "organization": "Individual-led with guests",
+      "confidence": "Medium",
+      "rationale": "The sampled account favors abortion rights and contrasts Democratic electoral gains with Republican extremism. The label is provisional, not inferred from anti-Trump criticism alone.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://heathercoxrichardson.substack.com/p/march-26-2024",
+        "post_id": "142996969",
+        "about_sha256": "dc677f3fc6012b7cd907f6b745bd169f170e595f3af45b4604f3d54499bf6e31"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 209
+    },
+    {
+      "rank": 4,
+      "publication_id": "3078900",
+      "publication": "Meidas+",
+      "author_or_brand": "MeidasTouch Network",
+      "ideology": "Center-left / liberal",
+      "coalition": "Democratic-aligned",
+      "organization": "Partisan media/advocacy network",
+      "confidence": "Medium",
+      "rationale": "Resistance rhetoric and identification with Harris supporters accompany reporting. A named editorial network, not a single writer.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.meidasplus.com/p/zero-liberal-tears-we-are-the-resistance",
+        "post_id": "151384093",
+        "about_sha256": "3a8b4d75fa7bde55e3ea663154d0f2c030e41fb644047c537fc200ea241533e4"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 155
+    },
+    {
+      "rank": 5,
+      "publication_id": "2325511",
+      "publication": "Zeteo",
+      "author_or_brand": "Mehdi Hasan",
+      "ideology": "Left / progressive; editorial tendency across contributors",
+      "coalition": "Anti-Trump; includes criticism of Democratic leadership from the left",
+      "organization": "Multi-author news/editorial outlet",
+      "confidence": "High",
+      "rationale": "The larger public-text review includes affirmative economic-progressive advocacy for worker organizing and rejection of corporate influence, defenses of public healthcare coverage, and immigration analysis critical of restrictionism. This supports a broad progressive editorial tendency rather than merely an anti-Trump label. Zeteo publishes multiple authors and explicitly disclaims that each opinion is the organization’s own; do not assign every contributor the same ideology.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://zeteo.com/p/democrats-will-keep-losing-until",
+        "post_id": "152460211",
+        "body_sha256": "d5ae01711f73c68716e15f3e5fdc3a666c0cfaa6f1d7f02ab480137686e541f7"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 185
+    },
+    {
+      "rank": 6,
+      "publication_id": "3719374",
+      "publication": "The Contrarian",
+      "author_or_brand": "The Contrarian",
+      "ideology": "Mixed / insufficient policy evidence",
+      "coalition": "Anti-Trump coalition",
+      "organization": "News/advocacy hybrid network",
+      "confidence": "Medium",
+      "rationale": "Contributors explicitly need not agree on issues. Profits support litigation against Trump; this distinguishes the hybrid organization from a generic newsroom.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.contrariannews.org/about",
+        "post_id": null,
+        "about_sha256": "7cf5ad475fe275155642d2b2e4ed6c727993ffd7a61d91c2213cdb6eaf68e384"
+      },
+      "summary_group": "Mixed or heterodox",
+      "captured_discussions": 134
+    },
+    {
+      "rank": 7,
+      "publication_id": "1198116",
+      "publication": "Silver Bulletin",
+      "author_or_brand": "Nate Silver",
+      "ideology": "Moderate liberal / classical-liberal and libertarian-leaning",
+      "coalition": "Critical of Trump and progressive orthodoxy; formal party commitment not established",
+      "organization": "Individual-led small editorial team",
+      "confidence": "Medium",
+      "rationale": "Silver directly calls himself a moderate liberal and favors individual rights, free speech, decentralized decision-making and markets. A later essay explicitly places this form of liberalism closer to the center than the left. For a coarse three-way description, center/moderate liberal is the best working category. This does not mean neutral reporting, an exact ideological midpoint, or absence of liberal issue positions. Coding Silver as center-left is a reasonable sensitivity rather than calling him progressive-left or Republican.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.natesilver.net/p/why-liberalism-and-leftism-are-increasingly",
+        "post_id": "139708372",
+        "body_sha256": "5eab7cf98f82c8d68bb08aa75ad0e8eaa16f1eb19f2fb63b008e45869871401f"
+      },
+      "summary_group": "Center or moderate liberal",
+      "captured_discussions": 191
+    },
+    {
+      "rank": 8,
+      "publication_id": "277517",
+      "publication": "Paul Krugman",
+      "author_or_brand": "Paul Krugman",
+      "ideology": "Center-left / liberal",
+      "coalition": "Anti-Trump; party pledge not established",
+      "organization": "Individual-led newsletter",
+      "confidence": "Medium",
+      "rationale": "Favors an immigration path to citizenship; sampled tariff and aid criticism supplies additional policy context. Do not infer a formal party identity.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://paulkrugman.substack.com/p/making-immigration-great-again",
+        "post_id": "168234856",
+        "about_sha256": "6a011cb2bc9676fff9d6f18e7b72f579cb611075204274f782466720d229bc91"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 137
+    },
+    {
+      "rank": 9,
+      "publication_id": "2337656",
+      "publication": "The Borowitz Report",
+      "author_or_brand": "Andy Borowitz",
+      "ideology": "Liberal satire; provisional",
+      "coalition": "Anti-Trump; party pledge not established",
+      "organization": "Individual-led satire publication",
+      "confidence": "Low",
+      "rationale": "Author explicitly identifies the product as satirical news. Satirical targets suggest orientation, but fictional statements cannot be treated as factual endorsements.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.borowitzreport.com/about",
+        "post_id": null,
+        "about_sha256": "864942fcfa7540812d070f399bab793c627944d1334fced2eadba686a7a2c585"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 26
+    },
+    {
+      "rank": 10,
+      "publication_id": "365422",
+      "publication": "Robert Reich",
+      "author_or_brand": "Robert Reich",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic-aligned",
+      "organization": "Individual-led small editorial team",
+      "confidence": "Medium",
+      "rationale": "Favorable Harris comparison and inequality/corporate-power framing support a progressive, Democratic-aligned interpretation. The newsletter also includes a collaborator and interviews.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://robertreich.substack.com/p/trump-is-unstable-harris-is-super",
+        "post_id": "150420740",
+        "about_sha256": "9c984335b05d94bf9aa1cc8c62b51e8fe9dbdb2dac7514b30540f10dd891c1a6"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 58
+    },
+    {
+      "rank": 11,
+      "publication_id": "607357",
+      "publication": "Civil Discourse with Joyce Vance ",
+      "author_or_brand": "Joyce Vance",
+      "ideology": "Center-left / liberal; civil-rights and labor emphasis",
+      "coalition": "Anti-Trump; Democratic-friendly electoral mobilization",
+      "organization": "Individual-led with guests",
+      "confidence": "High",
+      "rationale": "The reviewed Labor Day essay rejects Reagan’s small-government economic program, affirms organized labor and civil-rights work, and urges electoral action. The poll-tax essay defends expansive voting access and objects to exclusionary requirements. This is substantive liberal framing, not simply a biography as an Obama appointee. A detailed economic platform remains unmeasured.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://joycevance.substack.com/p/labor-day",
+        "post_id": "214153707",
+        "body_sha256": "ee3c8e91deb9112068c70dca9b8ac5630958f3c7c2f710be6c3ccf56de922faa"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 114
+    },
+    {
+      "rank": 12,
+      "publication_id": "1042",
+      "publication": "Racket News",
+      "author_or_brand": "Matt Taibbi",
+      "ideology": "Mixed / heterodox; civil-liberties emphasis",
+      "coalition": "Critical of both; no party pledge",
+      "organization": "Multi-author news/editorial outlet",
+      "confidence": "Medium",
+      "rationale": "Criticizes legacy-media accounts while also discussing Trump’s excesses. Free-speech positions and anti-establishment reporting do not by themselves establish Republican loyalty or a fixed left-right location.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.racket.news/p/the-weaponization-of-the-weaponization",
+        "post_id": "184682939",
+        "about_sha256": "8e4ecad26ff3244f4da6cc94ed18061c80a37640e886503f333ea2943f03f645"
+      },
+      "summary_group": "Mixed or heterodox",
+      "captured_discussions": 190
+    },
+    {
+      "rank": 13,
+      "publication_id": "1910658",
+      "publication": "Adam Kinzinger",
+      "author_or_brand": "Adam Kinzinger",
+      "ideology": "Conservative Republican origins; current policy range unconfirmed",
+      "coalition": "Anti-Trump coalition",
+      "organization": "Individual-led with guests",
+      "confidence": "Medium",
+      "rationale": "Explicitly describes twelve years as a Republican congressman and loss of party ties after opposing Trump. Historical origins are recorded separately from current policy ideology.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.adamkinzinger.com/about",
+        "post_id": null,
+        "about_sha256": "28829e070f2a9b24c315433eb19d8b529a3d88d5b1bf7393acd7ecc94479409e"
+      },
+      "summary_group": "Conservative origins with current policy range unresolved",
+      "captured_discussions": 206
+    },
+    {
+      "rank": 14,
+      "publication_id": "159185",
+      "publication": "Slow Boring ",
+      "author_or_brand": "Matthew Yglesias",
+      "ideology": "Center-left / pragmatic liberal",
+      "coalition": "Democratic-aligned",
+      "organization": "Small author/editorial team",
+      "confidence": "Medium",
+      "rationale": "The separately reviewed pilot explicitly recommends incremental public health coverage, supply reform and Democratic coalition priorities. Supporting AOC for a committee role does not make the author a socialist.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.slowboring.com/p/end-the-medicare-for-all-wars",
+        "post_id": "152867726",
+        "about_sha256": "bad9e1b66e32b7e5bb2c9d09d8f4bd3516a1ff4747cb257ac8d43dfffccf0553"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 207
+    },
+    {
+      "rank": 15,
+      "publication_id": "247881",
+      "publication": "Steady",
+      "author_or_brand": "Dan Rather",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Anti-Trump; party pledge not established",
+      "organization": "Individual-led small editorial team",
+      "confidence": "Medium",
+      "rationale": "Climate action, racial justice and democratic norms are positively valued. Team-authored pieces and staff changes require distinguishing Dan Rather from the Steady brand.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://steady.substack.com/p/walk-on",
+        "post_id": "140048111",
+        "about_sha256": "b565ac85f9ac5e0548dff7eeb11d72ee36062ebab935ccbafbbb692858bc27e6"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 207
+    },
+    {
+      "rank": 16,
+      "publication_id": "2623736",
+      "publication": "The Preamble",
+      "author_or_brand": "The Preamble",
+      "ideology": "Center-left / socially liberal civic analysis; provisional",
+      "coalition": "Nonpartisan civic brand; no formal party commitment established",
+      "organization": "Individual-led small editorial team",
+      "confidence": "Medium",
+      "rationale": "McMahon’s own public prose rejects firearm-worship arguments and asks that children not have access to guns, advocates a constitutional amendment limiting money in politics, and criticizes religious-political curriculum mandates. Together these support a tentative liberal-leaning/center-left editorial assessment. Independence and a calm tone are not the basis for this label. Fiscal policy and many other domains remain unmeasured. An independent gubernatorial guest’s self-description is not McMahon’s.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://thepreamble.com/p/we-shouldnt-need-a-good-guy-with",
+        "post_id": "220789493",
+        "body_sha256": "21fdff8541347a1a1a8982f7e1a02bcf37fa04772899f84415b6fd89dde76130"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 30
+    },
+    {
+      "rank": 17,
+      "publication_id": "1664",
+      "publication": "Popular Information",
+      "author_or_brand": "Judd Legum",
+      "ideology": "Left / progressive",
+      "coalition": "Party pledge not established",
+      "organization": "Small reporting team",
+      "confidence": "High",
+      "rationale": "Judd Legum expressly identifies as progressive while stating that readers need not share his views. Former campaign employment is biographical evidence, not proof of present party obedience.",
+      "source": {
+        "type": "public_about",
+        "url": "https://popular.info/about",
+        "post_id": null,
+        "about_sha256": "bc15940d0a10cf19d5959a6d91d5cbc332c98a204f19f47809d0e249f9d76bec"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 206
+    },
+    {
+      "rank": 18,
+      "publication_id": "5445372",
+      "publication": "Hope for America with Heather Delaney Reese",
+      "author_or_brand": "Heather Delaney Reese",
+      "ideology": "Center-left / liberal; social-protection and immigrant-rights emphasis",
+      "coalition": "Democratic-oriented opposition to MAGA",
+      "organization": "Individual-led with guests",
+      "confidence": "High",
+      "rationale": "The Social Security essay affirmatively defends social insurance and Medicaid against cuts paired with tax benefits for the wealthy. Immigration commentary rejects scapegoating and calls for taking Congress back. These give positive social-protection and rights positions beyond generalized anti-MAGA criticism.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.heatherdelaneyreese.com/p/mike-johnson-accidentally-told-us-1e0",
+        "post_id": "201496253",
+        "body_sha256": "0c2bdda7ee27ba373e6220ed1e9b074445b12cc2edd5306f9ab7a5b4b3355624"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 82
+    },
+    {
+      "rank": 19,
+      "publication_id": "3561893",
+      "publication": "Lincoln Square Media",
+      "author_or_brand": "Lincoln Square",
+      "ideology": "Left / progressive, with mixed contributor backgrounds",
+      "coalition": "Anti-Trump coalition",
+      "organization": "Partisan media/advocacy network",
+      "confidence": "Medium",
+      "rationale": "Self-description is progressive independent media, featuring Lincoln Project talent. Do not give every former Republican contributor the publication’s progressive label.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.lincolnsquare.media/about",
+        "post_id": null,
+        "about_sha256": "9b7e2443c5b9ac35d762f08fe0df2da18459f9c826b78882fe025590bd396343"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 121
+    },
+    {
+      "rank": 20,
+      "publication_id": "836444",
+      "publication": "The Warning with Steve Schmidt",
+      "author_or_brand": "Steve Schmidt",
+      "ideology": "Center-left / moderate liberal; former Republican, Democratic-aligned",
+      "coalition": "Democratic-aligned anti-Trump; self-reported Democratic registration in a 2024 post",
+      "organization": "Individual-led small editorial team",
+      "confidence": "Medium",
+      "rationale": "Schmidt’s 2024 autobiographical post says he left the GOP in 2018 and registered as a Democrat in 2020; it does not verify his registration today. More substantively, his own writing opposes reproductive restrictions and discrimination against gay people, and condemns the transfer of resources from working families and healthcare to wealthy interests. A moderate-liberal/center-left working label fits this current editorial material better than either Republican-conservative or merely unknown. A detailed economic ideology is not established.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://steveschmidt.substack.com/p/the-warning-a-fearless-hub-to-chart",
+        "post_id": "151824039",
+        "body_sha256": "52f6b7b1e8ed0e5bb21ad000d7696c743d87be2f48c8eeb92040274c9c751bd5"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 210
+    },
+    {
+      "rank": 21,
+      "publication_id": "283462",
+      "publication": "The Status Kuo",
+      "author_or_brand": "Jay Kuo",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Democratic-friendly",
+      "organization": "Individual-led newsletter",
+      "confidence": "Low",
+      "rationale": "Democratic gains are presented favorably alongside criticism of MAGA institutional control. This provides coalition evidence more clearly than a comprehensive policy ideology.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://statuskuo.substack.com/p/florida-man-loses-bigly",
+        "post_id": "192100347",
+        "about_sha256": "88ce8406c87f15cba31406657e9a3f2ecb294efc3aa585807b5857bfc7a3f591"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 210
+    },
+    {
+      "rank": 22,
+      "publication_id": "994764",
+      "publication": "Erin In The Morning",
+      "author_or_brand": "Erin Reed",
+      "ideology": "Left / progressive on LGBTQ rights",
+      "coalition": "Issue-based; party pledge not established",
+      "organization": "Small reporting team",
+      "confidence": "High",
+      "rationale": "Explicitly presents anti-LGBTQ bills failing as victories. A strong issue position does not establish loyalty to every Democratic politician or an economic ideology.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.erininthemorning.com/p/iowa-attacks-on-trans-and-lgbtq-people",
+        "post_id": "143853293",
+        "about_sha256": "94a5af933cb7cd384de0727053393abdef10c51e20a2ce60136582d4c4c053e0"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 210
+    },
+    {
+      "rank": 23,
+      "publication_id": "61371",
+      "publication": "The Weekly Dish",
+      "author_or_brand": "Andrew Sullivan",
+      "ideology": "Right / conservative-leaning, heterodox; provisional",
+      "coalition": "Critical of both; no party pledge",
+      "organization": "Individual-led with editor",
+      "confidence": "Medium",
+      "rationale": "Criticism of gender-policy progressivism and Biden coexists with extensive criticism of Trump’s executive power and election conduct. About page institutionalizes an edited dissent section; email selection is not the same as open comments.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://andrewsullivan.substack.com/p/the-tq-threat-to-lgb-rights",
+        "post_id": "200064657",
+        "about_sha256": "4c1fd9e8121661ba42da3dfbebed96a5d260e5755b33ebe82a51e6909292e1a8"
+      },
+      "summary_group": "Current right or conservative",
+      "captured_discussions": 0,
+      "comment_records": 0
+    },
+    {
+      "rank": 24,
+      "publication_id": "271358",
+      "publication": "Today's Edition Newsletter",
+      "author_or_brand": "Robert B. Hubbell",
+      "ideology": "Center-left / liberal",
+      "coalition": "Democratic-aligned",
+      "organization": "Individual-led with guests",
+      "confidence": "High",
+      "rationale": "The separately reviewed pilot explicitly defends intentionally positive Biden coverage and identifies itself as commentary rather than journalism. Electoral mobilization is also explicit.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://roberthubbell.substack.com/p/bidens-promises-kept-vs-trumps-trail",
+        "post_id": "144461448",
+        "about_sha256": "ae5a91e199429b812ee59a7ff552beb1a13874126002ae078b6988005988a61f"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 208
+    },
+    {
+      "rank": 25,
+      "publication_id": "65026",
+      "publication": "The Message Box",
+      "author_or_brand": "Dan Pfeiffer",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Democratic-aligned",
+      "organization": "Individual-led with guests",
+      "confidence": "Medium",
+      "rationale": "Former Obama adviser explicitly offers a newsletter for defeating Trump and MAGA. Party strategy is better identified than the precise degree of economic progressivism.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.messageboxnews.com/about",
+        "post_id": null,
+        "about_sha256": "36184e2ee4e1534aabdc4ae748fbf28a56c00aab31d2926edc746a784cad6941"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 151
+    },
+    {
+      "rank": 26,
+      "publication_id": "70374",
+      "publication": "The.Ink",
+      "author_or_brand": "Anand Giridharadas",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic-aligned, internally critical",
+      "organization": "Multi-author editorial outlet",
+      "confidence": "Medium",
+      "rationale": "Explicitly seeks a progressive future and defeating Trump; a later sampled rant criticizes Democrats’ weak opposition. Party commitment does not mean absence of intra-party criticism.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://the.ink/p/how-harris-crushes-trump",
+        "post_id": "146876197",
+        "about_sha256": "b389e427f8843ec1250080fbc92694bbefade62da2555137946590d0d4112d58"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 86
+    },
+    {
+      "rank": 27,
+      "publication_id": "501423",
+      "publication": "Public Notice",
+      "author_or_brand": "Aaron Rupar",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic-friendly",
+      "organization": "Multi-author news/editorial outlet",
+      "confidence": "High",
+      "rationale": "About page explicitly describes a largely progressive audience and a cast of contributors. Article-level legal analysis should not be conflated with a formal party institution.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.publicnotice.co/about",
+        "post_id": null,
+        "about_sha256": "203a4c48ccc37485c0a4cd3e766f06ff1eb446992aaa176ae8cebf646b064d66"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 210
+    },
+    {
+      "rank": 28,
+      "publication_id": "3546953",
+      "publication": "Legal AF's Substack",
+      "author_or_brand": "Legal AF",
+      "ideology": "Center-left / liberal; reproductive-rights and equal-protection emphasis",
+      "coalition": "MeidasTouch-linked anti-Trump legal media",
+      "organization": "Partisan media/advocacy network",
+      "confidence": "High",
+      "rationale": "Two longer public pieces explicitly favor reproductive autonomy and defend abortion access while criticizing restrictions and attacks on healthcare provision. This supplies substantive liberal editorial evidence missing from the initial short-video sample. Multiple authors and advocacy partners contribute; do not attribute every piece to Michael Popok. Medical or legal factual claims are not adjudicated by this ideology review.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://michaelpopok.substack.com/p/wyoming-republicans-accidentally",
+        "post_id": "183830019",
+        "body_sha256": "817b2700d339387175902247b2e7801de1c0db221a5e91c6e932ae2aa1623de6"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 129
+    },
+    {
+      "rank": 29,
+      "publication_id": "1223483",
+      "publication": "Hopium Chronicles By Simon Rosenberg",
+      "author_or_brand": "Simon Rosenberg",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Democratic-aligned",
+      "organization": "Individual-led with guests",
+      "confidence": "High",
+      "rationale": "About page praises the Democratic Party and Biden; articles solicit money and volunteering for Democratic candidates. Degree of left economic ideology remains less certain than party commitment.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.hopiumchronicles.com/about",
+        "post_id": null,
+        "about_sha256": "910d3e77d9b91e6b00269be52c7f2a59b9a4e8efab37473e3bb250989a86b17b"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 209
+    },
+    {
+      "rank": 30,
+      "publication_id": "186462",
+      "publication": "News Not Noise",
+      "author_or_brand": "Jessica Yellin",
+      "ideology": "Center-left / socially liberal editorial framing; nonpartisan news brand",
+      "coalition": "Democratic-friendly coverage; formal party pledge not established",
+      "organization": "Small reporting team",
+      "confidence": "Medium",
+      "rationale": "The editor’s own introductions affirm reproductive-rights work and characterize abortion restrictions and their consequences critically. The outlet also gives space to pragmatic Democratic figures and maintains a fact-explanation mission. This supports a tentative center-left editorial tendency without equating a nonpartisan news brand with centrism or assigning it a party identity. Guest views and poll findings are not coded as the editor’s own.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://newsnotnoisejessicayellin.substack.com/p/judge-threatens-criminal-contempt",
+        "post_id": "161418469",
+        "body_sha256": "f1070340a45e9507ae7cd2cbc60ccf97bf5d9aa39a5470220ace3240a9a45f3c"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 43
+    },
+    {
+      "rank": 31,
+      "publication_id": "362618",
+      "publication": "Chop Wood, Carry Water",
+      "author_or_brand": "Jess Craven",
+      "ideology": "Left / progressive; provisional",
+      "coalition": "Democratic-aligned",
+      "organization": "Individual-led with guests",
+      "confidence": "High",
+      "rationale": "Explicitly works to elect Democratic candidates and supplies daily political actions. This is an organizing product rather than a general news agency.",
+      "source": {
+        "type": "public_about",
+        "url": "https://chopwoodcarrywaterdailyactions.substack.com/about",
+        "post_id": null,
+        "about_sha256": "f2f21608bf6cb0d7e9429cb6f16bf2e2198500ce7f0fe11401601dbe919ba0cb"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 209
+    },
+    {
+      "rank": 32,
+      "publication_id": "6832795",
+      "publication": "Raw America",
+      "author_or_brand": "Raw America",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Anti-Trump coalition",
+      "organization": "News/advocacy hybrid network",
+      "confidence": "Medium",
+      "rationale": "A named Raw Story/Really American network describes itself as a people-powered response to MAGA media ownership. Multiple staff and brand bylines make individual attribution difficult.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.rawamerica.com/about",
+        "post_id": null,
+        "about_sha256": "f70bf2eee7c817013ffe5666a5e2cc110871bf9ff29a052f60bab1a44bed7a45"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 66
+    },
+    {
+      "rank": 33,
+      "publication_id": "559646",
+      "publication": "The Good in Us by Mary L. Trump ",
+      "author_or_brand": "Mary L Trump",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Democratic-aligned, internally critical",
+      "organization": "Individual-led with guests",
+      "confidence": "Medium",
+      "rationale": "Urges Democratic leadership not to concede to Republicans. Many sampled records have missing bylines, so Mary Trump’s author identity cannot be assumed for all texts.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.marytrump.org/about",
+        "post_id": null,
+        "about_sha256": "243306bf8d6910ebe82dd3d8f8564e2ec7ce3c60cbf770b4c918f962ef047d72"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 207
+    },
+    {
+      "rank": 34,
+      "publication_id": "1887091",
+      "publication": "Rick Wilson’s Against All Enemies",
+      "author_or_brand": "Rick Wilson",
+      "ideology": "Conservative Republican origins; current policy range unconfirmed",
+      "coalition": "Anti-Trump coalition",
+      "organization": "Individual-led with guests",
+      "confidence": "High",
+      "rationale": "Explicitly rejects being a progressive or liberal, describes former Republican roots, and commits to fighting the current GOP. An important case where anti-Trump does not mean left.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.againstallenemies.net/about",
+        "post_id": null,
+        "about_sha256": "642c5e46c97c308a91ae5a0a6253db1bb28d9282e8a4e3087f219c91ca2561f1"
+      },
+      "summary_group": "Conservative origins with current policy range unresolved",
+      "captured_discussions": 164
+    },
+    {
+      "rank": 35,
+      "publication_id": "3117639",
+      "publication": "Pantsuit Politics",
+      "author_or_brand": "Pantsuit Politics",
+      "ideology": "Center-left / pluralist liberal; cohosts have cross-cutting positions",
+      "coalition": "Democratic electoral preference with internal disagreement",
+      "organization": "Small cohost/editorial team",
+      "confidence": "High",
+      "rationale": "Beth Silvers explicitly rejects identifying her conversational moderation with centrist policy views, describes welcoming immigration and left/libertarian criminal-justice positions, and calls a Democratic midterm victory imperative. Sarah identifies herself as a Democrat in a separate transcript. This resolves the broad outlet tendency while preserving differences between the cohosts; a shared tone is not a shared point on every issue.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.pantsuitpoliticsshow.com/p/the-resistance-and-the-moderates",
+        "post_id": "186090535",
+        "body_sha256": "96348e3db83a6f12bc68dbfea2d8304527b9ae53e241da20404e598b24650ca6"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 167
+    },
+    {
+      "rank": 36,
+      "publication_id": "2794840",
+      "publication": "Brian Tyler Cohen",
+      "author_or_brand": "Brian Tyler Cohen",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic-aligned",
+      "organization": "Individual-led with guests",
+      "confidence": "High",
+      "rationale": "About page explicitly calls the creator left; sampled essay advocates supporting even conservative Democrats over Republicans to secure governing power.",
+      "source": {
+        "type": "public_about",
+        "url": "https://plus.briantylercohen.com/about",
+        "post_id": null,
+        "about_sha256": "c7e9e8f3718e73db07ca6c13c2d7d9868c351da1c3e2dfe2cf2de514810b0155"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 121
+    },
+    {
+      "rank": 37,
+      "publication_id": "759524",
+      "publication": "To the Contrary",
+      "author_or_brand": "Charlie Sykes",
+      "ideology": "Right / center-right liberal conservative; anti-Trump",
+      "coalition": "Anti-Trump; explicit Harris endorsement despite policy disagreements",
+      "organization": "Individual-led with guests",
+      "confidence": "High",
+      "rationale": "In an interview republished on his own newsletter, Sykes says his conservative principles have not changed and specifically retains disagreements over tax policy and student debt while endorsing Harris on democratic grounds. His own commentary situates this within a conservative anti-Trump coalition, with later criticism of MAGA and attention to Democratic moderation. This is a clearer current center-right/conservative case than the initial sampled excerpts showed. It is not pro-Trump.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://charliesykes.substack.com/p/why-im-voting-for-kamala-harris",
+        "post_id": "150073840",
+        "body_sha256": "1a6c87c5eda471e4de8d8e4de9163c0ed4f4d8bb6b3da360dc53bc74de6681c0"
+      },
+      "summary_group": "Current right or conservative",
+      "captured_discussions": 178,
+      "comment_records": 23466
+    },
+    {
+      "rank": 38,
+      "publication_id": "302288",
+      "publication": "The Hartmann Report",
+      "author_or_brand": "Thom Hartmann",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic-friendly",
+      "organization": "Individual-led small editorial team",
+      "confidence": "High",
+      "rationale": "Explicit progressive politics mission and talk-show identity; policy commentary plus songs, book excerpts and collaborators require genre separation.",
+      "source": {
+        "type": "public_about",
+        "url": "https://hartmannreport.com/about",
+        "post_id": null,
+        "about_sha256": "efbfea04f9ec4746385ca9f55a06de1d2cce98d7f1076766b1546336b20d1940"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 207
+    },
+    {
+      "rank": 39,
+      "publication_id": "1162742",
+      "publication": "everyone is entitled to my own opinion ",
+      "author_or_brand": "Jeff Tiedrich",
+      "ideology": "Liberal polemical commentary; provisional",
+      "coalition": "Anti-Trump; party pledge not established",
+      "organization": "Individual-led newsletter",
+      "confidence": "Medium",
+      "rationale": "Explicitly attacks conservative politics, not just Trump personally. Insults and humorous labels are rhetorical style, not a numerical extremity scale.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.jefftiedrich.com/p/liars-drunks-and-violent-jerks-just",
+        "post_id": "138933615",
+        "about_sha256": "c81f0a089e7a311f0e8100268e6ced57baad14ab53585a20285ed70a2915a837"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 210
+    },
+    {
+      "rank": 40,
+      "publication_id": "5106560",
+      "publication": "Crooked Media",
+      "author_or_brand": "Crooked Media",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic-aligned",
+      "organization": "Partisan media/advocacy network",
+      "confidence": "High",
+      "rationale": "Explicitly funds progressive voices and ideas. The Pod Save America brand includes many distinct authors and formats.",
+      "source": {
+        "type": "public_about",
+        "url": "https://crookedmedia.substack.com/about",
+        "post_id": null,
+        "about_sha256": "90024d95f85d07c15f04fed59dbf6c62e0142a02367182beecf05ece89042d55"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 93
+    },
+    {
+      "rank": 41,
+      "publication_id": "5247799",
+      "publication": "The Argument",
+      "author_or_brand": "The Argument",
+      "ideology": "Center-left / liberal; exact economic position provisional",
+      "coalition": "Party pledge not established",
+      "organization": "Multi-author news/editorial outlet",
+      "confidence": "High",
+      "rationale": "Explicit mission makes a positive case for liberalism. Liberalism is not automatically equivalent to a Democratic party commitment, nor does it put all writers at the same policy point.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.theargumentmag.com/about",
+        "post_id": null,
+        "about_sha256": "6646a55024627b4f4c726f505c68fafbb7c64252d15ee14d7760bccb2c99ec25"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 93
+    },
+    {
+      "rank": 42,
+      "publication_id": "4559901",
+      "publication": "HOWL",
+      "author_or_brand": "Michael Wolff",
+      "ideology": "Insufficient policy evidence; strongly Trump-critical insider commentary",
+      "coalition": "Strongly Trump-critical; party commitment not established",
+      "organization": "Individual-led small editorial team",
+      "confidence": "Low",
+      "rationale": "The expanded reading establishes an oppositional stance toward Trump’s authoritarian behavior and a focus on insider reporting, personality and elite power. It does not provide a sufficiently broad affirmative position on redistribution, healthcare, immigration or other domains to distinguish left, center or a dissident right. Criticism of Fauci’s celebrity or Trump’s war management is not a policy platform. Keep broad ideology unclassified rather than inventing centrism.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://michaelwolffnyc.substack.com/p/welcome-to-howl-michaels-wolffs-substack",
+        "post_id": "176837718",
+        "body_sha256": "709804d70197863fd9f64d6895a4cebe567d18da956595e6263d98c09ebe7153"
+      },
+      "summary_group": "Unresolved",
+      "captured_discussions": 37
+    },
+    {
+      "rank": 43,
+      "publication_id": "6273",
+      "publication": "Strength In Numbers",
+      "author_or_brand": "G. Elliott Morris",
+      "ideology": "Center-left / liberal-democratic reformist; tentative",
+      "coalition": "Democratic-oriented electoral analysis; formal party identity not established",
+      "organization": "Individual-led with guests",
+      "confidence": "Medium",
+      "rationale": "The longer review combines explicit support for institutional reforms in the About page, an own-voice statement that Democrats should optimize their chances of winning, and a business/editorial account aligning the publication with evidence-based resistance to right-wing attacks on democracy. This supports a tentative center-left/liberal-democratic editorial placement. It is an inference about orientation, not a full policy score. Poll respondents’ preferences, projected Democratic wins and technical corrections are not themselves ideological evidence.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.gelliottmorris.com/p/2026-06-12-dem-voters-moderate-and-socialist",
+        "post_id": "201713923",
+        "body_sha256": "38b3b3adb5995acdfa2e2dafd6c3276663ca8b35f4176bdb962b49efc5bc1d6d"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 61
+    },
+    {
+      "rank": 44,
+      "publication_id": "262336",
+      "publication": "Proof",
+      "author_or_brand": "Seth Abramson",
+      "ideology": "Center-left / liberal; provisional",
+      "coalition": "Democratic-friendly",
+      "organization": "Individual-led newsletter",
+      "confidence": "Medium",
+      "rationale": "Additional sampled passage critiques punitive three-strikes policy and far-right claims; another defends Biden against a campaign attack. Current free-post coverage is sparse and most material is paid.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://sethabramson.substack.com/p/new-q-and-a-series-no-1-answering",
+        "post_id": "154152760",
+        "about_sha256": "a31429d9c89e3afd6d5dac00e811530121f08f2978cfe1f17070e61bb9ba56b3"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 39
+    },
+    {
+      "rank": 45,
+      "publication_id": "105260",
+      "publication": "The Beinart Notebook",
+      "author_or_brand": "Peter Beinart",
+      "ideology": "Left / progressive on Palestine and foreign policy",
+      "coalition": "Issue-based; party pledge not established",
+      "organization": "Individual-led with editor/guests",
+      "confidence": "High",
+      "rationale": "Explicit Palestinian-freedom mission and criticism of mainstream two-state rhetoric. It is a strong issue position, not a complete economic ideology or party identity.",
+      "source": {
+        "type": "public_about",
+        "url": "https://peterbeinart.substack.com/about",
+        "post_id": null,
+        "about_sha256": "d3a6d38c65803a16ba4bd2dd3e5e51a7f7a0148ad082a769953850be3733f053"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 117
+    },
+    {
+      "rank": 46,
+      "publication_id": "2686450",
+      "publication": "The Left Hook with Wajahat Ali",
+      "author_or_brand": "THE LEFT HOOK with Wajahat Ali",
+      "ideology": "Left / progressive",
+      "coalition": "Democratic electoral preference, internally critical",
+      "organization": "Individual-led with recurring contributors",
+      "confidence": "Medium",
+      "rationale": "Condemns Biden’s Palestine policy while arguing Trump would be worse. Critical electoral support and policy disagreement must remain separate dimensions.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://thelefthook.substack.com/p/lets-ask-trump-to-leave-the-race",
+        "post_id": "146102947",
+        "about_sha256": "7ff497aefb4eb006b88c1313e78e477331416a768f538f5387392d7ff25f423b"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 170
+    },
+    {
+      "rank": 47,
+      "publication_id": "7677",
+      "publication": "Ken Klippenstein",
+      "author_or_brand": "Ken Klippenstein",
+      "ideology": "Left-leaning / anti-establishment; provisional",
+      "coalition": "Critical of both; no party pledge",
+      "organization": "Small reporting team",
+      "confidence": "Medium",
+      "rationale": "Compares Trump, Harris and RFK on health-care failures and corporate power; national-security reporting is highly critical of executive power. About page identifies KlipNews and a named editor, so this is no longer safely treated as a wholly solo operation.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://www.kenklippenstein.com/p/rfks-appeal-should-not-be-overlooked",
+        "post_id": "148240727",
+        "about_sha256": "1dae9e7c2efda0dbe31774638f38f30ebfb4a8ed0985a4defe5fb38de9c0215c"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 189
+    },
+    {
+      "rank": 48,
+      "publication_id": "1783367",
+      "publication": "Wonkette",
+      "author_or_brand": "Rebecca Schoenkopf",
+      "ideology": "Left / liberal",
+      "coalition": "Party pledge not established",
+      "organization": "Multi-author news/editorial outlet",
+      "confidence": "High",
+      "rationale": "Explicitly identifies as liberal news and commentary with roughly a dozen daily stories. Humor does not make the whole outlet fictional satire in the Borowitz sense.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.wonkette.com/about",
+        "post_id": null,
+        "about_sha256": "4b7d5e51697db76c109ba61e9e6a14af7c6ab207812a2322eb3a7e87ee6e994b"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 210
+    },
+    {
+      "rank": 49,
+      "publication_id": "247754",
+      "publication": "The Huckabee Post",
+      "author_or_brand": "Huckabee Post",
+      "ideology": "Right / conservative",
+      "coalition": "Republican / pro-Trump",
+      "organization": "Partisan media/advocacy network",
+      "confidence": "High",
+      "rationale": "Explicit anticipation of Trump’s second term and a Huck PAC donation appeal. Names a writing/editing team and Blue Diamond Media ownership; a brand byline cannot identify Mike Huckabee as every article’s actual author.",
+      "source": {
+        "type": "public_about",
+        "url": "https://huckabeepost.substack.com/about",
+        "post_id": null,
+        "about_sha256": "fd95625b09e7084583861a2daa502e1a5de5c7948d66bff446a047522dea500d"
+      },
+      "summary_group": "Current right or conservative",
+      "captured_discussions": 6,
+      "comment_records": 140
+    },
+    {
+      "rank": 50,
+      "publication_id": "1198173",
+      "publication": "Ettingermentum Newsletter",
+      "author_or_brand": "ettingermentum",
+      "ideology": "Left / explicitly left-wing",
+      "coalition": "Party pledge not established",
+      "organization": "Individual-led with guests",
+      "confidence": "High",
+      "rationale": "Explicit left-wing perspective; anti-war critique of Trump’s cabinet does not imply uncritical Democratic loyalty.",
+      "source": {
+        "type": "public_about",
+        "url": "https://www.ettingermentum.news/about",
+        "post_id": null,
+        "about_sha256": "995e71970c5a1360c0d325f4ab4573b5fcda135acb409bada75c2da1419f4a4d"
+      },
+      "summary_group": "Broad left or liberal",
+      "captured_discussions": 18
+    }
+  ],
+  "right_comment_coverage": [
+    {
+      "rank": 23,
+      "publication_id": "61371",
+      "publication": "The Weekly Dish",
+      "author_or_brand": "Andrew Sullivan",
+      "ideology": "Right / conservative-leaning, heterodox; provisional",
+      "coalition": "Critical of both; no party pledge",
+      "organization": "Individual-led with editor",
+      "confidence": "Medium",
+      "rationale": "Criticism of gender-policy progressivism and Biden coexists with extensive criticism of Trump’s executive power and election conduct. About page institutionalizes an edited dissent section; email selection is not the same as open comments.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://andrewsullivan.substack.com/p/the-tq-threat-to-lgb-rights",
+        "post_id": "200064657",
+        "about_sha256": "4c1fd9e8121661ba42da3dfbebed96a5d260e5755b33ebe82a51e6909292e1a8"
+      },
+      "summary_group": "Current right or conservative",
+      "captured_discussions": 0,
+      "comment_records": 0
+    },
+    {
+      "rank": 37,
+      "publication_id": "759524",
+      "publication": "To the Contrary",
+      "author_or_brand": "Charlie Sykes",
+      "ideology": "Right / center-right liberal conservative; anti-Trump",
+      "coalition": "Anti-Trump; explicit Harris endorsement despite policy disagreements",
+      "organization": "Individual-led with guests",
+      "confidence": "High",
+      "rationale": "In an interview republished on his own newsletter, Sykes says his conservative principles have not changed and specifically retains disagreements over tax policy and student debt while endorsing Harris on democratic grounds. His own commentary situates this within a conservative anti-Trump coalition, with later criticism of MAGA and attention to Democratic moderation. This is a clearer current center-right/conservative case than the initial sampled excerpts showed. It is not pro-Trump.",
+      "source": {
+        "type": "saved_post",
+        "url": "https://charliesykes.substack.com/p/why-im-voting-for-kamala-harris",
+        "post_id": "150073840",
+        "body_sha256": "1a6c87c5eda471e4de8d8e4de9163c0ed4f4d8bb6b3da360dc53bc74de6681c0"
+      },
+      "summary_group": "Current right or conservative",
+      "captured_discussions": 178,
+      "comment_records": 23466
+    },
+    {
+      "rank": 49,
+      "publication_id": "247754",
+      "publication": "The Huckabee Post",
+      "author_or_brand": "Huckabee Post",
+      "ideology": "Right / conservative",
+      "coalition": "Republican / pro-Trump",
+      "organization": "Partisan media/advocacy network",
+      "confidence": "High",
+      "rationale": "Explicit anticipation of Trump’s second term and a Huck PAC donation appeal. Names a writing/editing team and Blue Diamond Media ownership; a brand byline cannot identify Mike Huckabee as every article’s actual author.",
+      "source": {
+        "type": "public_about",
+        "url": "https://huckabeepost.substack.com/about",
+        "post_id": null,
+        "about_sha256": "fd95625b09e7084583861a2daa502e1a5de5c7948d66bff446a047522dea500d"
+      },
+      "summary_group": "Current right or conservative",
+      "captured_discussions": 6,
+      "comment_records": 140
+    }
+  ],
+  "data_rule": "Saved-source provisional classification only; expanded manual review of twelve previously unresolved publications. Other thirty-eight classifications retained. No model API, new scraping or live ideology reassessment. No independent human validation.",
+  "expanded_review_file": "Substack_Unresolved_Alignment_Review.json",
+  "sensitivity": {
+    "Silver_grouped_broad_liberal": {
+      "broad_left_liberal": 40,
+      "center_moderate_liberal": 0
+    },
+    "McMahon_and_Morris_retained_unclassified": {
+      "broad_left_liberal": 37,
+      "unresolved": 3
+    }
+  }
+}
