@@ -1,0 +1,828 @@
+{
+  "checked_at_utc": "2026-10-19T19:03:17.864150+00:00",
+  "scope": "All eleven previously flagged interior zero-post months across the four affected publications retained in the combined sixty.",
+  "result": "All eleven months are also empty in the currently accessible live public archives. No missing original post was found in these months or elsewhere within the study window for these four publications.",
+  "method": "Fresh public archive HTML plus complete anonymous archive-list pagination to empty endpoints. Unlike the original /api/v1/posts collector, this used /api/v1/archive?sort=new, advancing offsets by the actual returned page length (the first pages returned 23 items, later pages up to 50). Also checked all four publisher-declared sitemaps, all neighboring dated post pages, and all sitemap /p/ URLs absent from the archive listing. Dates/months use America/New_York. No credentials or paid access were used.",
+  "checked_months": 11,
+  "months_with_live_archive_posts": 0,
+  "missing_original_posts_found": 0,
+  "saved_original_posts_matched": 809,
+  "additional_restacks_excluded": 2,
+  "standing_pages_checked": 8,
+  "neighboring_post_pages_checked": 15,
+  "archive_pages_checked": 30,
+  "successful_fresh_requests": 65,
+  "request_manifest_sha256": "7efbcf3697bdb0322a230268c5aa18959e1fd18f984b8663565910828e755930",
+  "rows": [
+    {
+      "rank": 36,
+      "publication_id": "2794840",
+      "publication": "Brian Tyler Cohen",
+      "source": "https://plus.briantylercohen.com/archive",
+      "checked_at_utc": "2026-10-19T18:58:59.686085+00:00",
+      "method": "Fresh anonymous public archive listing, sort=new, offsets advanced by actual returned page length, independent of the original /api/v1/posts endpoint.",
+      "terminal_reason": "endpoint_empty",
+      "pages": [
+        {
+          "offset": 0,
+          "returned": 23,
+          "new_unique": 23,
+          "url": "https://plus.briantylercohen.com/api/v1/archive?sort=new&search=&offset=0&limit=50",
+          "first_date": "2026-10-18T13:46:35.517000+00:00",
+          "last_date": "2026-07-25T05:22:03.363000+00:00"
+        },
+        {
+          "offset": 23,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://plus.briantylercohen.com/api/v1/archive?sort=new&search=&offset=23&limit=50",
+          "first_date": "2026-07-18T19:42:55.317000+00:00",
+          "last_date": "2026-03-04T00:26:34.181000+00:00"
+        },
+        {
+          "offset": 73,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://plus.briantylercohen.com/api/v1/archive?sort=new&search=&offset=73&limit=50",
+          "first_date": "2026-02-28T23:52:48.865000+00:00",
+          "last_date": "2025-04-02T20:36:12.217000+00:00"
+        },
+        {
+          "offset": 123,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://plus.briantylercohen.com/api/v1/archive?sort=new&search=&offset=123&limit=50",
+          "first_date": "2025-03-31T12:04:31.351000+00:00",
+          "last_date": "2024-08-20T02:10:39.431000+00:00"
+        },
+        {
+          "offset": 173,
+          "returned": 5,
+          "new_unique": 5,
+          "url": "https://plus.briantylercohen.com/api/v1/archive?sort=new&search=&offset=173&limit=50",
+          "first_date": "2024-08-13T22:30:11.309000+00:00",
+          "last_date": "2024-07-16T03:37:48.011000+00:00"
+        },
+        {
+          "offset": 178,
+          "returned": 0,
+          "new_unique": 0,
+          "url": "https://plus.briantylercohen.com/api/v1/archive?sort=new&search=&offset=178&limit=50",
+          "first_date": null,
+          "last_date": null
+        }
+      ],
+      "months": [
+        {
+          "month": "2025-10",
+          "live_archive_posts": 0,
+          "new_post_ids_missing_from_database": [],
+          "posts": [],
+          "nearest_before": {
+            "post_id": "174223205",
+            "title": "Disney gets what it deserves amid Kimmel cancellation",
+            "post_date": "2025-09-22T18:11:14.094Z",
+            "url": "https://plus.briantylercohen.com/p/disney-gets-what-it-deserves-amid",
+            "already_saved": true
+          },
+          "nearest_after": {
+            "post_id": "178440277",
+            "title": "Snatching defeat from the jaws of victory",
+            "post_date": "2025-11-11T13:03:43.629Z",
+            "url": "https://plus.briantylercohen.com/p/snatching-defeat-from-the-jaws-of",
+            "already_saved": true
+          }
+        }
+      ],
+      "live_archive_unique_items_all_dates": 178,
+      "saved_in_window_posts": 178,
+      "live_in_window_original_posts": 178,
+      "saved_original_post_ids_equal_live_original_post_ids": true,
+      "missing_original_posts": [],
+      "additional_restacks_excluded": [],
+      "sitemap_url": "https://plus.briantylercohen.com/sitemap.xml",
+      "sitemap_entries": 182,
+      "sitemap_post_urls_absent_from_archive_checked_as_standing_pages": [
+        {
+          "url": "https://plus.briantylercohen.com/p/faq",
+          "reason": "sitemap URL absent from live archive",
+          "post_id": "199527349",
+          "post_date": "2026-05-27T22:21:39.801Z",
+          "type": "page",
+          "title": "FAQ",
+          "publication_id": 2794840,
+          "html_sha256": "26676ced3ffe338f6422ba617a1c033dc8d56267a3960b1fb0644a6723321195"
+        }
+      ],
+      "neighboring_post_page_checks": [
+        {
+          "url": "https://plus.briantylercohen.com/p/disney-gets-what-it-deserves-amid",
+          "reason": "neighboring dated post",
+          "post_id": "174223205",
+          "post_date": "2025-09-22T18:11:14.094Z",
+          "type": "newsletter",
+          "title": "Disney gets what it deserves amid Kimmel cancellation",
+          "publication_id": 2794840,
+          "html_sha256": "5425be1bb20b466b11c9415724990b7a2e3b3ee958d8a36e5fd2b8af0c8fd685"
+        },
+        {
+          "url": "https://plus.briantylercohen.com/p/snatching-defeat-from-the-jaws-of",
+          "reason": "neighboring dated post",
+          "post_id": "178440277",
+          "post_date": "2025-11-11T13:03:43.629Z",
+          "type": "newsletter",
+          "title": "Snatching defeat from the jaws of victory",
+          "publication_id": 2794840,
+          "html_sha256": "c5aca92c753592367ac24b0db493a059df1d34bd2a73670325c3dec229030fa0"
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "publication_id": "320974",
+      "publication": "Michael Moore",
+      "source": "https://www.michaelmoore.com/archive",
+      "checked_at_utc": "2026-10-19T19:00:44.638012+00:00",
+      "method": "Fresh anonymous public archive listing, sort=new, offsets advanced by actual returned page length, independent of the original /api/v1/posts endpoint.",
+      "terminal_reason": "endpoint_empty",
+      "pages": [
+        {
+          "offset": 0,
+          "returned": 23,
+          "new_unique": 23,
+          "url": "https://www.michaelmoore.com/api/v1/archive?sort=new&search=&offset=0&limit=50",
+          "first_date": "2026-09-28T00:41:43.235000+00:00",
+          "last_date": "2025-11-02T02:42:08.846000+00:00"
+        },
+        {
+          "offset": 23,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://www.michaelmoore.com/api/v1/archive?sort=new&search=&offset=23&limit=50",
+          "first_date": "2025-10-28T14:39:09.476000+00:00",
+          "last_date": "2024-11-04T03:07:55.760000+00:00"
+        },
+        {
+          "offset": 73,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://www.michaelmoore.com/api/v1/archive?sort=new&search=&offset=73&limit=50",
+          "first_date": "2024-11-04T00:18:30.016000+00:00",
+          "last_date": "2024-08-01T01:13:02.411000+00:00"
+        },
+        {
+          "offset": 123,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://www.michaelmoore.com/api/v1/archive?sort=new&search=&offset=123&limit=50",
+          "first_date": "2024-07-31T10:02:14.988000+00:00",
+          "last_date": "2023-08-14T11:48:01.407000+00:00"
+        },
+        {
+          "offset": 173,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://www.michaelmoore.com/api/v1/archive?sort=new&search=&offset=173&limit=50",
+          "first_date": "2023-08-06T19:50:20.349000+00:00",
+          "last_date": "2022-12-17T02:27:37.621000+00:00"
+        },
+        {
+          "offset": 223,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://www.michaelmoore.com/api/v1/archive?sort=new&search=&offset=223&limit=50",
+          "first_date": "2022-12-13T12:55:55.943000+00:00",
+          "last_date": "2022-10-01T14:00:21.535000+00:00"
+        },
+        {
+          "offset": 273,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://www.michaelmoore.com/api/v1/archive?sort=new&search=&offset=273&limit=50",
+          "first_date": "2022-09-30T12:02:05.119000+00:00",
+          "last_date": "2022-03-11T15:47:25.555000+00:00"
+        },
+        {
+          "offset": 323,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://www.michaelmoore.com/api/v1/archive?sort=new&search=&offset=323&limit=50",
+          "first_date": "2022-03-03T00:40:13.065000+00:00",
+          "last_date": "2021-10-07T19:57:15.321000+00:00"
+        },
+        {
+          "offset": 373,
+          "returned": 26,
+          "new_unique": 26,
+          "url": "https://www.michaelmoore.com/api/v1/archive?sort=new&search=&offset=373&limit=50",
+          "first_date": "2021-10-03T19:42:19.907000+00:00",
+          "last_date": "2021-08-17T15:01:59.275000+00:00"
+        },
+        {
+          "offset": 399,
+          "returned": 0,
+          "new_unique": 0,
+          "url": "https://www.michaelmoore.com/api/v1/archive?sort=new&search=&offset=399&limit=50",
+          "first_date": null,
+          "last_date": null
+        }
+      ],
+      "months": [
+        {
+          "month": "2025-07",
+          "live_archive_posts": 0,
+          "new_post_ids_missing_from_database": [],
+          "posts": [],
+          "nearest_before": {
+            "post_id": "166569936",
+            "title": "Hey New Yorkers — VOTE TOMORROW!",
+            "post_date": "2025-06-23T05:22:01.123Z",
+            "url": "https://www.michaelmoore.com/p/hey-new-yorkers-vote-tomorrow",
+            "already_saved": true
+          },
+          "nearest_after": {
+            "post_id": "170690470",
+            "title": "He’s a 33-year-old Pro-Palestine Muslim Who’s Winning the Jewish Vote, a Democratic Socialist Whom Every Dem Party Leader in NY Has Refused to Endorse, and a U.S. Citizen for Only 7 Years!",
+            "post_date": "2025-08-12T18:53:40.029Z",
+            "url": "https://www.michaelmoore.com/p/hes-a-33-year-old-pro-palestine-muslim",
+            "already_saved": true
+          }
+        },
+        {
+          "month": "2026-02",
+          "live_archive_posts": 0,
+          "new_post_ids_missing_from_database": [],
+          "posts": [],
+          "nearest_before": {
+            "post_id": "184088790",
+            "title": "APPLY HEAT, MELT ICE — This Weekend, We Protest Everywhere!",
+            "post_date": "2026-01-10T03:06:27.564Z",
+            "url": "https://www.michaelmoore.com/p/apply-heat-melt-ice-this-weekend",
+            "already_saved": true
+          },
+          "nearest_after": {
+            "post_id": "193500820",
+            "title": "The Apocalypse Is Here",
+            "post_date": "2026-04-07T22:04:23.902Z",
+            "url": "https://www.michaelmoore.com/p/the-apocalypse-is-here",
+            "already_saved": true
+          }
+        },
+        {
+          "month": "2026-03",
+          "live_archive_posts": 0,
+          "new_post_ids_missing_from_database": [],
+          "posts": [],
+          "nearest_before": {
+            "post_id": "184088790",
+            "title": "APPLY HEAT, MELT ICE — This Weekend, We Protest Everywhere!",
+            "post_date": "2026-01-10T03:06:27.564Z",
+            "url": "https://www.michaelmoore.com/p/apply-heat-melt-ice-this-weekend",
+            "already_saved": true
+          },
+          "nearest_after": {
+            "post_id": "193500820",
+            "title": "The Apocalypse Is Here",
+            "post_date": "2026-04-07T22:04:23.902Z",
+            "url": "https://www.michaelmoore.com/p/the-apocalypse-is-here",
+            "already_saved": true
+          }
+        },
+        {
+          "month": "2026-05",
+          "live_archive_posts": 0,
+          "new_post_ids_missing_from_database": [],
+          "posts": [],
+          "nearest_before": {
+            "post_id": "193500820",
+            "title": "The Apocalypse Is Here",
+            "post_date": "2026-04-07T22:04:23.902Z",
+            "url": "https://www.michaelmoore.com/p/the-apocalypse-is-here",
+            "already_saved": true
+          },
+          "nearest_after": {
+            "post_id": "196857573",
+            "title": "Watch SUFFS on PBS' Great Performances ",
+            "post_date": "2026-07-04T05:05:00.260Z",
+            "url": "https://www.michaelmoore.com/p/watch-suffs-on-pbs-great-performances",
+            "already_saved": true
+          }
+        },
+        {
+          "month": "2026-06",
+          "live_archive_posts": 0,
+          "new_post_ids_missing_from_database": [],
+          "posts": [],
+          "nearest_before": {
+            "post_id": "193500820",
+            "title": "The Apocalypse Is Here",
+            "post_date": "2026-04-07T22:04:23.902Z",
+            "url": "https://www.michaelmoore.com/p/the-apocalypse-is-here",
+            "already_saved": true
+          },
+          "nearest_after": {
+            "post_id": "196857573",
+            "title": "Watch SUFFS on PBS' Great Performances ",
+            "post_date": "2026-07-04T05:05:00.260Z",
+            "url": "https://www.michaelmoore.com/p/watch-suffs-on-pbs-great-performances",
+            "already_saved": true
+          }
+        }
+      ],
+      "live_archive_unique_items_all_dates": 399,
+      "saved_in_window_posts": 160,
+      "live_in_window_original_posts": 160,
+      "saved_original_post_ids_equal_live_original_post_ids": true,
+      "missing_original_posts": [],
+      "additional_restacks_excluded": [],
+      "sitemap_url": "https://www.michaelmoore.com/sitemap.xml",
+      "sitemap_entries": 402,
+      "sitemap_post_urls_absent_from_archive_checked_as_standing_pages": [],
+      "neighboring_post_page_checks": [
+        {
+          "url": "https://www.michaelmoore.com/p/hey-new-yorkers-vote-tomorrow",
+          "reason": "neighboring dated post",
+          "post_id": "166569936",
+          "post_date": "2025-06-23T05:22:01.123Z",
+          "type": "newsletter",
+          "title": "Hey New Yorkers — VOTE TOMORROW!",
+          "publication_id": 320974,
+          "html_sha256": "c2cb3f9ec2b66a35eb80eb3f5721b983dbc3f031731f87a4be7ea0bb81da284c"
+        },
+        {
+          "url": "https://www.michaelmoore.com/p/hes-a-33-year-old-pro-palestine-muslim",
+          "reason": "neighboring dated post",
+          "post_id": "170690470",
+          "post_date": "2025-08-12T18:53:40.029Z",
+          "type": "newsletter",
+          "title": "He’s a 33-year-old Pro-Palestine Muslim Who’s Winning the Jewish Vote, a Democratic Socialist Whom Every Dem Party Leader in NY Has Refused to Endorse, and a U.S. Citizen for Only 7 Years!",
+          "publication_id": 320974,
+          "html_sha256": "c1d5b5b4e93e206d5d645e95875970009a9d8a929bc17e1129eb54b391f27b02"
+        },
+        {
+          "url": "https://www.michaelmoore.com/p/apply-heat-melt-ice-this-weekend",
+          "reason": "neighboring dated post",
+          "post_id": "184088790",
+          "post_date": "2026-01-10T03:06:27.564Z",
+          "type": "newsletter",
+          "title": "APPLY HEAT, MELT ICE — This Weekend, We Protest Everywhere!",
+          "publication_id": 320974,
+          "html_sha256": "57117258b06a7dee508c91f04289a37af30178fc494de194e8ddfd2ebac07cde"
+        },
+        {
+          "url": "https://www.michaelmoore.com/p/the-apocalypse-is-here",
+          "reason": "neighboring dated post",
+          "post_id": "193500820",
+          "post_date": "2026-04-07T22:04:23.902Z",
+          "type": "newsletter",
+          "title": "The Apocalypse Is Here",
+          "publication_id": 320974,
+          "html_sha256": "813b4ac9cd838111580a39dd7882ffd8e2ccb919d9e31b7965e70a21cb0f0d95"
+        },
+        {
+          "url": "https://www.michaelmoore.com/p/watch-suffs-on-pbs-great-performances",
+          "reason": "neighboring dated post",
+          "post_id": "196857573",
+          "post_date": "2026-07-04T05:05:00.260Z",
+          "type": "newsletter",
+          "title": "Watch SUFFS on PBS' Great Performances ",
+          "publication_id": 320974,
+          "html_sha256": "8e4b1405c675214cc3aaf3eca1555eb2eba627be4302a5173463505cb08438a8"
+        }
+      ]
+    },
+    {
+      "rank": 63,
+      "publication_id": "1790706",
+      "publication": "The Pugilist with Alisa Valdes-Rodriguez",
+      "source": "https://alisav.substack.com/archive",
+      "checked_at_utc": "2026-10-19T18:59:26.954918+00:00",
+      "method": "Fresh anonymous public archive listing, sort=new, offsets advanced by actual returned page length, independent of the original /api/v1/posts endpoint.",
+      "terminal_reason": "endpoint_empty",
+      "pages": [
+        {
+          "offset": 0,
+          "returned": 23,
+          "new_unique": 23,
+          "url": "https://alisav.substack.com/api/v1/archive?sort=new&search=&offset=0&limit=50",
+          "first_date": "2026-10-19T16:45:05.678000+00:00",
+          "last_date": "2026-09-24T03:01:02.557000+00:00"
+        },
+        {
+          "offset": 23,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://alisav.substack.com/api/v1/archive?sort=new&search=&offset=23&limit=50",
+          "first_date": "2026-09-23T16:00:49.631000+00:00",
+          "last_date": "2026-06-30T14:18:41.523000+00:00"
+        },
+        {
+          "offset": 73,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://alisav.substack.com/api/v1/archive?sort=new&search=&offset=73&limit=50",
+          "first_date": "2026-06-30T00:53:19.025000+00:00",
+          "last_date": "2026-04-12T17:26:07.416000+00:00"
+        },
+        {
+          "offset": 123,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://alisav.substack.com/api/v1/archive?sort=new&search=&offset=123&limit=50",
+          "first_date": "2026-04-10T23:05:44.087000+00:00",
+          "last_date": "2026-02-18T17:33:29.812000+00:00"
+        },
+        {
+          "offset": 173,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://alisav.substack.com/api/v1/archive?sort=new&search=&offset=173&limit=50",
+          "first_date": "2026-02-18T00:31:10.962000+00:00",
+          "last_date": "2025-11-21T17:06:39.201000+00:00"
+        },
+        {
+          "offset": 223,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://alisav.substack.com/api/v1/archive?sort=new&search=&offset=223&limit=50",
+          "first_date": "2025-11-20T00:20:40.760000+00:00",
+          "last_date": "2025-09-11T05:12:52.142000+00:00"
+        },
+        {
+          "offset": 273,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://alisav.substack.com/api/v1/archive?sort=new&search=&offset=273&limit=50",
+          "first_date": "2025-09-10T16:23:27.404000+00:00",
+          "last_date": "2025-07-12T23:39:01.632000+00:00"
+        },
+        {
+          "offset": 323,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://alisav.substack.com/api/v1/archive?sort=new&search=&offset=323&limit=50",
+          "first_date": "2025-07-04T16:35:19.325000+00:00",
+          "last_date": "2025-03-14T16:44:18.873000+00:00"
+        },
+        {
+          "offset": 373,
+          "returned": 50,
+          "new_unique": 50,
+          "url": "https://alisav.substack.com/api/v1/archive?sort=new&search=&offset=373&limit=50",
+          "first_date": "2025-03-13T15:35:32.756000+00:00",
+          "last_date": "2024-06-28T16:15:09.911000+00:00"
+        },
+        {
+          "offset": 423,
+          "returned": 3,
+          "new_unique": 3,
+          "url": "https://alisav.substack.com/api/v1/archive?sort=new&search=&offset=423&limit=50",
+          "first_date": "2024-06-27T20:31:01.643000+00:00",
+          "last_date": "2023-07-09T19:23:08.297000+00:00"
+        },
+        {
+          "offset": 426,
+          "returned": 0,
+          "new_unique": 0,
+          "url": "https://alisav.substack.com/api/v1/archive?sort=new&search=&offset=426&limit=50",
+          "first_date": null,
+          "last_date": null
+        }
+      ],
+      "months": [
+        {
+          "month": "2024-09",
+          "live_archive_posts": 0,
+          "new_post_ids_missing_from_database": [],
+          "posts": [],
+          "nearest_before": {
+            "post_id": "147932058",
+            "title": "Is Chasing Success Ruining Your Life?",
+            "post_date": "2024-08-20T17:10:40.945Z",
+            "url": "https://alisav.substack.com/p/is-chasing-success-ruining-your-life",
+            "already_saved": true
+          },
+          "nearest_after": {
+            "post_id": "151123459",
+            "title": "Why UCP Withdrew from Developing My Novel ",
+            "post_date": "2024-11-03T19:04:32.970Z",
+            "url": "https://alisav.substack.com/p/why-ucp-withdrew-from-developing",
+            "already_saved": true
+          }
+        },
+        {
+          "month": "2024-10",
+          "live_archive_posts": 0,
+          "new_post_ids_missing_from_database": [],
+          "posts": [],
+          "nearest_before": {
+            "post_id": "147932058",
+            "title": "Is Chasing Success Ruining Your Life?",
+            "post_date": "2024-08-20T17:10:40.945Z",
+            "url": "https://alisav.substack.com/p/is-chasing-success-ruining-your-life",
+            "already_saved": true
+          },
+          "nearest_after": {
+            "post_id": "151123459",
+            "title": "Why UCP Withdrew from Developing My Novel ",
+            "post_date": "2024-11-03T19:04:32.970Z",
+            "url": "https://alisav.substack.com/p/why-ucp-withdrew-from-developing",
+            "already_saved": true
+          }
+        }
+      ],
+      "live_archive_unique_items_all_dates": 426,
+      "saved_in_window_posts": 423,
+      "live_in_window_original_posts": 423,
+      "saved_original_post_ids_equal_live_original_post_ids": true,
+      "missing_original_posts": [],
+      "additional_restacks_excluded": [
+        {
+          "post_id": "165124123",
+          "title": "Lunch With My Garbage Niece Who Thinks She’s All Bad",
+          "post_date": "2025-06-03T18:52:54.822Z",
+          "url": "https://alisav.substack.com/cp/165124123",
+          "type": "restack",
+          "reason": "Restack entry; excluded from original-post corpus, not a missed authored post."
+        }
+      ],
+      "sitemap_url": "https://alisav.substack.com/sitemap.xml",
+      "sitemap_entries": 429,
+      "sitemap_post_urls_absent_from_archive_checked_as_standing_pages": [],
+      "neighboring_post_page_checks": [
+        {
+          "url": "https://alisav.substack.com/p/is-chasing-success-ruining-your-life",
+          "reason": "neighboring dated post",
+          "post_id": "147932058",
+          "post_date": "2024-08-20T17:10:40.945Z",
+          "type": "newsletter",
+          "title": "Is Chasing Success Ruining Your Life?",
+          "publication_id": 1790706,
+          "html_sha256": "29b84f6e84c7f0d9b89536850e9728759aa3674c0a6a03e3928fb677671d8c0d"
+        },
+        {
+          "url": "https://alisav.substack.com/p/why-ucp-withdrew-from-developing",
+          "reason": "neighboring dated post",
+          "post_id": "151123459",
+          "post_date": "2024-11-03T19:04:32.970Z",
+          "type": "newsletter",
+          "title": "Why UCP Withdrew from Developing My Novel ",
+          "publication_id": 1790706,
+          "html_sha256": "dce79db4b4016dd4d015ae84ef8ccaa95b3ab95a70fb6bb24d239ffbeee5e935"
+        }
+      ]
+    },
+    {
+      "rank": 80,
+      "publication_id": "4408534",
+      "publication": "Lawyer Oyer",
+      "source": "https://www.lawyeroyer.com/archive",
+      "checked_at_utc": "2026-10-19T18:59:30.420184+00:00",
+      "method": "Fresh anonymous public archive listing, sort=new, offsets advanced by actual returned page length, independent of the original /api/v1/posts endpoint.",
+      "terminal_reason": "endpoint_empty",
+      "pages": [
+        {
+          "offset": 0,
+          "returned": 23,
+          "new_unique": 23,
+          "url": "https://www.lawyeroyer.com/api/v1/archive?sort=new&search=&offset=0&limit=50",
+          "first_date": "2026-10-09T19:31:42.976000+00:00",
+          "last_date": "2026-01-08T15:44:42.543000+00:00"
+        },
+        {
+          "offset": 23,
+          "returned": 26,
+          "new_unique": 26,
+          "url": "https://www.lawyeroyer.com/api/v1/archive?sort=new&search=&offset=23&limit=50",
+          "first_date": "2025-12-05T18:41:00.289000+00:00",
+          "last_date": "2025-05-14T16:54:25.966000+00:00"
+        },
+        {
+          "offset": 49,
+          "returned": 0,
+          "new_unique": 0,
+          "url": "https://www.lawyeroyer.com/api/v1/archive?sort=new&search=&offset=49&limit=50",
+          "first_date": null,
+          "last_date": null
+        }
+      ],
+      "months": [
+        {
+          "month": "2025-08",
+          "live_archive_posts": 0,
+          "new_post_ids_missing_from_database": [],
+          "posts": [],
+          "nearest_before": {
+            "post_id": "169681014",
+            "title": "Live with Liz Oyer: Will Trump Pardon Ghislaine Maxwell?",
+            "post_date": "2025-07-30T19:52:27.940Z",
+            "url": "https://www.lawyeroyer.com/p/live-with-liz-oyer-will-trump-pardon",
+            "already_saved": true
+          },
+          "nearest_after": {
+            "post_id": "173139792",
+            "title": "Six months post-firing",
+            "post_date": "2025-09-08T23:46:36.549Z",
+            "url": "https://www.lawyeroyer.com/p/six-months-post-firing",
+            "already_saved": true
+          }
+        },
+        {
+          "month": "2025-10",
+          "live_archive_posts": 0,
+          "new_post_ids_missing_from_database": [],
+          "posts": [],
+          "nearest_before": {
+            "post_id": "174631847",
+            "title": "Live with Katie Couric",
+            "post_date": "2025-09-26T18:32:17.149Z",
+            "url": "https://www.lawyeroyer.com/p/live-with-katie-couric",
+            "already_saved": true
+          },
+          "nearest_after": {
+            "post_id": "177801169",
+            "title": "Public Defenders Will Save Us",
+            "post_date": "2025-11-02T16:20:20.394Z",
+            "url": "https://www.lawyeroyer.com/p/public-defenders-will-save-us",
+            "already_saved": true
+          }
+        },
+        {
+          "month": "2026-08",
+          "live_archive_posts": 0,
+          "new_post_ids_missing_from_database": [],
+          "posts": [],
+          "nearest_before": {
+            "post_id": "208251866",
+            "title": "Todd Blanche's confirmation hearing: a conversation with Liz Oyer",
+            "post_date": "2026-07-23T20:40:47.521Z",
+            "url": "https://www.lawyeroyer.com/p/todd-blanches-confirmation-hearing",
+            "already_saved": true
+          },
+          "nearest_after": {
+            "post_id": "214571406",
+            "title": "Trump’s Secret Pardons",
+            "post_date": "2026-09-08T20:31:52.514Z",
+            "url": "https://www.lawyeroyer.com/p/trumps-secret-pardons",
+            "already_saved": true
+          }
+        }
+      ],
+      "live_archive_unique_items_all_dates": 49,
+      "saved_in_window_posts": 48,
+      "live_in_window_original_posts": 48,
+      "saved_original_post_ids_equal_live_original_post_ids": true,
+      "missing_original_posts": [],
+      "additional_restacks_excluded": [
+        {
+          "post_id": "185193203",
+          "title": "Do ICE Agents Have Absolute Immunity?",
+          "post_date": "2026-01-20T15:45:20.738Z",
+          "url": "https://thepreamble.com/cp/185193203",
+          "type": "restack",
+          "reason": "Restack entry; excluded from original-post corpus, not a missed authored post."
+        }
+      ],
+      "sitemap_url": "https://www.lawyeroyer.com/sitemap.xml",
+      "sitemap_entries": 59,
+      "sitemap_post_urls_absent_from_archive_checked_as_standing_pages": [
+        {
+          "url": "https://www.lawyeroyer.com/p/testimony",
+          "reason": "sitemap URL absent from live archive",
+          "post_id": "162624103",
+          "post_date": "2025-05-14T16:52:43.934Z",
+          "type": "page",
+          "title": "Speeches & Testimony",
+          "publication_id": 4408534,
+          "html_sha256": "e2fc734fe23009e0f47fcab7acd93c2ea6466b8703c896f7112b2c74d27938a4"
+        },
+        {
+          "url": "https://www.lawyeroyer.com/p/radio-and-podcast",
+          "reason": "sitemap URL absent from live archive",
+          "post_id": "162654613",
+          "post_date": "2025-05-14T16:52:09.918Z",
+          "type": "page",
+          "title": "Radio & Podcast",
+          "publication_id": 4408534,
+          "html_sha256": "39d3b3973c784422552ee3556555a279e2e7c95aa252424db2bd3587d02a6d5a"
+        },
+        {
+          "url": "https://www.lawyeroyer.com/p/television",
+          "reason": "sitemap URL absent from live archive",
+          "post_id": "162578100",
+          "post_date": "2025-05-14T16:51:44.433Z",
+          "type": "page",
+          "title": "Television",
+          "publication_id": 4408534,
+          "html_sha256": "7abce8451defae8e1b3180e83522bdcca20d394252a7698fe480cab76da70883"
+        },
+        {
+          "url": "https://www.lawyeroyer.com/p/socials",
+          "reason": "sitemap URL absent from live archive",
+          "post_id": "162657217",
+          "post_date": "2025-05-14T16:51:08.369Z",
+          "type": "page",
+          "title": "Socials",
+          "publication_id": 4408534,
+          "html_sha256": "0c25d212aedb0a9353222db877fcb4368ec7b507c408e40aa515857b362c933d"
+        },
+        {
+          "url": "https://www.lawyeroyer.com/p/litigation",
+          "reason": "sitemap URL absent from live archive",
+          "post_id": "162585761",
+          "post_date": "2025-05-14T16:50:43.377Z",
+          "type": "page",
+          "title": "Litigation",
+          "publication_id": 4408534,
+          "html_sha256": "c5907930c310f266de0505daf9fd24beb4f73982a43e3b8c185fdf3aaafe7ecd"
+        },
+        {
+          "url": "https://www.lawyeroyer.com/p/pardon-trackers",
+          "reason": "sitemap URL absent from live archive",
+          "post_id": "163409819",
+          "post_date": "2025-05-14T16:50:10.654Z",
+          "type": "page",
+          "title": "Pardon Trackers",
+          "publication_id": 4408534,
+          "html_sha256": "18e80f5ddaf149341b1fe64607c150dbe3d1158723325d9ece03832446f719e5"
+        },
+        {
+          "url": "https://www.lawyeroyer.com/p/print",
+          "reason": "sitemap URL absent from live archive",
+          "post_id": "162652155",
+          "post_date": "2025-05-14T16:49:29.180Z",
+          "type": "page",
+          "title": "Print",
+          "publication_id": 4408534,
+          "html_sha256": "1a48c580e080c958091615b7b171c47567a0a898d5681ff41e01ebf127f0539f"
+        }
+      ],
+      "neighboring_post_page_checks": [
+        {
+          "url": "https://www.lawyeroyer.com/p/live-with-liz-oyer-will-trump-pardon",
+          "reason": "neighboring dated post",
+          "post_id": "169681014",
+          "post_date": "2025-07-30T19:52:27.940Z",
+          "type": "podcast",
+          "title": "Live with Liz Oyer: Will Trump Pardon Ghislaine Maxwell?",
+          "publication_id": 4408534,
+          "html_sha256": "00ff3806b0dc9da803ba0e707fa71add4ee33071a8c99332c6aac99968075806"
+        },
+        {
+          "url": "https://www.lawyeroyer.com/p/six-months-post-firing",
+          "reason": "neighboring dated post",
+          "post_id": "173139792",
+          "post_date": "2025-09-08T23:46:36.549Z",
+          "type": "newsletter",
+          "title": "Six months post-firing",
+          "publication_id": 4408534,
+          "html_sha256": "3003294cd846d70a4058eff14a27bd9e688b956b123f862b395e74b54af1aecd"
+        },
+        {
+          "url": "https://www.lawyeroyer.com/p/live-with-katie-couric",
+          "reason": "neighboring dated post",
+          "post_id": "174631847",
+          "post_date": "2025-09-26T18:32:17.149Z",
+          "type": "podcast",
+          "title": "Live with Katie Couric",
+          "publication_id": 4408534,
+          "html_sha256": "62d11185776960a638c2ef6eb1311e2417879452bddf9a6d322b166255215737"
+        },
+        {
+          "url": "https://www.lawyeroyer.com/p/public-defenders-will-save-us",
+          "reason": "neighboring dated post",
+          "post_id": "177801169",
+          "post_date": "2025-11-02T16:20:20.394Z",
+          "type": "newsletter",
+          "title": "Public Defenders Will Save Us",
+          "publication_id": 4408534,
+          "html_sha256": "00edb62e3b583a70df4c528e59fde6142ac2466dbe23f539781dbd2adaffc4ce"
+        },
+        {
+          "url": "https://www.lawyeroyer.com/p/todd-blanches-confirmation-hearing",
+          "reason": "neighboring dated post",
+          "post_id": "208251866",
+          "post_date": "2026-07-23T20:40:47.521Z",
+          "type": "podcast",
+          "title": "Todd Blanche's confirmation hearing: a conversation with Liz Oyer",
+          "publication_id": 4408534,
+          "html_sha256": "97ab69974f0aef303d12466ce7486d57fe14e7d89813ee054892160ba40d1626"
+        },
+        {
+          "url": "https://www.lawyeroyer.com/p/trumps-secret-pardons",
+          "reason": "neighboring dated post",
+          "post_id": "214571406",
+          "post_date": "2026-09-08T20:31:52.514Z",
+          "type": "newsletter",
+          "title": "Trump’s Secret Pardons",
+          "publication_id": 4408534,
+          "html_sha256": "bb3bddb18ec225284ee7d6ade1b261ee0fac3acec96d5a409abb3c3aab4db6f3"
+        }
+      ]
+    }
+  ],
+  "interpretation": "Consistent with gaps in the publicly available newsletter/post archive, rather than an observed scraper omission. This cannot prove the writer never published and later deleted, delisted or moved something, nor cover Notes, off-platform content, or updates made to standing resource pages. Retain zero counts and mark the months as live-archive checked.",
+  "data_changed": false,
+  "new_model_api_calls": 0,
+  "new_api_spending_usd": 0
+}

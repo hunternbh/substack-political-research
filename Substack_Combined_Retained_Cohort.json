@@ -1,5 +1,5 @@
 {
-  "prepared_at_utc": "2026-10-19T18:55:13.212651+00:00",
+  "prepared_at_utc": "2026-10-19T19:03:18.973792+00:00",
   "scope": "Combined retained sample from the original top fifty and the completed ranks 51–100 expansion.",
   "rule": {
     "month_high_restriction": "restricted_body / post_records > 0.50, evaluated exactly as 2*restricted_body > post_records",
@@ -30812,5 +30812,14 @@
       }
     ],
     "interpretation": "These gaps are already absent from returned saved archive pages, rather than posts lost during database ingestion. This does not distinguish a publishing break, removed/migrated content, or omissions in Substack archive responses, and does not prove the source archive complete."
+  },
+  "live_empty_month_check": {
+    "source": "Substack_Retained_Live_Archive_Check.json",
+    "checked_at_utc": "2026-10-19T19:03:17.864150+00:00",
+    "checked_months": 11,
+    "months_with_live_archive_posts": 0,
+    "missing_original_posts_found": 0,
+    "saved_original_posts_matched": 809,
+    "interpretation": "Consistent with gaps in the publicly available newsletter/post archive, rather than an observed scraper omission. This cannot prove the writer never published and later deleted, delisted or moved something, nor cover Notes, off-platform content, or updates made to standing resource pages. Retain zero counts and mark the months as live-archive checked."
   }
 }
