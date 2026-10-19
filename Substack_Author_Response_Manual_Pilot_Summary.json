@@ -1,0 +1,251 @@
+{
+  "all": {
+    "n": 116,
+    "publications": 31,
+    "discussions": 93,
+    "accounts": 111,
+    "nested_focals": 33,
+    "no_direct_nonself_7d": 28,
+    "no_any_nonself_7d": 27,
+    "strict_author_direct_7d": 71,
+    "strict_author_any_7d": 82,
+    "primary_account_any_7d": 0,
+    "missing_child_flag_cases": 0,
+    "political_groups": {
+      "Mixed or heterodox": 7,
+      "Current right or conservative": 24,
+      "Broad left or liberal": 78,
+      "Unresolved / insufficient policy evidence": 1,
+      "Center or moderate liberal": 6
+    },
+    "strict_direct_response_styles": {
+      "agree": 21,
+      "answer": 14,
+      "boundary_policing": 5,
+      "clarify": 7,
+      "coalition_credentials": 1,
+      "coalition_service": 1,
+      "correct_reader": 8,
+      "correction_claim": 1,
+      "defend": 24,
+      "defend_independence": 1,
+      "moderation_warning": 1,
+      "other": 1,
+      "rebuke": 10,
+      "redirect": 3,
+      "reject_loyalty": 2,
+      "thanks": 24
+    }
+  },
+  "random_baseline": {
+    "n": 32,
+    "publications": 16,
+    "discussions": 32,
+    "accounts": 32,
+    "nested_focals": 17,
+    "no_direct_nonself_7d": 24,
+    "no_any_nonself_7d": 24,
+    "strict_author_direct_7d": 1,
+    "strict_author_any_7d": 1,
+    "primary_account_any_7d": 0,
+    "missing_child_flag_cases": 0,
+    "political_groups": {
+      "Broad left or liberal": 14,
+      "Current right or conservative": 12,
+      "Center or moderate liberal": 2,
+      "Mixed or heterodox": 4
+    },
+    "strict_direct_response_styles": {
+      "boundary_policing": 1,
+      "rebuke": 1
+    }
+  },
+  "writer_loyalty": {
+    "n": 3,
+    "publications": 3,
+    "discussions": 3,
+    "accounts": 3,
+    "nested_focals": 1,
+    "no_direct_nonself_7d": 0,
+    "no_any_nonself_7d": 0,
+    "strict_author_direct_7d": 3,
+    "strict_author_any_7d": 3,
+    "primary_account_any_7d": 0,
+    "missing_child_flag_cases": 0,
+    "political_groups": {
+      "Current right or conservative": 1,
+      "Broad left or liberal": 2
+    },
+    "strict_direct_response_styles": {
+      "boundary_policing": 1,
+      "coalition_credentials": 1,
+      "coalition_service": 1,
+      "correct_reader": 1,
+      "defend": 1,
+      "rebuke": 2,
+      "reject_loyalty": 2
+    }
+  },
+  "peer_loyalty": {
+    "n": 1,
+    "publications": 1,
+    "discussions": 1,
+    "accounts": 1,
+    "nested_focals": 0,
+    "no_direct_nonself_7d": 0,
+    "no_any_nonself_7d": 0,
+    "strict_author_direct_7d": 1,
+    "strict_author_any_7d": 1,
+    "primary_account_any_7d": 0,
+    "missing_child_flag_cases": 0,
+    "political_groups": {
+      "Broad left or liberal": 1
+    },
+    "strict_direct_response_styles": {
+      "boundary_policing": 1,
+      "correct_reader": 1
+    }
+  },
+  "ordinary_criticism": {
+    "n": 30,
+    "publications": 18,
+    "discussions": 26,
+    "accounts": 29,
+    "nested_focals": 8,
+    "no_direct_nonself_7d": 2,
+    "no_any_nonself_7d": 2,
+    "strict_author_direct_7d": 24,
+    "strict_author_any_7d": 28,
+    "primary_account_any_7d": 0,
+    "missing_child_flag_cases": 0,
+    "political_groups": {
+      "Broad left or liberal": 22,
+      "Current right or conservative": 4,
+      "Mixed or heterodox": 3,
+      "Center or moderate liberal": 1
+    },
+    "strict_direct_response_styles": {
+      "agree": 7,
+      "answer": 2,
+      "boundary_policing": 2,
+      "clarify": 5,
+      "correct_reader": 5,
+      "correction_claim": 1,
+      "defend": 19,
+      "moderation_warning": 1,
+      "rebuke": 6,
+      "redirect": 1,
+      "thanks": 4
+    }
+  },
+  "role_boundary_sensitivity": {
+    "n": 1,
+    "publications": 1,
+    "discussions": 1,
+    "accounts": 1,
+    "nested_focals": 0,
+    "no_direct_nonself_7d": 0,
+    "no_any_nonself_7d": 0,
+    "strict_author_direct_7d": 1,
+    "strict_author_any_7d": 1,
+    "primary_account_any_7d": 0,
+    "missing_child_flag_cases": 0,
+    "political_groups": {
+      "Broad left or liberal": 1
+    },
+    "strict_direct_response_styles": {
+      "clarify": 1,
+      "defend": 1,
+      "thanks": 1
+    }
+  },
+  "initial": {
+    "n": 104,
+    "publications": 31,
+    "discussions": 92,
+    "accounts": 102,
+    "nested_focals": 28,
+    "no_direct_nonself_7d": 25,
+    "no_any_nonself_7d": 24,
+    "strict_author_direct_7d": 65,
+    "strict_author_any_7d": 73,
+    "primary_account_any_7d": 0,
+    "missing_child_flag_cases": 0,
+    "political_groups": {
+      "Mixed or heterodox": 7,
+      "Current right or conservative": 23,
+      "Broad left or liberal": 67,
+      "Unresolved / insufficient policy evidence": 1,
+      "Center or moderate liberal": 6
+    },
+    "strict_direct_response_styles": {
+      "agree": 20,
+      "answer": 12,
+      "boundary_policing": 4,
+      "clarify": 7,
+      "coalition_credentials": 1,
+      "coalition_service": 1,
+      "correct_reader": 6,
+      "correction_claim": 1,
+      "defend": 23,
+      "defend_independence": 1,
+      "moderation_warning": 1,
+      "other": 1,
+      "rebuke": 10,
+      "redirect": 3,
+      "reject_loyalty": 2,
+      "thanks": 23
+    }
+  },
+  "adaptive_supplement": {
+    "n": 12,
+    "publications": 3,
+    "discussions": 3,
+    "accounts": 10,
+    "nested_focals": 5,
+    "no_direct_nonself_7d": 3,
+    "no_any_nonself_7d": 3,
+    "strict_author_direct_7d": 6,
+    "strict_author_any_7d": 9,
+    "primary_account_any_7d": 0,
+    "missing_child_flag_cases": 0,
+    "political_groups": {
+      "Current right or conservative": 1,
+      "Broad left or liberal": 11
+    },
+    "strict_direct_response_styles": {
+      "agree": 1,
+      "answer": 2,
+      "boundary_policing": 1,
+      "correct_reader": 2,
+      "defend": 1,
+      "thanks": 1
+    }
+  },
+  "interpretation_audit": {
+    "reviewed_response_pairs": 115,
+    "unique_response_texts": 110,
+    "strict_author_response_pairs": 99,
+    "strict_author_unique_texts": 94,
+    "strict_author_indirect_pairs": 28,
+    "indirect_pairs_still_addressing_initial_focal": 2,
+    "indirect_pairs_addressing_intervening_node_or_uncertain": 26
+  },
+  "selection": {
+    "queue_n": 3740,
+    "initial_n": 104,
+    "adaptive_supplement_n": 12,
+    "random_baseline_n": 32,
+    "baseline_publications": 16,
+    "design": "Two response-independent hash draws per prespecified publication from the existing 20/publication random arm. This is an equal-publication, purposive-publication baseline, not a corpus-proportional sample. Initial enrichment deliberately selects author replies and critical-looking text. Adaptive supplement is all fresh queued eligible comments in three selected discussions. Do not compare reply rates between arms as if random.",
+    "context": "All focal and immediate-parent texts read in full; saved article leads and relevant passages reviewed. Full saved prose read for Sykes, Williamson, Argument role-boundary article and Wonkette boundary dispute. Not all 93 article texts read in full; short prose can be previews/podcast introductions. No external models used.",
+    "coder": "One assistant; not independent multi-coder validation. Claim labels frozen before descendant response-text review; selection arm reveals reply existence, so not fully blinded."
+  },
+  "finding": "Three clear writer-directed loyalty disputes yield three direct author response episodes. Two concern electoral unity and one perceived betrayal of prior Biden support. They do not establish a differential response-rate or harshness effect; ordinary criticism also gets sharp rebukes. Writers contest how to serve a shared coalition, defend editorial judgment, and police discourse boundaries.",
+  "money": {
+    "paid_api_calls": 0,
+    "new_api_spend_usd": 0,
+    "mode": "Saved files and local Python only; no model inference."
+  },
+  "created_utc": "2026-10-19T21:33:58.581877+00:00"
+}
